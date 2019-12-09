@@ -1,0 +1,1870 @@
+orderId,paymentMethodId,transactionAmount,transactionFailed,transactionId,paymentMethodIssuer,paymentMethodProvider,paymentMethodRegistrationFailure,paymentMethodType,orderAmount,orderShippingAddress,orderState,fraudulent,customerBillingAddress,customerDevice,customerEmail,customerIPAddress,customerPhone
+vjbdvd,wt07xm68b,18,False,a9lcj51r,Citizens First Banks,JCB 16 digit,True,card,18,"5493 Jones Islands
+Brownside, CA 51896",pending,False,"5493 Jones Islands
+Brownside, CA 51896",yyeiaxpltf82440jnb3v,josephhoward@yahoo.com,8.129.104.40,400-108-5415
+yp6x27,wt07xm68b,26,False,y4wcv03i,Citizens First Banks,JCB 16 digit,True,card,26,"5493 Jones Islands
+Brownside, CA 51896",fulfilled,False,"5493 Jones Islands
+Brownside, CA 51896",yyeiaxpltf82440jnb3v,josephhoward@yahoo.com,8.129.104.40,400-108-5415
+nlghpa,41ug157xz,45,False,5mi94sfw,Bastion Banks,American Express,False,bitcoin,45,"898 Henry Ports
+New Keithview, CA 95893-2497",fulfilled,True,"356 Elizabeth Inlet Suite 120
+Port Joshuabury, NM 37681",r0jpm7xaeqqa3kr6mzum,evansjeffery@yahoo.com,219.173.211.202,1-788-091-7546
+uw0eeb,41ug157xz,23,False,br8ba1nu,Bastion Banks,American Express,False,bitcoin,23,"356 Elizabeth Inlet Suite 120
+Port Joshuabury, NM 37681",fulfilled,True,"356 Elizabeth Inlet Suite 120
+Port Joshuabury, NM 37681",r0jpm7xaeqqa3kr6mzum,evansjeffery@yahoo.com,219.173.211.202,1-788-091-7546
+bn44oh,y3xp697jx,43,True,a33145ss,Solace Banks,VISA 16 digit,True,bitcoin,43,"5093 Bryan Forks
+Joshuaton, FM 01565-9801",fulfilled,True,"356 Elizabeth Inlet Suite 120
+Port Joshuabury, NM 37681",r0jpm7xaeqqa3kr6mzum,evansjeffery@yahoo.com,219.173.211.202,1-788-091-7546
+yk34y2,8pneoi03z,33,False,q3lyvbza,Bastion Banks,JCB 16 digit,False,card,33,"8478 Sean Ridges Apt. 441
+Davisberg, PR 72250",failed,False,"8478 Sean Ridges Apt. 441
+Davisberg, PR 72250",4m7h5ipl1shyavt6vv2r,andersonwilliam@yahoo.com,67b7:3db8:67e0:3bea:b9d0:90c1:2b60:b9f0,024.420.0375
+28v6b0,8pneoi03z,24,True,3alf9irw,Bastion Banks,JCB 16 digit,False,card,24,"8478 Sean Ridges Apt. 441
+Davisberg, PR 72250",fulfilled,False,"8478 Sean Ridges Apt. 441
+Davisberg, PR 72250",4m7h5ipl1shyavt6vv2r,andersonwilliam@yahoo.com,67b7:3db8:67e0:3bea:b9d0:90c1:2b60:b9f0,024.420.0375
+28v6b0,8pneoi03z,24,False,69w9wymx,Bastion Banks,JCB 16 digit,False,card,24,"8478 Sean Ridges Apt. 441
+Davisberg, PR 72250",fulfilled,False,"8478 Sean Ridges Apt. 441
+Davisberg, PR 72250",4m7h5ipl1shyavt6vv2r,andersonwilliam@yahoo.com,67b7:3db8:67e0:3bea:b9d0:90c1:2b60:b9f0,024.420.0375
+itnk8y,8pneoi03z,25,False,uo3slwh7,Bastion Banks,JCB 16 digit,False,card,25,"22396 Victor Lights
+Carsonstad, MO 93914",fulfilled,False,"8478 Sean Ridges Apt. 441
+Davisberg, PR 72250",4m7h5ipl1shyavt6vv2r,andersonwilliam@yahoo.com,67b7:3db8:67e0:3bea:b9d0:90c1:2b60:b9f0,024.420.0375
+itnk8y,dluy3jka0,25,True,pegqc4ud,His Majesty Bank Corp.,Discover,False,card,25,"22396 Victor Lights
+Carsonstad, MO 93914",fulfilled,False,"8478 Sean Ridges Apt. 441
+Davisberg, PR 72250",4m7h5ipl1shyavt6vv2r,andersonwilliam@yahoo.com,67b7:3db8:67e0:3bea:b9d0:90c1:2b60:b9f0,024.420.0375
+fbz9ep,pdxjdwui4,34,False,vx4cjc27,Grand Credit Corporation,Voyager,False,card,34,"7769 Elizabeth Bridge Apt. 343
+Nortonstad, FM 51359",fulfilled,False,"7769 Elizabeth Bridge Apt. 343
+Nortonstad, FM 51359",slovx60t0i558may4ks0,rubenjuarez@yahoo.com,95de:8565:5a66:792c:26e0:6cfb:7d87:11af,670.664.8168x94985
+7odnn6,pdxjdwui4,26,False,yiay9b0n,Grand Credit Corporation,Voyager,False,card,26,"7769 Elizabeth Bridge Apt. 343
+Nortonstad, FM 51359",fulfilled,False,"7769 Elizabeth Bridge Apt. 343
+Nortonstad, FM 51359",slovx60t0i558may4ks0,rubenjuarez@yahoo.com,95de:8565:5a66:792c:26e0:6cfb:7d87:11af,670.664.8168x94985
+audx7o,pdxjdwui4,25,False,sn3v0ql2,Grand Credit Corporation,Voyager,False,card,25,"428 Ricardo Mountain
+Port Lorihaven, UT 07665-3981",fulfilled,False,"7769 Elizabeth Bridge Apt. 343
+Nortonstad, FM 51359",slovx60t0i558may4ks0,rubenjuarez@yahoo.com,95de:8565:5a66:792c:26e0:6cfb:7d87:11af,670.664.8168x94985
+56h7iw,olr4zf09x,71,False,q8j3dgni,Grand Credit Corporation,VISA 13 digit,False,card,71,"148 Russell Lodge Apt. 445
+Port Jenniferside, TN 60556-0871",fulfilled,True,"148 Russell Lodge Apt. 445
+Port Jenniferside, TN 60556-0871",j0pd24k5h8dl2fqu0cz4,uchen@malone.com,196.89.235.192,1-981-877-0870
+kowj1v,gehl28i8u,66,True,xjulqy8x,Bastion Banks,JCB 16 digit,False,card,66,"148 Russell Lodge Apt. 445
+Port Jenniferside, TN 60556-0871",fulfilled,True,"148 Russell Lodge Apt. 445
+Port Jenniferside, TN 60556-0871",j0pd24k5h8dl2fqu0cz4,uchen@malone.com,196.89.235.192,1-981-877-0870
+wlznfu,gehl28i8u,69,False,rvm65vr1,Bastion Banks,JCB 16 digit,False,card,69,"148 Russell Lodge Apt. 445
+Port Jenniferside, TN 60556-0871",failed,True,"148 Russell Lodge Apt. 445
+Port Jenniferside, TN 60556-0871",j0pd24k5h8dl2fqu0cz4,uchen@malone.com,196.89.235.192,1-981-877-0870
+hm3rth,76bw9eqg2,46,True,kckrvagp,His Majesty Bank Corp.,VISA 16 digit,False,apple pay,46,"620 Alexander Views
+Michaelstad, AK 94959-7484",fulfilled,True,"148 Russell Lodge Apt. 445
+Port Jenniferside, TN 60556-0871",j0pd24k5h8dl2fqu0cz4,uchen@malone.com,196.89.235.192,1-981-877-0870
+xwo0al,76bw9eqg2,59,False,yd80pfko,His Majesty Bank Corp.,VISA 16 digit,False,apple pay,59,"148 Russell Lodge Apt. 445
+Port Jenniferside, TN 60556-0871",fulfilled,True,"148 Russell Lodge Apt. 445
+Port Jenniferside, TN 60556-0871",j0pd24k5h8dl2fqu0cz4,uchen@malone.com,196.89.235.192,1-981-877-0870
+vvq05w,s6escw45g,68,False,2slep8t9,Solace Banks,JCB 16 digit,False,card,68,"148 Russell Lodge Apt. 445
+Port Jenniferside, TN 60556-0871",fulfilled,True,"148 Russell Lodge Apt. 445
+Port Jenniferside, TN 60556-0871",j0pd24k5h8dl2fqu0cz4,uchen@malone.com,196.89.235.192,1-981-877-0870
+2528x8,w1i1zq3rg,32,False,ckk3ux58,Grand Credit Corporation,American Express,False,apple pay,32,"148 Russell Lodge Apt. 445
+Port Jenniferside, TN 60556-0871",fulfilled,True,"148 Russell Lodge Apt. 445
+Port Jenniferside, TN 60556-0871",j0pd24k5h8dl2fqu0cz4,uchen@malone.com,196.89.235.192,1-981-877-0870
+vq7j5b,n5fj5bc0e,25,False,67qcpl0r,p,VISA 16 digit,False,card,25,"764 Collier Springs
+Jackfurt, NE 95955-5328",pending,True,"65233 Hutchinson Mountains
+Martinezside, OR 75588",hbww39m1wenbq4ymjhsx,robinsoncynthia@dunn.com,43.166.163.164,+65(5)8997489788
+sq7rk9,je76d0ulj,40,True,9jutaun8,x,VISA 13 digit,False,apple pay,40,"9447 Cook Extensions
+Rebeccahaven, NY 78148-0238",fulfilled,True,"3960 Emily Fort
+Staceytown, AR 21817-3325",up7afvce5v0omniqlevq,samuel15@saunders-rhodes.com,33.67.35.30,05045239487
+sq7rk9,je76d0ulj,40,False,lla8uo92,x,VISA 13 digit,False,apple pay,40,"9447 Cook Extensions
+Rebeccahaven, NY 78148-0238",fulfilled,True,"3960 Emily Fort
+Staceytown, AR 21817-3325",up7afvce5v0omniqlevq,samuel15@saunders-rhodes.com,33.67.35.30,05045239487
+kanub7,yxsf33ipw,65,True,cfoevtai,Bulwark Trust Corp.,Voyager,False,bitcoin,65,"484 Pamela Pass
+Lake Jessicaview, WI 12942-9074",fulfilled,True,"484 Pamela Pass
+Lake Jessicaview, WI 12942-9074",rjb0adai34izqvys4938,johnlowery@gmail.com,212.144.68.190,044-642-9860
+kanub7,8xex97krx,65,False,300mewnx,Her Majesty Trust,VISA 16 digit,False,card,65,"484 Pamela Pass
+Lake Jessicaview, WI 12942-9074",fulfilled,True,"484 Pamela Pass
+Lake Jessicaview, WI 12942-9074",rjb0adai34izqvys4938,johnlowery@gmail.com,212.144.68.190,044-642-9860
+605pbl,yxsf33ipw,36,False,kg0emdbe,Bulwark Trust Corp.,Voyager,False,bitcoin,36,"484 Pamela Pass
+Lake Jessicaview, WI 12942-9074",failed,True,"484 Pamela Pass
+Lake Jessicaview, WI 12942-9074",rjb0adai34izqvys4938,johnlowery@gmail.com,212.144.68.190,044-642-9860
+7fs5td,yxsf33ipw,68,False,crwqqfpi,Bulwark Trust Corp.,Voyager,False,bitcoin,68,"484 Pamela Pass
+Lake Jessicaview, WI 12942-9074",fulfilled,True,"484 Pamela Pass
+Lake Jessicaview, WI 12942-9074",rjb0adai34izqvys4938,johnlowery@gmail.com,212.144.68.190,044-642-9860
+ccuh4k,8xex97krx,74,True,u2xbyl92,Her Majesty Trust,VISA 16 digit,False,card,74,"27513 Betty Gardens Suite 901
+Stewartport, CA 27936-0627",fulfilled,True,"484 Pamela Pass
+Lake Jessicaview, WI 12942-9074",rjb0adai34izqvys4938,johnlowery@gmail.com,212.144.68.190,044-642-9860
+lajvhn,8xex97krx,55,False,c5w6btep,Her Majesty Trust,VISA 16 digit,False,card,55,"484 Pamela Pass
+Lake Jessicaview, WI 12942-9074",fulfilled,True,"484 Pamela Pass
+Lake Jessicaview, WI 12942-9074",rjb0adai34izqvys4938,johnlowery@gmail.com,212.144.68.190,044-642-9860
+mtg9kj,yk3gx9knx,25,False,idd9amrw,Her Majesty Trust,Discover,False,card,25,"USNS Price
+FPO AE 14661",fulfilled,False,"USNS Price
+FPO AE 14661",yz4l2bgbvzra5eb5qcan,jameslandry@rodriguez.com,c899:ff67:6864:4365:def3:3023:655f:5181,1-885-168-1310x338
+1b71xd,yk3gx9knx,21,True,sihnojhc,Her Majesty Trust,Discover,False,card,21,"USNS Price
+FPO AE 14661",pending,False,"USNS Price
+FPO AE 14661",yz4l2bgbvzra5eb5qcan,jameslandry@rodriguez.com,c899:ff67:6864:4365:def3:3023:655f:5181,1-885-168-1310x338
+1b71xd,yk3gx9knx,21,True,2ta3i8e2,Her Majesty Trust,Discover,False,card,21,"USNS Price
+FPO AE 14661",pending,False,"USNS Price
+FPO AE 14661",yz4l2bgbvzra5eb5qcan,jameslandry@rodriguez.com,c899:ff67:6864:4365:def3:3023:655f:5181,1-885-168-1310x338
+1b71xd,yk3gx9knx,21,True,ksmxqqg3,Her Majesty Trust,Discover,False,card,21,"USNS Price
+FPO AE 14661",pending,False,"USNS Price
+FPO AE 14661",yz4l2bgbvzra5eb5qcan,jameslandry@rodriguez.com,c899:ff67:6864:4365:def3:3023:655f:5181,1-885-168-1310x338
+1b71xd,yk3gx9knx,21,False,8pssnrcy,Her Majesty Trust,Discover,False,card,21,"USNS Price
+FPO AE 14661",pending,False,"USNS Price
+FPO AE 14661",yz4l2bgbvzra5eb5qcan,jameslandry@rodriguez.com,c899:ff67:6864:4365:def3:3023:655f:5181,1-885-168-1310x338
+a0dh26,4nt3vg6nr,40,True,i2xemksa,c,Discover,False,card,40,"256 Vang Prairie Suite 748
+West Troyland, IA 65490-2272",fulfilled,True,"27061 Wright Forks
+Craigland, MN 59915",qmntgod0numz62gzbla7,bowenwilliam@yahoo.com,231.91.253.19,(128)248-4091x37789
+a0dh26,4nt3vg6nr,40,False,fkxbbt2y,c,Discover,False,card,40,"256 Vang Prairie Suite 748
+West Troyland, IA 65490-2272",fulfilled,True,"27061 Wright Forks
+Craigland, MN 59915",qmntgod0numz62gzbla7,bowenwilliam@yahoo.com,231.91.253.19,(128)248-4091x37789
+izik2o,4nt3vg6nr,18,False,ud4zmsnq,c,Discover,False,card,18,"27061 Wright Forks
+Craigland, MN 59915",pending,True,"27061 Wright Forks
+Craigland, MN 59915",qmntgod0numz62gzbla7,bowenwilliam@yahoo.com,231.91.253.19,(128)248-4091x37789
+2sumqh,4nt3vg6nr,46,False,wnlc7kcq,c,Discover,False,card,46,"27061 Wright Forks
+Craigland, MN 59915",failed,True,"27061 Wright Forks
+Craigland, MN 59915",qmntgod0numz62gzbla7,bowenwilliam@yahoo.com,231.91.253.19,(128)248-4091x37789
+kcmymd,4nt3vg6nr,12,False,uqgebkxo,c,Discover,False,card,12,"27061 Wright Forks
+Craigland, MN 59915",fulfilled,True,"27061 Wright Forks
+Craigland, MN 59915",qmntgod0numz62gzbla7,bowenwilliam@yahoo.com,231.91.253.19,(128)248-4091x37789
+mocbj3,4nt3vg6nr,11,True,9u7gmxy2,c,Discover,False,card,11,"27061 Wright Forks
+Craigland, MN 59915",fulfilled,True,"27061 Wright Forks
+Craigland, MN 59915",qmntgod0numz62gzbla7,bowenwilliam@yahoo.com,231.91.253.19,(128)248-4091x37789
+ji75jj,14t4urgqg,12,False,46ijodjq,Vertex Bancorp,Discover,False,card,12,"5918 Jeremy Spur Apt. 524
+Martinborough, SC 73839-0349",fulfilled,False,"46383 Matthew Track Apt. 220
+Romanburgh, DC 95125",2ngkzu1idwxintmxwmgn,ksummers@hotmail.com,184.97.57.11,1-023-275-4692
+ha14ey,14t4urgqg,49,True,33jfoo59,Vertex Bancorp,Discover,False,card,49,"46383 Matthew Track Apt. 220
+Romanburgh, DC 95125",fulfilled,False,"46383 Matthew Track Apt. 220
+Romanburgh, DC 95125",2ngkzu1idwxintmxwmgn,ksummers@hotmail.com,184.97.57.11,1-023-275-4692
+ha14ey,ahnb9wv33,49,False,i8bk4lna,Her Majesty Trust,VISA 13 digit,False,card,49,"46383 Matthew Track Apt. 220
+Romanburgh, DC 95125",fulfilled,False,"46383 Matthew Track Apt. 220
+Romanburgh, DC 95125",2ngkzu1idwxintmxwmgn,ksummers@hotmail.com,184.97.57.11,1-023-275-4692
+5lyh0x,anpl44kz2,30,False,xo1gdp22,Bastion Banks,American Express,False,card,30,"7792 Lambert Flats
+Jessicaland, OK 69264",fulfilled,False,"46383 Matthew Track Apt. 220
+Romanburgh, DC 95125",2ngkzu1idwxintmxwmgn,ksummers@hotmail.com,184.97.57.11,1-023-275-4692
+ni3keo,ahnb9wv33,45,True,7p73brx2,Her Majesty Trust,VISA 13 digit,False,card,45,"46383 Matthew Track Apt. 220
+Romanburgh, DC 95125",fulfilled,False,"46383 Matthew Track Apt. 220
+Romanburgh, DC 95125",2ngkzu1idwxintmxwmgn,ksummers@hotmail.com,184.97.57.11,1-023-275-4692
+vvo42o,ahnb9wv33,28,True,zwl18ddd,Her Majesty Trust,VISA 13 digit,False,card,28,"46383 Matthew Track Apt. 220
+Romanburgh, DC 95125",fulfilled,False,"46383 Matthew Track Apt. 220
+Romanburgh, DC 95125",2ngkzu1idwxintmxwmgn,ksummers@hotmail.com,184.97.57.11,1-023-275-4692
+vvo42o,12sooz8hm,28,False,i8zlhilq,Vertex Bancorp,Maestro,False,bitcoin,28,"46383 Matthew Track Apt. 220
+Romanburgh, DC 95125",fulfilled,False,"46383 Matthew Track Apt. 220
+Romanburgh, DC 95125",2ngkzu1idwxintmxwmgn,ksummers@hotmail.com,184.97.57.11,1-023-275-4692
+abc26t,9pfrhknoz,10,False,fgobyd98,Citizens First Banks,VISA 16 digit,False,bitcoin,10,"PSC 4895, Box 9024
+APO AA 50628-5796",fulfilled,False,"67636 Renee Islands Suite 307
+Teresaview, ND 09042",j8cp1uydkuyza2eo0mir,christineklein@wright-boyd.org,4304:521a:e1c3:766b:21f3:ac3:4ab2:5a2,897-464-6425x941
+bdzhkd,ow9u8ogs4,45,False,c4fephmj,Vertex Bancorp,VISA 16 digit,False,card,45,"67636 Renee Islands Suite 307
+Teresaview, ND 09042",pending,False,"67636 Renee Islands Suite 307
+Teresaview, ND 09042",j8cp1uydkuyza2eo0mir,christineklein@wright-boyd.org,4304:521a:e1c3:766b:21f3:ac3:4ab2:5a2,897-464-6425x941
+l8smyt,ow9u8ogs4,46,False,07hkhmmf,Vertex Bancorp,VISA 16 digit,False,card,46,"957 Sheila Prairie
+West Jacquelineburgh, DE 46455-3868",fulfilled,False,"67636 Renee Islands Suite 307
+Teresaview, ND 09042",j8cp1uydkuyza2eo0mir,christineklein@wright-boyd.org,4304:521a:e1c3:766b:21f3:ac3:4ab2:5a2,897-464-6425x941
+0esxhp,ow9u8ogs4,16,False,jz6qu6zy,Vertex Bancorp,VISA 16 digit,False,card,16,"355 Tamara Plains
+North Judyton, LA 04531",fulfilled,False,"67636 Renee Islands Suite 307
+Teresaview, ND 09042",j8cp1uydkuyza2eo0mir,christineklein@wright-boyd.org,4304:521a:e1c3:766b:21f3:ac3:4ab2:5a2,897-464-6425x941
+ooxrwm,o2ct2h9fp,43,True,bhil44kr,Her Majesty Trust,Mastercard,False,card,43,"PSC 5530, Box 9664
+APO AE 46314",fulfilled,False,"7541 Olson Glens
+Ballshire, IL 29415",qsxqbn6qjxkni7f813qn,meganwalters@chavez.com,98.229.160.246,(522)133-8741x643
+ooxrwm,o2ct2h9fp,43,False,nw0a0y9s,Her Majesty Trust,Mastercard,False,card,43,"PSC 5530, Box 9664
+APO AE 46314",fulfilled,False,"7541 Olson Glens
+Ballshire, IL 29415",qsxqbn6qjxkni7f813qn,meganwalters@chavez.com,98.229.160.246,(522)133-8741x643
+2p3zor,o2ct2h9fp,34,True,enl54gvp,Her Majesty Trust,Mastercard,False,card,34,"00287 Davidson Stravenue
+New Staceytown, ND 18845",fulfilled,False,"7541 Olson Glens
+Ballshire, IL 29415",qsxqbn6qjxkni7f813qn,meganwalters@chavez.com,98.229.160.246,(522)133-8741x643
+2p3zor,o2ct2h9fp,34,False,hkcfpxan,Her Majesty Trust,Mastercard,False,card,34,"00287 Davidson Stravenue
+New Staceytown, ND 18845",fulfilled,False,"7541 Olson Glens
+Ballshire, IL 29415",qsxqbn6qjxkni7f813qn,meganwalters@chavez.com,98.229.160.246,(522)133-8741x643
+49zp0m,5a44rykx3,19,False,n7vnyysr,Solace Banks,VISA 16 digit,False,card,19,"813 Miller Lakes
+Lake Christina, SD 29778-1298",failed,False,"813 Miller Lakes
+Lake Christina, SD 29778-1298",lixwrlvcr4g5ht600dk9,caleb94@sutton.info,2efe:240f:cc33:306:8e47:b8d5:b466:f12a,07452086668
+eqpu3r,5a44rykx3,46,False,mx7hay87,Solace Banks,VISA 16 digit,False,card,46,"813 Miller Lakes
+Lake Christina, SD 29778-1298",fulfilled,False,"813 Miller Lakes
+Lake Christina, SD 29778-1298",lixwrlvcr4g5ht600dk9,caleb94@sutton.info,2efe:240f:cc33:306:8e47:b8d5:b466:f12a,07452086668
+gzlvco,5a44rykx3,39,False,vby375q9,Solace Banks,VISA 16 digit,False,card,39,"813 Miller Lakes
+Lake Christina, SD 29778-1298",fulfilled,False,"813 Miller Lakes
+Lake Christina, SD 29778-1298",lixwrlvcr4g5ht600dk9,caleb94@sutton.info,2efe:240f:cc33:306:8e47:b8d5:b466:f12a,07452086668
+p1yden,5a44rykx3,35,False,1ti2lm0o,Solace Banks,VISA 16 digit,False,card,35,"813 Miller Lakes
+Lake Christina, SD 29778-1298",fulfilled,False,"813 Miller Lakes
+Lake Christina, SD 29778-1298",lixwrlvcr4g5ht600dk9,caleb94@sutton.info,2efe:240f:cc33:306:8e47:b8d5:b466:f12a,07452086668
+bkvs1p,5a44rykx3,46,False,fwq4f8bn,Solace Banks,VISA 16 digit,False,card,46,"813 Miller Lakes
+Lake Christina, SD 29778-1298",failed,False,"813 Miller Lakes
+Lake Christina, SD 29778-1298",lixwrlvcr4g5ht600dk9,caleb94@sutton.info,2efe:240f:cc33:306:8e47:b8d5:b466:f12a,07452086668
+s7dg4a,7964l78jo,50,False,zcnztn97,a,VISA 16 digit,False,apple pay,50,"60769 Yang Fork
+Port Samanthachester, OH 10135-7083",fulfilled,True,"566 Courtney Stream
+Reedland, NH 84853",hmkn4nmfc5q5mgify2zw,gonzalesjackson@gmail.com,229.2.225.188,1-410-373-1228x129
+jlzkil,7964l78jo,41,False,zx8st0gu,a,VISA 16 digit,False,apple pay,41,"566 Courtney Stream
+Reedland, NH 84853",fulfilled,True,"566 Courtney Stream
+Reedland, NH 84853",hmkn4nmfc5q5mgify2zw,gonzalesjackson@gmail.com,229.2.225.188,1-410-373-1228x129
+f8bsyg,7964l78jo,44,False,fzvbpn58,a,VISA 16 digit,False,apple pay,44,"611 Steven Land Suite 843
+Loganhaven, NY 14012",fulfilled,True,"566 Courtney Stream
+Reedland, NH 84853",hmkn4nmfc5q5mgify2zw,gonzalesjackson@gmail.com,229.2.225.188,1-410-373-1228x129
+u3ogjs,7964l78jo,41,False,1wa1s613,a,VISA 16 digit,False,apple pay,41,"566 Courtney Stream
+Reedland, NH 84853",fulfilled,True,"566 Courtney Stream
+Reedland, NH 84853",hmkn4nmfc5q5mgify2zw,gonzalesjackson@gmail.com,229.2.225.188,1-410-373-1228x129
+giqilg,1lejsiqz7,12,True,koade5oa,Bastion Banks,JCB 16 digit,False,card,12,"812 Moss Radial Suite 844
+North Patriciaburgh, MH 13975",fulfilled,False,"812 Moss Radial Suite 844
+North Patriciaburgh, MH 13975",wb0uylp0rwy01x5j1jzd,dana09@yahoo.com,166.148.66.158,515.708.2280x105
+giqilg,ww9fq10ca,12,False,3cryzmi3,Solace Banks,JCB 16 digit,False,bitcoin,12,"812 Moss Radial Suite 844
+North Patriciaburgh, MH 13975",fulfilled,False,"812 Moss Radial Suite 844
+North Patriciaburgh, MH 13975",wb0uylp0rwy01x5j1jzd,dana09@yahoo.com,166.148.66.158,515.708.2280x105
+g56nmt,1lejsiqz7,33,True,okdmow3s,Bastion Banks,JCB 16 digit,False,card,33,"5145 Marquez Oval
+South Lisaborough, RI 54165",fulfilled,False,"812 Moss Radial Suite 844
+North Patriciaburgh, MH 13975",wb0uylp0rwy01x5j1jzd,dana09@yahoo.com,166.148.66.158,515.708.2280x105
+g56nmt,ww9fq10ca,33,True,wt1g1zul,Solace Banks,JCB 16 digit,False,bitcoin,33,"5145 Marquez Oval
+South Lisaborough, RI 54165",fulfilled,False,"812 Moss Radial Suite 844
+North Patriciaburgh, MH 13975",wb0uylp0rwy01x5j1jzd,dana09@yahoo.com,166.148.66.158,515.708.2280x105
+g56nmt,ww9fq10ca,33,False,2yzkbxnq,Solace Banks,JCB 16 digit,False,bitcoin,33,"5145 Marquez Oval
+South Lisaborough, RI 54165",fulfilled,False,"812 Moss Radial Suite 844
+North Patriciaburgh, MH 13975",wb0uylp0rwy01x5j1jzd,dana09@yahoo.com,166.148.66.158,515.708.2280x105
+2ai67b,1lejsiqz7,40,False,scls9w4j,Bastion Banks,JCB 16 digit,False,card,40,"812 Moss Radial Suite 844
+North Patriciaburgh, MH 13975",fulfilled,False,"812 Moss Radial Suite 844
+North Patriciaburgh, MH 13975",wb0uylp0rwy01x5j1jzd,dana09@yahoo.com,166.148.66.158,515.708.2280x105
+28xxko,6n2psn50k,34,False,jbnf5zpw,Fountain Financial Inc.,Voyager,False,card,34,"6174 Nicholas Cliffs Suite 855
+Websterview, MN 44283-0599",pending,False,"6174 Nicholas Cliffs Suite 855
+Websterview, MN 44283-0599",cq5wya63n1w79o0hlnpm,alec27@bell.com,128.61.46.131,895-224-8246x9667
+iyl91j,6n2psn50k,12,False,60kuyxra,Fountain Financial Inc.,Voyager,False,card,12,"6174 Nicholas Cliffs Suite 855
+Websterview, MN 44283-0599",fulfilled,False,"6174 Nicholas Cliffs Suite 855
+Websterview, MN 44283-0599",cq5wya63n1w79o0hlnpm,alec27@bell.com,128.61.46.131,895-224-8246x9667
+j7ene4,6n2psn50k,30,True,u6wa5ysx,Fountain Financial Inc.,Voyager,False,card,30,"6174 Nicholas Cliffs Suite 855
+Websterview, MN 44283-0599",fulfilled,False,"6174 Nicholas Cliffs Suite 855
+Websterview, MN 44283-0599",cq5wya63n1w79o0hlnpm,alec27@bell.com,128.61.46.131,895-224-8246x9667
+j7ene4,6n2psn50k,30,False,gj13pt1o,Fountain Financial Inc.,Voyager,False,card,30,"6174 Nicholas Cliffs Suite 855
+Websterview, MN 44283-0599",fulfilled,False,"6174 Nicholas Cliffs Suite 855
+Websterview, MN 44283-0599",cq5wya63n1w79o0hlnpm,alec27@bell.com,128.61.46.131,895-224-8246x9667
+j7ene4,366dsl3w0,30,True,vfrua0id,Her Majesty Trust,VISA 16 digit,False,card,30,"6174 Nicholas Cliffs Suite 855
+Websterview, MN 44283-0599",fulfilled,False,"6174 Nicholas Cliffs Suite 855
+Websterview, MN 44283-0599",cq5wya63n1w79o0hlnpm,alec27@bell.com,128.61.46.131,895-224-8246x9667
+mir5zf,366dsl3w0,22,False,jh5r2s3s,Her Majesty Trust,VISA 16 digit,False,card,22,"6174 Nicholas Cliffs Suite 855
+Websterview, MN 44283-0599",fulfilled,False,"6174 Nicholas Cliffs Suite 855
+Websterview, MN 44283-0599",cq5wya63n1w79o0hlnpm,alec27@bell.com,128.61.46.131,895-224-8246x9667
+p6g2g0,rqpuq19z6,11,False,5855qbk5,His Majesty Bank Corp.,Voyager,False,card,11,"1750 Alicia Shoals Apt. 000
+South Benjamin, ND 75373",fulfilled,False,"1750 Alicia Shoals Apt. 000
+South Benjamin, ND 75373",sj72s0k7wxdrxu3rcmba,juliecook@hotmail.com,61ba:a72b:5401:db1a:9833:d0da:254c:2369,1-412-734-7967x67388
+7y5qly,rqpuq19z6,14,False,6lf1jy8o,His Majesty Bank Corp.,Voyager,False,card,14,"1750 Alicia Shoals Apt. 000
+South Benjamin, ND 75373",fulfilled,False,"1750 Alicia Shoals Apt. 000
+South Benjamin, ND 75373",sj72s0k7wxdrxu3rcmba,juliecook@hotmail.com,61ba:a72b:5401:db1a:9833:d0da:254c:2369,1-412-734-7967x67388
+1d19rh,bcetnywn4,37,False,74b4ih1u,Her Majesty Trust,JCB 16 digit,False,card,37,"833 Mathis Prairie
+Fergusonview, MH 81934-1374",fulfilled,False,"34944 Glenn Mountain
+Sherryhaven, TN 36252",2vpovzopjoqppeqfa5nw,meganberry@clark.biz,73.182.31.59,1-991-846-6271x54037
+deh1ao,bcetnywn4,42,True,o4z2x2e9,Her Majesty Trust,JCB 16 digit,False,card,42,"34944 Glenn Mountain
+Sherryhaven, TN 36252",fulfilled,False,"34944 Glenn Mountain
+Sherryhaven, TN 36252",2vpovzopjoqppeqfa5nw,meganberry@clark.biz,73.182.31.59,1-991-846-6271x54037
+deh1ao,bcetnywn4,42,False,1u5d7k9y,Her Majesty Trust,JCB 16 digit,False,card,42,"34944 Glenn Mountain
+Sherryhaven, TN 36252",fulfilled,False,"34944 Glenn Mountain
+Sherryhaven, TN 36252",2vpovzopjoqppeqfa5nw,meganberry@clark.biz,73.182.31.59,1-991-846-6271x54037
+xdmwyo,bcetnywn4,11,False,85k8mjpo,Her Majesty Trust,JCB 16 digit,False,card,11,"34944 Glenn Mountain
+Sherryhaven, TN 36252",fulfilled,False,"34944 Glenn Mountain
+Sherryhaven, TN 36252",2vpovzopjoqppeqfa5nw,meganberry@clark.biz,73.182.31.59,1-991-846-6271x54037
+00z9c8,bcetnywn4,29,False,ubm4tzca,Her Majesty Trust,JCB 16 digit,False,card,29,"34944 Glenn Mountain
+Sherryhaven, TN 36252",fulfilled,False,"34944 Glenn Mountain
+Sherryhaven, TN 36252",2vpovzopjoqppeqfa5nw,meganberry@clark.biz,73.182.31.59,1-991-846-6271x54037
+f5vg4r,yngba9iss,31,False,6p2l2jxb,Rose Bancshares,JCB 16 digit,False,paypal,31,"238 Reeves Villages
+Leslieton, SD 12318-4476",fulfilled,False,"238 Reeves Villages
+Leslieton, SD 12318-4476",qx6nhdabeaj329zdri0o,psantiago@nelson.net,81.13.103.118,885.682.0863
+xxn508,1adbjdqx8,33,False,k5x38nss,Citizens First Banks,American Express,False,card,33,"357 Barbara Crossroad
+Jacobsburgh, WY 09289-9170",failed,False,"357 Barbara Crossroad
+Jacobsburgh, WY 09289-9170",y3m3px7h46gor851y1pu,harrisnicholas@mitchell-hancock.com,58.13.30.104,(922)411-5121x98410
+5vvhqu,1adbjdqx8,47,True,6mas9ujn,Citizens First Banks,American Express,False,card,47,"357 Barbara Crossroad
+Jacobsburgh, WY 09289-9170",fulfilled,False,"357 Barbara Crossroad
+Jacobsburgh, WY 09289-9170",y3m3px7h46gor851y1pu,harrisnicholas@mitchell-hancock.com,58.13.30.104,(922)411-5121x98410
+5vvhqu,llpmu63n4,47,False,gkolnfbh,His Majesty Bank Corp.,Mastercard,False,apple pay,47,"357 Barbara Crossroad
+Jacobsburgh, WY 09289-9170",fulfilled,False,"357 Barbara Crossroad
+Jacobsburgh, WY 09289-9170",y3m3px7h46gor851y1pu,harrisnicholas@mitchell-hancock.com,58.13.30.104,(922)411-5121x98410
+o5mg40,1adbjdqx8,25,False,vynq8mn9,Citizens First Banks,American Express,False,card,25,"357 Barbara Crossroad
+Jacobsburgh, WY 09289-9170",fulfilled,False,"357 Barbara Crossroad
+Jacobsburgh, WY 09289-9170",y3m3px7h46gor851y1pu,harrisnicholas@mitchell-hancock.com,58.13.30.104,(922)411-5121x98410
+dfwo2l,1adbjdqx8,25,False,3qr93r9x,Citizens First Banks,American Express,False,card,25,"357 Barbara Crossroad
+Jacobsburgh, WY 09289-9170",fulfilled,False,"357 Barbara Crossroad
+Jacobsburgh, WY 09289-9170",y3m3px7h46gor851y1pu,harrisnicholas@mitchell-hancock.com,58.13.30.104,(922)411-5121x98410
+dfwo2l,llpmu63n4,25,True,5ccytrgf,His Majesty Bank Corp.,Mastercard,False,apple pay,25,"357 Barbara Crossroad
+Jacobsburgh, WY 09289-9170",fulfilled,False,"357 Barbara Crossroad
+Jacobsburgh, WY 09289-9170",y3m3px7h46gor851y1pu,harrisnicholas@mitchell-hancock.com,58.13.30.104,(922)411-5121x98410
+j8w6hq,otujzzu3i,33,False,74rrit1l,Rose Bancshares,Diners Club / Carte Blanche,True,bitcoin,33,"07078 Brent Ways Apt. 999
+Alvarezshire, ND 82309",fulfilled,False,"07078 Brent Ways Apt. 999
+Alvarezshire, ND 82309",4hzaaor6es3iyuiavyio,davismike@hotmail.com,162.48.39.230,467-222-0933x910
+vo9fep,otujzzu3i,48,False,15adxvt9,Rose Bancshares,Diners Club / Carte Blanche,True,bitcoin,48,"07078 Brent Ways Apt. 999
+Alvarezshire, ND 82309",failed,False,"07078 Brent Ways Apt. 999
+Alvarezshire, ND 82309",4hzaaor6es3iyuiavyio,davismike@hotmail.com,162.48.39.230,467-222-0933x910
+yqijlk,otujzzu3i,11,True,upzpdr9y,Rose Bancshares,Diners Club / Carte Blanche,True,bitcoin,11,"07078 Brent Ways Apt. 999
+Alvarezshire, ND 82309",fulfilled,False,"07078 Brent Ways Apt. 999
+Alvarezshire, ND 82309",4hzaaor6es3iyuiavyio,davismike@hotmail.com,162.48.39.230,467-222-0933x910
+yqijlk,otujzzu3i,11,False,lyq2dt5j,Rose Bancshares,Diners Club / Carte Blanche,True,bitcoin,11,"07078 Brent Ways Apt. 999
+Alvarezshire, ND 82309",fulfilled,False,"07078 Brent Ways Apt. 999
+Alvarezshire, ND 82309",4hzaaor6es3iyuiavyio,davismike@hotmail.com,162.48.39.230,467-222-0933x910
+ssdsca,kafhtdkmr,23,False,c60my23d,His Majesty Bank Corp.,VISA 16 digit,False,card,23,"23831 Adams Tunnel Suite 538
+North David, NE 92200-7011",fulfilled,False,"23831 Adams Tunnel Suite 538
+North David, NE 92200-7011",x5ts382m7jezato91fjz,natalie98@yahoo.com,89e:31aa:e9e2:90ea:aa00:4a8c:805c:20ea,02934317865
+xm4p49,4rdcaqhb7,38,False,cw2apg23,Vertex Bancorp,American Express,True,card,38,"526 Ronald Cliffs
+West Christinaville, GU 76418",fulfilled,False,"526 Ronald Cliffs
+West Christinaville, GU 76418",ybz490o0v5781808jtzw,karen54@mullins.biz,61.219.235.129,1-019-956-8013
+w3av5p,4rdcaqhb7,12,True,r3gj74vr,Vertex Bancorp,American Express,True,card,12,"526 Ronald Cliffs
+West Christinaville, GU 76418",fulfilled,False,"526 Ronald Cliffs
+West Christinaville, GU 76418",ybz490o0v5781808jtzw,karen54@mullins.biz,61.219.235.129,1-019-956-8013
+w3av5p,4rdcaqhb7,12,False,dgx25sxc,Vertex Bancorp,American Express,True,card,12,"526 Ronald Cliffs
+West Christinaville, GU 76418",fulfilled,False,"526 Ronald Cliffs
+West Christinaville, GU 76418",ybz490o0v5781808jtzw,karen54@mullins.biz,61.219.235.129,1-019-956-8013
+w3av5p,wlywsk5au,12,True,o16cfq48,Grand Credit Corporation,VISA 16 digit,False,card,12,"526 Ronald Cliffs
+West Christinaville, GU 76418",fulfilled,False,"526 Ronald Cliffs
+West Christinaville, GU 76418",ybz490o0v5781808jtzw,karen54@mullins.biz,61.219.235.129,1-019-956-8013
+h0j383,4rdcaqhb7,11,False,5vwwh56j,Vertex Bancorp,American Express,True,card,11,"526 Ronald Cliffs
+West Christinaville, GU 76418",fulfilled,False,"526 Ronald Cliffs
+West Christinaville, GU 76418",ybz490o0v5781808jtzw,karen54@mullins.biz,61.219.235.129,1-019-956-8013
+94y9qn,wlywsk5au,15,True,n47dl09n,Grand Credit Corporation,VISA 16 digit,False,card,15,"51492 Sanchez Junctions Suite 947
+Port Madeline, GU 69686",failed,False,"526 Ronald Cliffs
+West Christinaville, GU 76418",ybz490o0v5781808jtzw,karen54@mullins.biz,61.219.235.129,1-019-956-8013
+94y9qn,wlywsk5au,15,False,q8z8feru,Grand Credit Corporation,VISA 16 digit,False,card,15,"51492 Sanchez Junctions Suite 947
+Port Madeline, GU 69686",failed,False,"526 Ronald Cliffs
+West Christinaville, GU 76418",ybz490o0v5781808jtzw,karen54@mullins.biz,61.219.235.129,1-019-956-8013
+8iq07j,wlywsk5au,39,False,lkq1ib9d,Grand Credit Corporation,VISA 16 digit,False,card,39,"137 Justin Circle Suite 952
+Henrymouth, CO 60210-8162",failed,False,"526 Ronald Cliffs
+West Christinaville, GU 76418",ybz490o0v5781808jtzw,karen54@mullins.biz,61.219.235.129,1-019-956-8013
+uotwbi,ogeeyw724,19,True,j8cy8qqf,Solace Banks,Maestro,False,paypal,19,"304 Heather Fall
+East Christina, UT 45880-4522",fulfilled,False,"304 Heather Fall
+East Christina, UT 45880-4522",bwgvb5w8dm6upvi7ucqc,avaldez@gmail.com,46.130.37.206,203-573-2041
+uotwbi,ogeeyw724,19,False,n4lw10e3,Solace Banks,Maestro,False,paypal,19,"304 Heather Fall
+East Christina, UT 45880-4522",fulfilled,False,"304 Heather Fall
+East Christina, UT 45880-4522",bwgvb5w8dm6upvi7ucqc,avaldez@gmail.com,46.130.37.206,203-573-2041
+f3zu8d,jud25x4mo,45,False,ueos82ny,Vertex Bancorp,Maestro,False,card,45,"Unit 0643 Box 8346
+DPO AA 55632-6780",fulfilled,False,"Unit 0643 Box 8346
+DPO AA 55632-6780",smxfahki83m4rgsvgvki,blackjoel@wright.com,9717:f390:29c6:8d60:aee7:a054:1b90:9493,621.591.0560
+kv9he2,jud25x4mo,50,False,p5gx6q9w,Vertex Bancorp,Maestro,False,card,50,"Unit 0643 Box 8346
+DPO AA 55632-6780",fulfilled,False,"Unit 0643 Box 8346
+DPO AA 55632-6780",smxfahki83m4rgsvgvki,blackjoel@wright.com,9717:f390:29c6:8d60:aee7:a054:1b90:9493,621.591.0560
+cs48h5,jud25x4mo,42,False,2zbevcd8,Vertex Bancorp,Maestro,False,card,42,"Unit 0643 Box 8346
+DPO AA 55632-6780",fulfilled,False,"Unit 0643 Box 8346
+DPO AA 55632-6780",smxfahki83m4rgsvgvki,blackjoel@wright.com,9717:f390:29c6:8d60:aee7:a054:1b90:9493,621.591.0560
+eonqhv,jud25x4mo,10,False,r1r4ce3k,Vertex Bancorp,Maestro,False,card,10,"Unit 0643 Box 8346
+DPO AA 55632-6780",fulfilled,False,"Unit 0643 Box 8346
+DPO AA 55632-6780",smxfahki83m4rgsvgvki,blackjoel@wright.com,9717:f390:29c6:8d60:aee7:a054:1b90:9493,621.591.0560
+zxk81a,jud25x4mo,30,True,er8zjgzm,Vertex Bancorp,Maestro,False,card,30,"Unit 0643 Box 8346
+DPO AA 55632-6780",fulfilled,False,"Unit 0643 Box 8346
+DPO AA 55632-6780",smxfahki83m4rgsvgvki,blackjoel@wright.com,9717:f390:29c6:8d60:aee7:a054:1b90:9493,621.591.0560
+zxk81a,jud25x4mo,30,False,hqtzz2ib,Vertex Bancorp,Maestro,False,card,30,"Unit 0643 Box 8346
+DPO AA 55632-6780",fulfilled,False,"Unit 0643 Box 8346
+DPO AA 55632-6780",smxfahki83m4rgsvgvki,blackjoel@wright.com,9717:f390:29c6:8d60:aee7:a054:1b90:9493,621.591.0560
+naiygn,st34e000q,48,True,r6c5d2vo,Vertex Bancorp,VISA 16 digit,False,card,48,"419 Janice Manors Apt. 698
+New Susanview, PA 33955-3875",failed,False,"3764 Stanley Hollow
+East Catherine, CT 98470",0g6v7n9n8k4pekxpqj2e,abigail08@yahoo.com,72.251.102.162,650-489-7595x7901
+naiygn,st34e000q,48,False,oquhv695,Vertex Bancorp,VISA 16 digit,False,card,48,"419 Janice Manors Apt. 698
+New Susanview, PA 33955-3875",failed,False,"3764 Stanley Hollow
+East Catherine, CT 98470",0g6v7n9n8k4pekxpqj2e,abigail08@yahoo.com,72.251.102.162,650-489-7595x7901
+any2ki,st34e000q,42,True,1aq5meg1,Vertex Bancorp,VISA 16 digit,False,card,42,"129 Sandra Meadows Suite 923
+East Jenniferport, SC 47493",pending,False,"3764 Stanley Hollow
+East Catherine, CT 98470",0g6v7n9n8k4pekxpqj2e,abigail08@yahoo.com,72.251.102.162,650-489-7595x7901
+any2ki,st34e000q,42,False,zu65tthv,Vertex Bancorp,VISA 16 digit,False,card,42,"129 Sandra Meadows Suite 923
+East Jenniferport, SC 47493",pending,False,"3764 Stanley Hollow
+East Catherine, CT 98470",0g6v7n9n8k4pekxpqj2e,abigail08@yahoo.com,72.251.102.162,650-489-7595x7901
+l98c04,tfcg9eqwk,29,False,97sqcd6l,Bulwark Trust Corp.,Maestro,True,card,29,"3764 Stanley Hollow
+East Catherine, CT 98470",fulfilled,False,"3764 Stanley Hollow
+East Catherine, CT 98470",0g6v7n9n8k4pekxpqj2e,abigail08@yahoo.com,72.251.102.162,650-489-7595x7901
+j4izq0,5ad6rm0sb,65,False,s3hfs4fc,Vertex Bancorp,Maestro,False,card,65,"372 Michael Club Suite 553
+Herrerafort, MH 52953",failed,True,"372 Michael Club Suite 553
+Herrerafort, MH 52953",myjxxvd3jfn1eymfy50n,catherine64@gmail.com,1289:d2a9:c65d:8fc7:7be4:129b:d7b:cf7b,563-396-2038x288
+y73qvk,5ad6rm0sb,58,True,w2nnyowa,Vertex Bancorp,Maestro,False,card,58,"372 Michael Club Suite 553
+Herrerafort, MH 52953",fulfilled,True,"372 Michael Club Suite 553
+Herrerafort, MH 52953",myjxxvd3jfn1eymfy50n,catherine64@gmail.com,1289:d2a9:c65d:8fc7:7be4:129b:d7b:cf7b,563-396-2038x288
+y73qvk,0lqd0lah5,58,False,iw7bakk3,Her Majesty Trust,JCB 16 digit,False,bitcoin,58,"372 Michael Club Suite 553
+Herrerafort, MH 52953",fulfilled,True,"372 Michael Club Suite 553
+Herrerafort, MH 52953",myjxxvd3jfn1eymfy50n,catherine64@gmail.com,1289:d2a9:c65d:8fc7:7be4:129b:d7b:cf7b,563-396-2038x288
+81bac4,rc5kwqehi,75,False,8810813t,Grand Credit Corporation,VISA 13 digit,False,bitcoin,75,"372 Michael Club Suite 553
+Herrerafort, MH 52953",pending,True,"372 Michael Club Suite 553
+Herrerafort, MH 52953",myjxxvd3jfn1eymfy50n,catherine64@gmail.com,1289:d2a9:c65d:8fc7:7be4:129b:d7b:cf7b,563-396-2038x288
+sd4v17,0tvw8yj4z,58,False,c2b8df2a,Fountain Financial Inc.,JCB 16 digit,False,card,58,"2182 Samantha Gardens
+Elliottview, MP 18669",fulfilled,True,"372 Michael Club Suite 553
+Herrerafort, MH 52953",myjxxvd3jfn1eymfy50n,catherine64@gmail.com,1289:d2a9:c65d:8fc7:7be4:129b:d7b:cf7b,563-396-2038x288
+ag3x4z,243b5b285,32,False,xph56a1n,Fountain Financial Inc.,VISA 16 digit,False,card,32,"34958 Sean View
+West Robert, DE 93344-9833",fulfilled,False,"34958 Sean View
+West Robert, DE 93344-9833",k8t5eytta8tc8y593lcr,romerolauren@hotmail.com,846:e2b8:6318:5636:946d:ca83:8076:d098,(099)775-4222
+rn62d8,243b5b285,36,False,nonzx5wh,Fountain Financial Inc.,VISA 16 digit,False,card,36,"34958 Sean View
+West Robert, DE 93344-9833",fulfilled,False,"34958 Sean View
+West Robert, DE 93344-9833",k8t5eytta8tc8y593lcr,romerolauren@hotmail.com,846:e2b8:6318:5636:946d:ca83:8076:d098,(099)775-4222
+x4u7kx,yi3002uzs,14,True,5hj630hg,His Majesty Bank Corp.,Maestro,False,card,14,"87265 Woods Square
+Port Heidimouth, LA 03208-8304",fulfilled,False,"87265 Woods Square
+Port Heidimouth, LA 03208-8304",0o4xh6wbyuxwchh1la5f,qramsey@hotmail.com,58.43.60.165,+45(0)7468859801
+x4u7kx,yi3002uzs,14,False,pz9du9rq,His Majesty Bank Corp.,Maestro,False,card,14,"87265 Woods Square
+Port Heidimouth, LA 03208-8304",fulfilled,False,"87265 Woods Square
+Port Heidimouth, LA 03208-8304",0o4xh6wbyuxwchh1la5f,qramsey@hotmail.com,58.43.60.165,+45(0)7468859801
+eunjto,yi3002uzs,46,False,mh712ehl,His Majesty Bank Corp.,Maestro,False,card,46,"87265 Woods Square
+Port Heidimouth, LA 03208-8304",fulfilled,False,"87265 Woods Square
+Port Heidimouth, LA 03208-8304",0o4xh6wbyuxwchh1la5f,qramsey@hotmail.com,58.43.60.165,+45(0)7468859801
+mlsqph,yi3002uzs,18,False,7sfult79,His Majesty Bank Corp.,Maestro,False,card,18,"87265 Woods Square
+Port Heidimouth, LA 03208-8304",fulfilled,False,"87265 Woods Square
+Port Heidimouth, LA 03208-8304",0o4xh6wbyuxwchh1la5f,qramsey@hotmail.com,58.43.60.165,+45(0)7468859801
+pe8fke,yi3002uzs,30,False,wmbgls2d,His Majesty Bank Corp.,Maestro,False,card,30,"87265 Woods Square
+Port Heidimouth, LA 03208-8304",failed,False,"87265 Woods Square
+Port Heidimouth, LA 03208-8304",0o4xh6wbyuxwchh1la5f,qramsey@hotmail.com,58.43.60.165,+45(0)7468859801
+du631k,uljh0fhae,15,False,fv1q37k3,Citizens First Banks,VISA 16 digit,False,card,15,"87265 Woods Square
+Port Heidimouth, LA 03208-8304",fulfilled,False,"87265 Woods Square
+Port Heidimouth, LA 03208-8304",0o4xh6wbyuxwchh1la5f,qramsey@hotmail.com,58.43.60.165,+45(0)7468859801
+3b9vdf,wl0wgtfn2,16,True,7m39em4p,Bastion Banks,Voyager,False,card,16,"63978 Luis Ports
+Yvonneville, NE 63736-2980",fulfilled,True,"63978 Luis Ports
+Yvonneville, NE 63736-2980",uqdiolg8krd34n4phs18,9es7t@u6n7x,3617:fa2b:f31e:5b72:59a8:cb1a:d090:edb9,518.037.7423x366
+3b9vdf,wl0wgtfn2,16,False,yz35aas7,Bastion Banks,Voyager,False,card,16,"63978 Luis Ports
+Yvonneville, NE 63736-2980",fulfilled,True,"63978 Luis Ports
+Yvonneville, NE 63736-2980",uqdiolg8krd34n4phs18,9es7t@u6n7x,3617:fa2b:f31e:5b72:59a8:cb1a:d090:edb9,518.037.7423x366
+wc0qut,vwdxqd00s,30,False,h7huu8lz,Fountain Financial Inc.,JCB 15 digit,False,card,30,"437 Jean Well
+Andrewville, FM 13796",fulfilled,False,"437 Jean Well
+Andrewville, FM 13796",dmqmkcujj3k31g0kr9b4,ypruitt@hotmail.com,224.3.233.30,804-331-7488x82163
+8o9ef7,vwdxqd00s,38,False,t55qhcm8,Fountain Financial Inc.,JCB 15 digit,False,card,38,"437 Jean Well
+Andrewville, FM 13796",fulfilled,False,"437 Jean Well
+Andrewville, FM 13796",dmqmkcujj3k31g0kr9b4,ypruitt@hotmail.com,224.3.233.30,804-331-7488x82163
+5pwn81,vwdxqd00s,49,False,bzubcvnz,Fountain Financial Inc.,JCB 15 digit,False,card,49,"437 Jean Well
+Andrewville, FM 13796",fulfilled,False,"437 Jean Well
+Andrewville, FM 13796",dmqmkcujj3k31g0kr9b4,ypruitt@hotmail.com,224.3.233.30,804-331-7488x82163
+l72b2v,vwdxqd00s,29,False,qyw32m2v,Fountain Financial Inc.,JCB 15 digit,False,card,29,"5664 Kristy Points
+Meyerfort, SD 37067",fulfilled,False,"437 Jean Well
+Andrewville, FM 13796",dmqmkcujj3k31g0kr9b4,ypruitt@hotmail.com,224.3.233.30,804-331-7488x82163
+lly25f,1ov4r2jr5,20,False,0exoy858,Rose Bancshares,VISA 16 digit,False,card,20,"85993 Heather Drive
+East Erinhaven, KY 61109",fulfilled,False,"85993 Heather Drive
+East Erinhaven, KY 61109",lr2c0lancqoqkosnyqnj,aweaver@yahoo.com,2432:d9dc:c6ad:ef9c:c5df:b7bf:1b48:4444,565-347-7032
+pkajko,ip4pd9xyu,40,False,j3vtxcy9,Rose Bancshares,Discover,False,card,40,"432 Margaret Isle
+West Kevinbury, SC 42235",fulfilled,False,"432 Margaret Isle
+West Kevinbury, SC 42235",wr3wy5qmkd8qqwljulll,richard05@hanson-key.org,158.72.242.154,(428)021-0009
+4w6x1p,j6vt0l11e,44,True,kuqkfynb,Her Majesty Trust,JCB 16 digit,False,apple pay,44,"178 Palmer Motorway
+East Anthony, HI 06543-3483",fulfilled,False,"546 Kim Walk
+South Jacquelinefurt, NM 01696",iyac5n05j0sxp2b0cnnc,paul86@hotmail.com,aae7:6c39:b70:7025:d60d:bab3:6547:4adc,986-625-5606
+4w6x1p,j6vt0l11e,44,False,rk0m8roe,Her Majesty Trust,JCB 16 digit,False,apple pay,44,"178 Palmer Motorway
+East Anthony, HI 06543-3483",fulfilled,False,"546 Kim Walk
+South Jacquelinefurt, NM 01696",iyac5n05j0sxp2b0cnnc,paul86@hotmail.com,aae7:6c39:b70:7025:d60d:bab3:6547:4adc,986-625-5606
+gkwd8g,w3c453rd8,10,False,rxcql0ld,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,10,"229 Michelle Union Suite 692
+Lake Sarahport, AS 45607",fulfilled,False,"229 Michelle Union Suite 692
+Lake Sarahport, AS 45607",iuaio7yeshnjtrqn6qc5,mark02@young.com,107.82.81.240,(833)029-3127
+fq1ooh,w3c453rd8,39,False,xu7b9kcr,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,39,"229 Michelle Union Suite 692
+Lake Sarahport, AS 45607",fulfilled,False,"229 Michelle Union Suite 692
+Lake Sarahport, AS 45607",iuaio7yeshnjtrqn6qc5,mark02@young.com,107.82.81.240,(833)029-3127
+pypyvi,xci7mpl5h,34,True,w2tqx0ln,Bastion Banks,VISA 16 digit,False,paypal,34,"229 Michelle Union Suite 692
+Lake Sarahport, AS 45607",fulfilled,False,"229 Michelle Union Suite 692
+Lake Sarahport, AS 45607",iuaio7yeshnjtrqn6qc5,mark02@young.com,107.82.81.240,(833)029-3127
+pypyvi,xci7mpl5h,34,False,aq1qv1td,Bastion Banks,VISA 16 digit,False,paypal,34,"229 Michelle Union Suite 692
+Lake Sarahport, AS 45607",fulfilled,False,"229 Michelle Union Suite 692
+Lake Sarahport, AS 45607",iuaio7yeshnjtrqn6qc5,mark02@young.com,107.82.81.240,(833)029-3127
+qb4l0y,xci7mpl5h,49,False,fn1847f0,Bastion Banks,VISA 16 digit,False,paypal,49,"229 Michelle Union Suite 692
+Lake Sarahport, AS 45607",fulfilled,False,"229 Michelle Union Suite 692
+Lake Sarahport, AS 45607",iuaio7yeshnjtrqn6qc5,mark02@young.com,107.82.81.240,(833)029-3127
+aj6j5x,r0735q7at,29,False,bczklypo,Bastion Banks,JCB 15 digit,False,card,29,"USS Barr
+FPO AE 16052-3851",fulfilled,False,"USS Barr
+FPO AE 16052-3851",qywyyrk5r87k21ij3p62,brandon58@conner.com,225.62.150.241,726-715-7429x06218
+gf3kf8,r0735q7at,25,True,p237hz8y,Bastion Banks,JCB 15 digit,False,card,25,"USS Barr
+FPO AE 16052-3851",fulfilled,False,"USS Barr
+FPO AE 16052-3851",qywyyrk5r87k21ij3p62,brandon58@conner.com,225.62.150.241,726-715-7429x06218
+gf3kf8,r0735q7at,25,False,75p8ugk5,Bastion Banks,JCB 15 digit,False,card,25,"USS Barr
+FPO AE 16052-3851",fulfilled,False,"USS Barr
+FPO AE 16052-3851",qywyyrk5r87k21ij3p62,brandon58@conner.com,225.62.150.241,726-715-7429x06218
+v1sq5r,r0735q7at,14,True,fo3oz01r,Bastion Banks,JCB 15 digit,False,card,14,"USS Barr
+FPO AE 16052-3851",fulfilled,False,"USS Barr
+FPO AE 16052-3851",qywyyrk5r87k21ij3p62,brandon58@conner.com,225.62.150.241,726-715-7429x06218
+v1sq5r,r0735q7at,14,True,w3jgb8qt,Bastion Banks,JCB 15 digit,False,card,14,"USS Barr
+FPO AE 16052-3851",fulfilled,False,"USS Barr
+FPO AE 16052-3851",qywyyrk5r87k21ij3p62,brandon58@conner.com,225.62.150.241,726-715-7429x06218
+v1sq5r,r0735q7at,14,True,e6vl0gpx,Bastion Banks,JCB 15 digit,False,card,14,"USS Barr
+FPO AE 16052-3851",fulfilled,False,"USS Barr
+FPO AE 16052-3851",qywyyrk5r87k21ij3p62,brandon58@conner.com,225.62.150.241,726-715-7429x06218
+v1sq5r,r0735q7at,14,True,lesb2kxu,Bastion Banks,JCB 15 digit,False,card,14,"USS Barr
+FPO AE 16052-3851",fulfilled,False,"USS Barr
+FPO AE 16052-3851",qywyyrk5r87k21ij3p62,brandon58@conner.com,225.62.150.241,726-715-7429x06218
+v1sq5r,r0735q7at,14,False,fqqaqp6q,Bastion Banks,JCB 15 digit,False,card,14,"USS Barr
+FPO AE 16052-3851",fulfilled,False,"USS Barr
+FPO AE 16052-3851",qywyyrk5r87k21ij3p62,brandon58@conner.com,225.62.150.241,726-715-7429x06218
+kr2w5f,tfff8yjzo,32,True,i25dewqi,Rose Bancshares,American Express,False,card,32,"77711 Pamela Ridge
+New Kayla, IL 27182",failed,True,"77711 Pamela Ridge
+New Kayla, IL 27182",cdx178qymd6vy77nm4x3,johnlowery@gmail.com,222.79.159.140,+16(4)9016414340
+kr2w5f,tfff8yjzo,32,False,7sdl8reg,Rose Bancshares,American Express,False,card,32,"77711 Pamela Ridge
+New Kayla, IL 27182",failed,True,"77711 Pamela Ridge
+New Kayla, IL 27182",cdx178qymd6vy77nm4x3,johnlowery@gmail.com,222.79.159.140,+16(4)9016414340
+4x7vmr,tfff8yjzo,21,False,bpvdqkr7,Rose Bancshares,American Express,False,card,21,"77711 Pamela Ridge
+New Kayla, IL 27182",fulfilled,True,"77711 Pamela Ridge
+New Kayla, IL 27182",cdx178qymd6vy77nm4x3,johnlowery@gmail.com,222.79.159.140,+16(4)9016414340
+typkze,c4lqxg7tb,10,True,nq16vew4,Bulwark Trust Corp.,Discover,False,card,10,"29408 Lisa Lock
+Port Jennifer, LA 26501-7040",fulfilled,True,"29408 Lisa Lock
+Port Jennifer, LA 26501-7040",eaul63h9guyvwuymfn3z,jamescampbell@randall-pacheco.biz,45.203.99.249,599-142-6783
+typkze,c4lqxg7tb,10,True,r40gi7kt,Bulwark Trust Corp.,Discover,False,card,10,"29408 Lisa Lock
+Port Jennifer, LA 26501-7040",fulfilled,True,"29408 Lisa Lock
+Port Jennifer, LA 26501-7040",eaul63h9guyvwuymfn3z,jamescampbell@randall-pacheco.biz,45.203.99.249,599-142-6783
+typkze,suusse06u,10,False,n53a4z93,His Majesty Bank Corp.,VISA 13 digit,False,card,10,"29408 Lisa Lock
+Port Jennifer, LA 26501-7040",fulfilled,True,"29408 Lisa Lock
+Port Jennifer, LA 26501-7040",eaul63h9guyvwuymfn3z,jamescampbell@randall-pacheco.biz,45.203.99.249,599-142-6783
+gar4v9,c4lqxg7tb,11,True,so2vwp1v,Bulwark Trust Corp.,Discover,False,card,11,"306 Dominique Burg
+Lake Joshua, MH 57647-0315",fulfilled,True,"29408 Lisa Lock
+Port Jennifer, LA 26501-7040",eaul63h9guyvwuymfn3z,jamescampbell@randall-pacheco.biz,45.203.99.249,599-142-6783
+gar4v9,c4lqxg7tb,11,False,ulr6tqlz,Bulwark Trust Corp.,Discover,False,card,11,"306 Dominique Burg
+Lake Joshua, MH 57647-0315",fulfilled,True,"29408 Lisa Lock
+Port Jennifer, LA 26501-7040",eaul63h9guyvwuymfn3z,jamescampbell@randall-pacheco.biz,45.203.99.249,599-142-6783
+ougwoy,c4lqxg7tb,47,True,vpzfovrf,Bulwark Trust Corp.,Discover,False,card,47,"95641 Steven Expressway
+Gordonborough, GU 44582-9207",fulfilled,True,"29408 Lisa Lock
+Port Jennifer, LA 26501-7040",eaul63h9guyvwuymfn3z,jamescampbell@randall-pacheco.biz,45.203.99.249,599-142-6783
+ougwoy,suusse06u,47,False,8hc4ygjd,His Majesty Bank Corp.,VISA 13 digit,False,card,47,"95641 Steven Expressway
+Gordonborough, GU 44582-9207",fulfilled,True,"29408 Lisa Lock
+Port Jennifer, LA 26501-7040",eaul63h9guyvwuymfn3z,jamescampbell@randall-pacheco.biz,45.203.99.249,599-142-6783
+brzg7e,qkhsgv41q,50,False,2gd1xtoz,Vertex Bancorp,Maestro,False,paypal,50,"4264 Traci Mountains Suite 245
+East Trevor, NC 37274-0975",fulfilled,False,"4264 Traci Mountains Suite 245
+East Trevor, NC 37274-0975",s7dtery2p2f00b7qnwvv,briana34@gmail.com,f793:509a:b82a:f556:b199:c649:8ab3:3f0a,952-580-9304x38838
+o2xkjm,qkhsgv41q,18,True,ji0xd4so,Vertex Bancorp,Maestro,False,paypal,18,"2282 Diaz Trafficway
+West Alan, PW 51681",fulfilled,False,"4264 Traci Mountains Suite 245
+East Trevor, NC 37274-0975",s7dtery2p2f00b7qnwvv,briana34@gmail.com,f793:509a:b82a:f556:b199:c649:8ab3:3f0a,952-580-9304x38838
+o2xkjm,qkhsgv41q,18,False,0xj8t0jz,Vertex Bancorp,Maestro,False,paypal,18,"2282 Diaz Trafficway
+West Alan, PW 51681",fulfilled,False,"4264 Traci Mountains Suite 245
+East Trevor, NC 37274-0975",s7dtery2p2f00b7qnwvv,briana34@gmail.com,f793:509a:b82a:f556:b199:c649:8ab3:3f0a,952-580-9304x38838
+8id3sg,qkhsgv41q,41,True,4bce098o,Vertex Bancorp,Maestro,False,paypal,41,"4264 Traci Mountains Suite 245
+East Trevor, NC 37274-0975",pending,False,"4264 Traci Mountains Suite 245
+East Trevor, NC 37274-0975",s7dtery2p2f00b7qnwvv,briana34@gmail.com,f793:509a:b82a:f556:b199:c649:8ab3:3f0a,952-580-9304x38838
+8id3sg,qkhsgv41q,41,False,zrro6kto,Vertex Bancorp,Maestro,False,paypal,41,"4264 Traci Mountains Suite 245
+East Trevor, NC 37274-0975",pending,False,"4264 Traci Mountains Suite 245
+East Trevor, NC 37274-0975",s7dtery2p2f00b7qnwvv,briana34@gmail.com,f793:509a:b82a:f556:b199:c649:8ab3:3f0a,952-580-9304x38838
+tex5rp,h2awlopgd,39,False,z292pjgq,Bulwark Trust Corp.,JCB 16 digit,False,apple pay,39,"4264 Traci Mountains Suite 245
+East Trevor, NC 37274-0975",fulfilled,False,"4264 Traci Mountains Suite 245
+East Trevor, NC 37274-0975",s7dtery2p2f00b7qnwvv,briana34@gmail.com,f793:509a:b82a:f556:b199:c649:8ab3:3f0a,952-580-9304x38838
+z11a6h,h2awlopgd,29,False,7o924iwu,Bulwark Trust Corp.,JCB 16 digit,False,apple pay,29,"4264 Traci Mountains Suite 245
+East Trevor, NC 37274-0975",fulfilled,False,"4264 Traci Mountains Suite 245
+East Trevor, NC 37274-0975",s7dtery2p2f00b7qnwvv,briana34@gmail.com,f793:509a:b82a:f556:b199:c649:8ab3:3f0a,952-580-9304x38838
+sqfq9g,gxjchyxfz,45,False,jjnhdzhb,Citizens First Banks,JCB 16 digit,False,paypal,45,"33328 Mendez Shore Apt. 328
+North Miguelville, MT 05102-0874",fulfilled,False,"33328 Mendez Shore Apt. 328
+North Miguelville, MT 05102-0874",szchbklzmzi87sa0oyz0,jonesandrea@gray.biz,120.215.98.17,+49(5)7226212913
+lco8r4,gxjchyxfz,22,False,cmlxddnq,Citizens First Banks,JCB 16 digit,False,paypal,22,"214 Rachel Branch
+East Gabriela, NJ 89474-5585",fulfilled,False,"33328 Mendez Shore Apt. 328
+North Miguelville, MT 05102-0874",szchbklzmzi87sa0oyz0,jonesandrea@gray.biz,120.215.98.17,+49(5)7226212913
+d1mfum,gxjchyxfz,29,False,kyzfj2ta,Citizens First Banks,JCB 16 digit,False,paypal,29,"369 Moreno Lock
+Raytown, MS 71921-2845",fulfilled,False,"33328 Mendez Shore Apt. 328
+North Miguelville, MT 05102-0874",szchbklzmzi87sa0oyz0,jonesandrea@gray.biz,120.215.98.17,+49(5)7226212913
+d6sbjc,bkopk7uzs,51,True,o022s00u,Rose Bancshares,VISA 16 digit,False,card,51,"5769 Ronald Brook Suite 963
+Lake Jasonfurt, MS 45350-9530",fulfilled,True,"5769 Ronald Brook Suite 963
+Lake Jasonfurt, MS 45350-9530",1a88bvu79nax6873na08,kristina41@gmail.com,35.23.150.176,1-836-334-7673
+d6sbjc,bkopk7uzs,51,False,w7ludkyz,Rose Bancshares,VISA 16 digit,False,card,51,"5769 Ronald Brook Suite 963
+Lake Jasonfurt, MS 45350-9530",fulfilled,True,"5769 Ronald Brook Suite 963
+Lake Jasonfurt, MS 45350-9530",1a88bvu79nax6873na08,kristina41@gmail.com,35.23.150.176,1-836-334-7673
+izroq8,bwj2e7i76,36,False,ohw0eoga,Vertex Bancorp,Mastercard,False,card,36,"298 Stephanie Passage
+Ortizhaven, WY 41473",fulfilled,True,"5769 Ronald Brook Suite 963
+Lake Jasonfurt, MS 45350-9530",1a88bvu79nax6873na08,kristina41@gmail.com,35.23.150.176,1-836-334-7673
+9spaf7,bwj2e7i76,60,False,uusnh2tp,Vertex Bancorp,Mastercard,False,card,60,"USCGC Smith
+FPO AE 33964-3887",fulfilled,True,"5769 Ronald Brook Suite 963
+Lake Jasonfurt, MS 45350-9530",1a88bvu79nax6873na08,kristina41@gmail.com,35.23.150.176,1-836-334-7673
+8f7mcp,bwj2e7i76,52,False,0niv9sm2,Vertex Bancorp,Mastercard,False,card,52,"2079 Woods Unions
+Brandibury, AR 18360-1093",fulfilled,True,"5769 Ronald Brook Suite 963
+Lake Jasonfurt, MS 45350-9530",1a88bvu79nax6873na08,kristina41@gmail.com,35.23.150.176,1-836-334-7673
+xwtnot,bwj2e7i76,68,False,by1ob38p,Vertex Bancorp,Mastercard,False,card,68,"USS Medina
+FPO AA 42900",fulfilled,True,"5769 Ronald Brook Suite 963
+Lake Jasonfurt, MS 45350-9530",1a88bvu79nax6873na08,kristina41@gmail.com,35.23.150.176,1-836-334-7673
+iaousp,cm5dp45zh,51,False,h96uhgzk,Citizens First Banks,JCB 16 digit,False,apple pay,51,"5769 Ronald Brook Suite 963
+Lake Jasonfurt, MS 45350-9530",fulfilled,True,"5769 Ronald Brook Suite 963
+Lake Jasonfurt, MS 45350-9530",1a88bvu79nax6873na08,kristina41@gmail.com,35.23.150.176,1-836-334-7673
+48pqsb,k5n97dkql,31,False,uzxl7bjx,Citizens First Banks,JCB 15 digit,False,card,31,"6790 Cassandra Loop
+Davidton, ME 00036",fulfilled,False,"6790 Cassandra Loop
+Davidton, ME 00036",9ytcxpehi6xw76g5qhhl,nolanalec@yahoo.com,b298:90c6:ce22:e0aa:5906:4ec3:d8c:a455,+00(2)1650962747
+tprxxg,7am579wop,36,False,6vdayna1,Solace Banks,Maestro,False,card,36,"6790 Cassandra Loop
+Davidton, ME 00036",fulfilled,False,"6790 Cassandra Loop
+Davidton, ME 00036",9ytcxpehi6xw76g5qhhl,nolanalec@yahoo.com,b298:90c6:ce22:e0aa:5906:4ec3:d8c:a455,+00(2)1650962747
+3j539y,7am579wop,42,False,3rc2nhqf,Solace Banks,Maestro,False,card,42,"32795 Gregory Tunnel Apt. 420
+Patrickton, OR 99089-6477",fulfilled,False,"6790 Cassandra Loop
+Davidton, ME 00036",9ytcxpehi6xw76g5qhhl,nolanalec@yahoo.com,b298:90c6:ce22:e0aa:5906:4ec3:d8c:a455,+00(2)1650962747
+q4rqn8,7am579wop,35,True,83llpfdj,Solace Banks,Maestro,False,card,35,"6790 Cassandra Loop
+Davidton, ME 00036",fulfilled,False,"6790 Cassandra Loop
+Davidton, ME 00036",9ytcxpehi6xw76g5qhhl,nolanalec@yahoo.com,b298:90c6:ce22:e0aa:5906:4ec3:d8c:a455,+00(2)1650962747
+q4rqn8,7am579wop,35,False,rhgbdlfu,Solace Banks,Maestro,False,card,35,"6790 Cassandra Loop
+Davidton, ME 00036",fulfilled,False,"6790 Cassandra Loop
+Davidton, ME 00036",9ytcxpehi6xw76g5qhhl,nolanalec@yahoo.com,b298:90c6:ce22:e0aa:5906:4ec3:d8c:a455,+00(2)1650962747
+phfc5z,kvc38kle1,17,True,obe4ky4l,Vertex Bancorp,JCB 16 digit,False,card,17,"966 Jones Forks Suite 546
+North Jesusshire, MI 55779-7683",fulfilled,False,"9811 Allison Harbors
+Perryberg, SC 57620-9104",7318fn930cyfirv504xp,spencer77@reid.com,8.13.234.51,423.526.5373
+phfc5z,kvc38kle1,17,True,h0heqcju,Vertex Bancorp,JCB 16 digit,False,card,17,"966 Jones Forks Suite 546
+North Jesusshire, MI 55779-7683",fulfilled,False,"9811 Allison Harbors
+Perryberg, SC 57620-9104",7318fn930cyfirv504xp,spencer77@reid.com,8.13.234.51,423.526.5373
+phfc5z,bv4rt0waw,17,True,9udno8l3,Citizens First Banks,JCB 16 digit,False,card,17,"966 Jones Forks Suite 546
+North Jesusshire, MI 55779-7683",fulfilled,False,"9811 Allison Harbors
+Perryberg, SC 57620-9104",7318fn930cyfirv504xp,spencer77@reid.com,8.13.234.51,423.526.5373
+phfc5z,bv4rt0waw,17,False,9pqd6ebh,Citizens First Banks,JCB 16 digit,False,card,17,"966 Jones Forks Suite 546
+North Jesusshire, MI 55779-7683",fulfilled,False,"9811 Allison Harbors
+Perryberg, SC 57620-9104",7318fn930cyfirv504xp,spencer77@reid.com,8.13.234.51,423.526.5373
+7g535w,bv4rt0waw,33,False,62dks9yz,Citizens First Banks,JCB 16 digit,False,card,33,"363 Michael Villages
+Kristineburgh, NM 59002",failed,False,"9811 Allison Harbors
+Perryberg, SC 57620-9104",7318fn930cyfirv504xp,spencer77@reid.com,8.13.234.51,423.526.5373
+32rax6,73a2hlmnm,353,True,ftiso5mr,Her Majesty Trust,VISA 16 digit,False,card,353,"9596 Christian Bridge
+West Nicholasbury, OR 90106-9840",fulfilled,True,"9596 Christian Bridge
+West Nicholasbury, OR 90106-9840",at92v1f1r3shwbeujiap,uguzman@yahoo.com,151.245.182.84,(017)893-9493
+9ekv8b,was3bq380,17,False,3f97a9jm,Fountain Financial Inc.,Voyager,False,card,17,"58408 Stacy Grove
+Port Gregory, MD 11557-3871",fulfilled,False,"37549 Crawford Forest
+Christopherside, KY 96656",7u2y3wsyj7ehzfao86md,ssmith@levine-harmon.biz,13ff:5a93:bc34:e190:5e4b:ac80:2e2d:6217,266-228-3021x90360
+l4l6tx,was3bq380,24,False,uriznwe8,Fountain Financial Inc.,Voyager,False,card,24,"37549 Crawford Forest
+Christopherside, KY 96656",fulfilled,False,"37549 Crawford Forest
+Christopherside, KY 96656",7u2y3wsyj7ehzfao86md,ssmith@levine-harmon.biz,13ff:5a93:bc34:e190:5e4b:ac80:2e2d:6217,266-228-3021x90360
+l4l6tx,k5xriv8co,24,True,qblbbsr6,His Majesty Bank Corp.,Maestro,True,card,24,"37549 Crawford Forest
+Christopherside, KY 96656",fulfilled,False,"37549 Crawford Forest
+Christopherside, KY 96656",7u2y3wsyj7ehzfao86md,ssmith@levine-harmon.biz,13ff:5a93:bc34:e190:5e4b:ac80:2e2d:6217,266-228-3021x90360
+y50p63,was3bq380,36,True,6qb7pwgb,Fountain Financial Inc.,Voyager,False,card,36,"37549 Crawford Forest
+Christopherside, KY 96656",fulfilled,False,"37549 Crawford Forest
+Christopherside, KY 96656",7u2y3wsyj7ehzfao86md,ssmith@levine-harmon.biz,13ff:5a93:bc34:e190:5e4b:ac80:2e2d:6217,266-228-3021x90360
+y50p63,k5xriv8co,36,True,cyob52xd,His Majesty Bank Corp.,Maestro,True,card,36,"37549 Crawford Forest
+Christopherside, KY 96656",fulfilled,False,"37549 Crawford Forest
+Christopherside, KY 96656",7u2y3wsyj7ehzfao86md,ssmith@levine-harmon.biz,13ff:5a93:bc34:e190:5e4b:ac80:2e2d:6217,266-228-3021x90360
+y50p63,k5xriv8co,36,True,fu5bnafm,His Majesty Bank Corp.,Maestro,True,card,36,"37549 Crawford Forest
+Christopherside, KY 96656",fulfilled,False,"37549 Crawford Forest
+Christopherside, KY 96656",7u2y3wsyj7ehzfao86md,ssmith@levine-harmon.biz,13ff:5a93:bc34:e190:5e4b:ac80:2e2d:6217,266-228-3021x90360
+y4a3bt,k5xriv8co,35,False,wpumno5r,His Majesty Bank Corp.,Maestro,True,card,35,"37549 Crawford Forest
+Christopherside, KY 96656",pending,False,"37549 Crawford Forest
+Christopherside, KY 96656",7u2y3wsyj7ehzfao86md,ssmith@levine-harmon.biz,13ff:5a93:bc34:e190:5e4b:ac80:2e2d:6217,266-228-3021x90360
+xtmpum,k5xriv8co,32,False,th1lhv8t,His Majesty Bank Corp.,Maestro,True,card,32,"37549 Crawford Forest
+Christopherside, KY 96656",fulfilled,False,"37549 Crawford Forest
+Christopherside, KY 96656",7u2y3wsyj7ehzfao86md,ssmith@levine-harmon.biz,13ff:5a93:bc34:e190:5e4b:ac80:2e2d:6217,266-228-3021x90360
+jp7kqk,0ma0yi3jg,41,False,55tz7m12,Her Majesty Trust,JCB 16 digit,False,card,41,"1089 Christopher Neck Suite 097
+Scottmouth, GA 02587-6233",fulfilled,True,"49680 Brian Squares Apt. 122
+Port Walterburgh, MH 02766-0708",z7xkuohhjbtiqs6q9rk9,feliciabrown@gmail.com,115.137.171.103,(226)129-2677
+23cqz5,yu71nlc3z,19,True,xmzhdlhj,Vertex Bancorp,JCB 16 digit,False,card,19,"226 Steven Course
+New Jaime, VI 82101-3297",failed,False,"938 Miranda Mountain
+Alexandratown, AS 69640",ntl63nfd4sevm4xxvsyq,dianacook@gmail.com,710e:d9d9:1ef0:cdc:ed53:10d:2c7e:667e,764-447-7031
+23cqz5,yu71nlc3z,19,False,mivfzxfz,Vertex Bancorp,JCB 16 digit,False,card,19,"226 Steven Course
+New Jaime, VI 82101-3297",failed,False,"938 Miranda Mountain
+Alexandratown, AS 69640",ntl63nfd4sevm4xxvsyq,dianacook@gmail.com,710e:d9d9:1ef0:cdc:ed53:10d:2c7e:667e,764-447-7031
+gxeyl2,yu71nlc3z,20,False,6nfh2k77,Vertex Bancorp,JCB 16 digit,False,card,20,"938 Miranda Mountain
+Alexandratown, AS 69640",fulfilled,False,"938 Miranda Mountain
+Alexandratown, AS 69640",ntl63nfd4sevm4xxvsyq,dianacook@gmail.com,710e:d9d9:1ef0:cdc:ed53:10d:2c7e:667e,764-447-7031
+zllwa6,wejtuspvr,37,True,odva1tei,Grand Credit Corporation,Mastercard,False,card,37,"585 Veronica Loop Suite 856
+East Rebeccachester, AZ 55756",fulfilled,False,"585 Veronica Loop Suite 856
+East Rebeccachester, AZ 55756",8fapmchbpcdesx94tnmb,cookbenjamin@hotmail.com,82.3.174.184,(287)694-5221x45370
+zllwa6,wejtuspvr,37,True,7p1c81gx,Grand Credit Corporation,Mastercard,False,card,37,"585 Veronica Loop Suite 856
+East Rebeccachester, AZ 55756",fulfilled,False,"585 Veronica Loop Suite 856
+East Rebeccachester, AZ 55756",8fapmchbpcdesx94tnmb,cookbenjamin@hotmail.com,82.3.174.184,(287)694-5221x45370
+zllwa6,wejtuspvr,37,False,wxb335un,Grand Credit Corporation,Mastercard,False,card,37,"585 Veronica Loop Suite 856
+East Rebeccachester, AZ 55756",fulfilled,False,"585 Veronica Loop Suite 856
+East Rebeccachester, AZ 55756",8fapmchbpcdesx94tnmb,cookbenjamin@hotmail.com,82.3.174.184,(287)694-5221x45370
+znlrfn,wejtuspvr,14,False,hyknr1f4,Grand Credit Corporation,Mastercard,False,card,14,"5936 Logan Forge Apt. 622
+North Kevinshire, NV 15030-8421",fulfilled,False,"585 Veronica Loop Suite 856
+East Rebeccachester, AZ 55756",8fapmchbpcdesx94tnmb,cookbenjamin@hotmail.com,82.3.174.184,(287)694-5221x45370
+rl4qc1,wejtuspvr,49,False,1qfz6ocd,Grand Credit Corporation,Mastercard,False,card,49,"585 Veronica Loop Suite 856
+East Rebeccachester, AZ 55756",fulfilled,False,"585 Veronica Loop Suite 856
+East Rebeccachester, AZ 55756",8fapmchbpcdesx94tnmb,cookbenjamin@hotmail.com,82.3.174.184,(287)694-5221x45370
+6s4aem,wejtuspvr,43,False,mctz3wea,Grand Credit Corporation,Mastercard,False,card,43,"585 Veronica Loop Suite 856
+East Rebeccachester, AZ 55756",fulfilled,False,"585 Veronica Loop Suite 856
+East Rebeccachester, AZ 55756",8fapmchbpcdesx94tnmb,cookbenjamin@hotmail.com,82.3.174.184,(287)694-5221x45370
+u5a84z,r2v5bgqxf,31,False,yjfirs14,Her Majesty Trust,VISA 16 digit,False,card,31,"702 Richard Dale Suite 484
+New Paula, CT 56858-8909",fulfilled,True,"1292 Tricia Key Suite 062
+Marthabury, KS 40445",znzp16ko7mtwjfxgrle4,joserowland@jones.com,152.211.139.83,698-954-1805
+809d5o,f3l73qqm9,46,False,hrzejsy4,Grand Credit Corporation,American Express,False,card,46,"1292 Tricia Key Suite 062
+Marthabury, KS 40445",fulfilled,True,"1292 Tricia Key Suite 062
+Marthabury, KS 40445",znzp16ko7mtwjfxgrle4,joserowland@jones.com,152.211.139.83,698-954-1805
+734b9q,f3l73qqm9,16,False,6xtouwt2,Grand Credit Corporation,American Express,False,card,16,"1292 Tricia Key Suite 062
+Marthabury, KS 40445",fulfilled,True,"1292 Tricia Key Suite 062
+Marthabury, KS 40445",znzp16ko7mtwjfxgrle4,joserowland@jones.com,152.211.139.83,698-954-1805
+02x0ec,yym5xo9qi,15,False,u2mtko2f,Citizens First Banks,Diners Club / Carte Blanche,False,card,15,"15587 Rios Center
+East Dawn, AR 22196",fulfilled,True,"1292 Tricia Key Suite 062
+Marthabury, KS 40445",znzp16ko7mtwjfxgrle4,joserowland@jones.com,152.211.139.83,698-954-1805
+wg4ai4,6954oj7dx,18,False,61k4wiml,His Majesty Bank Corp.,JCB 16 digit,False,paypal,18,"PSC 6562, Box 6787
+APO AE 05203",failed,False,"258 Teresa Crescent Apt. 167
+Rodriguezmouth, AS 13930",9gyjtadv75scvq723pow,pattersonphilip@yahoo.com,d1ca:57d4:7c58:8cd4:e100:99d8:3fd6:92f9,(425)200-2228
+dkwhx7,6954oj7dx,16,False,tuyrl147,His Majesty Bank Corp.,JCB 16 digit,False,paypal,16,"258 Teresa Crescent Apt. 167
+Rodriguezmouth, AS 13930",fulfilled,False,"258 Teresa Crescent Apt. 167
+Rodriguezmouth, AS 13930",9gyjtadv75scvq723pow,pattersonphilip@yahoo.com,d1ca:57d4:7c58:8cd4:e100:99d8:3fd6:92f9,(425)200-2228
+5ref00,6954oj7dx,39,False,cattpxq6,His Majesty Bank Corp.,JCB 16 digit,False,paypal,39,"PSC 0481, Box 8369
+APO AP 33323-5409",pending,False,"258 Teresa Crescent Apt. 167
+Rodriguezmouth, AS 13930",9gyjtadv75scvq723pow,pattersonphilip@yahoo.com,d1ca:57d4:7c58:8cd4:e100:99d8:3fd6:92f9,(425)200-2228
+4clclj,ujky4teqc,37,False,kn2hi7mn,Grand Credit Corporation,American Express,False,card,37,"968 Lisa Fall
+Lake Arianashire, DC 66544-2874",fulfilled,False,"258 Teresa Crescent Apt. 167
+Rodriguezmouth, AS 13930",9gyjtadv75scvq723pow,pattersonphilip@yahoo.com,d1ca:57d4:7c58:8cd4:e100:99d8:3fd6:92f9,(425)200-2228
+qfteet,7b7gmp8al,12,False,ixardum8,Citizens First Banks,VISA 16 digit,False,card,12,"872 Ashley Island Apt. 254
+East Anthonytown, LA 10352",failed,True,"872 Ashley Island Apt. 254
+East Anthonytown, LA 10352",e3prs7zh4ueieiwlkud7,hj8maoy@1jcfcxs7,769a:4538:2bd2:8213:85ed:ca71:1ea3:dcd9,03115487766
+8a35qi,7b7gmp8al,48,True,01qy7cu0,Citizens First Banks,VISA 16 digit,False,card,48,"872 Ashley Island Apt. 254
+East Anthonytown, LA 10352",failed,True,"872 Ashley Island Apt. 254
+East Anthonytown, LA 10352",e3prs7zh4ueieiwlkud7,hj8maoy@1jcfcxs7,769a:4538:2bd2:8213:85ed:ca71:1ea3:dcd9,03115487766
+8a35qi,7b7gmp8al,48,False,b2llml7i,Citizens First Banks,VISA 16 digit,False,card,48,"872 Ashley Island Apt. 254
+East Anthonytown, LA 10352",failed,True,"872 Ashley Island Apt. 254
+East Anthonytown, LA 10352",e3prs7zh4ueieiwlkud7,hj8maoy@1jcfcxs7,769a:4538:2bd2:8213:85ed:ca71:1ea3:dcd9,03115487766
+sw4bii,7b7gmp8al,41,False,cwqkwqg6,Citizens First Banks,VISA 16 digit,False,card,41,"872 Ashley Island Apt. 254
+East Anthonytown, LA 10352",fulfilled,True,"872 Ashley Island Apt. 254
+East Anthonytown, LA 10352",e3prs7zh4ueieiwlkud7,hj8maoy@1jcfcxs7,769a:4538:2bd2:8213:85ed:ca71:1ea3:dcd9,03115487766
+5xh1fc,7b7gmp8al,29,False,ao9gm8ru,Citizens First Banks,VISA 16 digit,False,card,29,"872 Ashley Island Apt. 254
+East Anthonytown, LA 10352",fulfilled,True,"872 Ashley Island Apt. 254
+East Anthonytown, LA 10352",e3prs7zh4ueieiwlkud7,hj8maoy@1jcfcxs7,769a:4538:2bd2:8213:85ed:ca71:1ea3:dcd9,03115487766
+m6pkzg,pr3xs6kdy,22,False,eyudgsxk,Fountain Financial Inc.,VISA 13 digit,False,paypal,22,"872 Ashley Island Apt. 254
+East Anthonytown, LA 10352",fulfilled,True,"872 Ashley Island Apt. 254
+East Anthonytown, LA 10352",e3prs7zh4ueieiwlkud7,hj8maoy@1jcfcxs7,769a:4538:2bd2:8213:85ed:ca71:1ea3:dcd9,03115487766
+np9ggp,l1qil6tjh,44,False,gec3i717,Bastion Banks,American Express,False,card,44,"445 Nicole Hollow
+Carterton, FM 48532",fulfilled,False,"445 Nicole Hollow
+Carterton, FM 48532",m97tf30d9wpav4njjfbm,finleybrianna@yahoo.com,233.79.136.157,255-915-9059x3369
+8zs126,l1qil6tjh,43,True,e9cfoezm,Bastion Banks,American Express,False,card,43,"445 Nicole Hollow
+Carterton, FM 48532",failed,False,"445 Nicole Hollow
+Carterton, FM 48532",m97tf30d9wpav4njjfbm,finleybrianna@yahoo.com,233.79.136.157,255-915-9059x3369
+8zs126,l1qil6tjh,43,True,vln8ddqj,Bastion Banks,American Express,False,card,43,"445 Nicole Hollow
+Carterton, FM 48532",failed,False,"445 Nicole Hollow
+Carterton, FM 48532",m97tf30d9wpav4njjfbm,finleybrianna@yahoo.com,233.79.136.157,255-915-9059x3369
+9416gf,l1qil6tjh,41,False,20fwt83g,Bastion Banks,American Express,False,card,41,"445 Nicole Hollow
+Carterton, FM 48532",fulfilled,False,"445 Nicole Hollow
+Carterton, FM 48532",m97tf30d9wpav4njjfbm,finleybrianna@yahoo.com,233.79.136.157,255-915-9059x3369
+6avmqe,l1qil6tjh,16,True,ybvvmxmd,Bastion Banks,American Express,False,card,16,"445 Nicole Hollow
+Carterton, FM 48532",fulfilled,False,"445 Nicole Hollow
+Carterton, FM 48532",m97tf30d9wpav4njjfbm,finleybrianna@yahoo.com,233.79.136.157,255-915-9059x3369
+6avmqe,l1qil6tjh,16,True,203fxp7y,Bastion Banks,American Express,False,card,16,"445 Nicole Hollow
+Carterton, FM 48532",fulfilled,False,"445 Nicole Hollow
+Carterton, FM 48532",m97tf30d9wpav4njjfbm,finleybrianna@yahoo.com,233.79.136.157,255-915-9059x3369
+6avmqe,l1qil6tjh,16,False,7sajyzm4,Bastion Banks,American Express,False,card,16,"445 Nicole Hollow
+Carterton, FM 48532",fulfilled,False,"445 Nicole Hollow
+Carterton, FM 48532",m97tf30d9wpav4njjfbm,finleybrianna@yahoo.com,233.79.136.157,255-915-9059x3369
+l4hhqu,6ke43eyg9,37,False,hpcgclef,r,Voyager,False,card,37,"398 Latasha Canyon
+Kathyland, LA 36717-2161",failed,True,"398 Latasha Canyon
+Kathyland, LA 36717-2161",ewc3gyloi1ing9o64jpt,suzanne21@gmail.com,4834:7ccb:15de:9123:5658:42c3:cc50:79f,1-043-962-2576
+z2x7az,6ke43eyg9,31,True,vdwjlp18,r,Voyager,False,card,31,"94922 Robert Park
+Kellyhaven, OK 36922-3583",fulfilled,True,"398 Latasha Canyon
+Kathyland, LA 36717-2161",ewc3gyloi1ing9o64jpt,suzanne21@gmail.com,4834:7ccb:15de:9123:5658:42c3:cc50:79f,1-043-962-2576
+z2x7az,6ke43eyg9,31,False,5mub2d51,r,Voyager,False,card,31,"94922 Robert Park
+Kellyhaven, OK 36922-3583",fulfilled,True,"398 Latasha Canyon
+Kathyland, LA 36717-2161",ewc3gyloi1ing9o64jpt,suzanne21@gmail.com,4834:7ccb:15de:9123:5658:42c3:cc50:79f,1-043-962-2576
+910715,5i61lz4t2,24,True,jreh2bkw,B,Discover,False,bitcoin,24,"398 Latasha Canyon
+Kathyland, LA 36717-2161",fulfilled,True,"398 Latasha Canyon
+Kathyland, LA 36717-2161",ewc3gyloi1ing9o64jpt,suzanne21@gmail.com,4834:7ccb:15de:9123:5658:42c3:cc50:79f,1-043-962-2576
+910715,5i61lz4t2,24,False,95qmlxm7,B,Discover,False,bitcoin,24,"398 Latasha Canyon
+Kathyland, LA 36717-2161",fulfilled,True,"398 Latasha Canyon
+Kathyland, LA 36717-2161",ewc3gyloi1ing9o64jpt,suzanne21@gmail.com,4834:7ccb:15de:9123:5658:42c3:cc50:79f,1-043-962-2576
+3ougge,opyep1aoj,11,True,qenelvvf,Rose Bancshares,VISA 16 digit,False,card,11,"11704 Andrew Villages Apt. 035
+Jamesfurt, OR 49817-0470",fulfilled,True,"11704 Andrew Villages Apt. 035
+Jamesfurt, OR 49817-0470",311kdz4c1210iixltk2j,johnlowery@gmail.com,42b3:df19:86fe:abd9:dafe:f6c1:eb76:c72,04712252182
+3ougge,opyep1aoj,11,False,w5wkltds,Rose Bancshares,VISA 16 digit,False,card,11,"11704 Andrew Villages Apt. 035
+Jamesfurt, OR 49817-0470",fulfilled,True,"11704 Andrew Villages Apt. 035
+Jamesfurt, OR 49817-0470",311kdz4c1210iixltk2j,johnlowery@gmail.com,42b3:df19:86fe:abd9:dafe:f6c1:eb76:c72,04712252182
+6p7c0x,opyep1aoj,42,False,m0vig74t,Rose Bancshares,VISA 16 digit,False,card,42,"5015 Harrison Fields Suite 162
+Sheppardfort, FL 39092",fulfilled,True,"11704 Andrew Villages Apt. 035
+Jamesfurt, OR 49817-0470",311kdz4c1210iixltk2j,johnlowery@gmail.com,42b3:df19:86fe:abd9:dafe:f6c1:eb76:c72,04712252182
+dd8z28,opyep1aoj,37,False,ao66pcnh,Rose Bancshares,VISA 16 digit,False,card,37,"11704 Andrew Villages Apt. 035
+Jamesfurt, OR 49817-0470",fulfilled,True,"11704 Andrew Villages Apt. 035
+Jamesfurt, OR 49817-0470",311kdz4c1210iixltk2j,johnlowery@gmail.com,42b3:df19:86fe:abd9:dafe:f6c1:eb76:c72,04712252182
+0b6r24,opyep1aoj,30,True,h1zprjml,Rose Bancshares,VISA 16 digit,False,card,30,"11704 Andrew Villages Apt. 035
+Jamesfurt, OR 49817-0470",fulfilled,True,"11704 Andrew Villages Apt. 035
+Jamesfurt, OR 49817-0470",311kdz4c1210iixltk2j,johnlowery@gmail.com,42b3:df19:86fe:abd9:dafe:f6c1:eb76:c72,04712252182
+0b6r24,opyep1aoj,30,False,0ltw4chk,Rose Bancshares,VISA 16 digit,False,card,30,"11704 Andrew Villages Apt. 035
+Jamesfurt, OR 49817-0470",fulfilled,True,"11704 Andrew Villages Apt. 035
+Jamesfurt, OR 49817-0470",311kdz4c1210iixltk2j,johnlowery@gmail.com,42b3:df19:86fe:abd9:dafe:f6c1:eb76:c72,04712252182
+9eubwc,opyep1aoj,12,False,aoyfjmwf,Rose Bancshares,VISA 16 digit,False,card,12,"62515 Holly Court
+Lopezton, AR 45419-4146",fulfilled,True,"11704 Andrew Villages Apt. 035
+Jamesfurt, OR 49817-0470",311kdz4c1210iixltk2j,johnlowery@gmail.com,42b3:df19:86fe:abd9:dafe:f6c1:eb76:c72,04712252182
+g54w0y,gcg213ko9,16,True,j8eo5x52,Bulwark Trust Corp.,Discover,True,bitcoin,16,"1018 Johnny Vista Suite 429
+North Daniel, CO 58465-5970",fulfilled,False,"73802 Aaron Field Apt. 622
+Port Lisa, MO 01167",3wqhnieu6nbcis8x7h3j,kristaavery@lewis-baird.com,180.223.72.88,242.165.5396x07020
+d5r0n3,d1nvhtt2q,14,False,h469bpo6,Bulwark Trust Corp.,Diners Club / Carte Blanche,False,card,14,"0378 Sanders View Suite 401
+West Joanna, NC 12504",fulfilled,True,"046 Carson Crescent
+South Jacksonview, NV 22839-2652",c3r2qzqwc9anp6utob7n,cathy42@gibson.com,7493:ab04:47ff:3a14:67d6:a128:a5b6:1500,754.248.6239x43965
+8lc2cq,d1nvhtt2q,23,False,vj05ozm5,Bulwark Trust Corp.,Diners Club / Carte Blanche,False,card,23,"046 Carson Crescent
+South Jacksonview, NV 22839-2652",fulfilled,True,"046 Carson Crescent
+South Jacksonview, NV 22839-2652",c3r2qzqwc9anp6utob7n,cathy42@gibson.com,7493:ab04:47ff:3a14:67d6:a128:a5b6:1500,754.248.6239x43965
+ssqc0h,rz1xfmc67,50,False,aziryp5p,His Majesty Bank Corp.,Mastercard,False,card,50,"913 Rivas Island
+Hallburgh, GU 81505-6573",fulfilled,True,"046 Carson Crescent
+South Jacksonview, NV 22839-2652",c3r2qzqwc9anp6utob7n,cathy42@gibson.com,7493:ab04:47ff:3a14:67d6:a128:a5b6:1500,754.248.6239x43965
+12l1rw,wovt0cj5c,34,False,r214877d,Fountain Financial Inc.,Discover,True,bitcoin,34,"586 Johnson Courts
+South Timothymouth, OH 66490",fulfilled,False,"586 Johnson Courts
+South Timothymouth, OH 66490",s7m2fjcrk1y7lj0amm08,michelleherrera@day.info,fb35:e7e4:1368:817f:b75e:6473:d60b:93a8,1-991-286-0655x973
+pcmaex,wovt0cj5c,43,True,8wozhvp8,Fountain Financial Inc.,Discover,True,bitcoin,43,"586 Johnson Courts
+South Timothymouth, OH 66490",fulfilled,False,"586 Johnson Courts
+South Timothymouth, OH 66490",s7m2fjcrk1y7lj0amm08,michelleherrera@day.info,fb35:e7e4:1368:817f:b75e:6473:d60b:93a8,1-991-286-0655x973
+pcmaex,wovt0cj5c,43,False,36u4g331,Fountain Financial Inc.,Discover,True,bitcoin,43,"586 Johnson Courts
+South Timothymouth, OH 66490",fulfilled,False,"586 Johnson Courts
+South Timothymouth, OH 66490",s7m2fjcrk1y7lj0amm08,michelleherrera@day.info,fb35:e7e4:1368:817f:b75e:6473:d60b:93a8,1-991-286-0655x973
+hxwtsb,wovt0cj5c,15,False,vqceka21,Fountain Financial Inc.,Discover,True,bitcoin,15,"48551 Thomas Circle
+Lake Johnberg, GU 50483",failed,False,"586 Johnson Courts
+South Timothymouth, OH 66490",s7m2fjcrk1y7lj0amm08,michelleherrera@day.info,fb35:e7e4:1368:817f:b75e:6473:d60b:93a8,1-991-286-0655x973
+nm269f,wovt0cj5c,48,True,pgduytlm,Fountain Financial Inc.,Discover,True,bitcoin,48,"586 Johnson Courts
+South Timothymouth, OH 66490",fulfilled,False,"586 Johnson Courts
+South Timothymouth, OH 66490",s7m2fjcrk1y7lj0amm08,michelleherrera@day.info,fb35:e7e4:1368:817f:b75e:6473:d60b:93a8,1-991-286-0655x973
+nm269f,wovt0cj5c,48,False,ah1qaf4c,Fountain Financial Inc.,Discover,True,bitcoin,48,"586 Johnson Courts
+South Timothymouth, OH 66490",fulfilled,False,"586 Johnson Courts
+South Timothymouth, OH 66490",s7m2fjcrk1y7lj0amm08,michelleherrera@day.info,fb35:e7e4:1368:817f:b75e:6473:d60b:93a8,1-991-286-0655x973
+ghy2in,v6mrj0ec1,45,False,pf63pf7p,Her Majesty Trust,Discover,False,card,45,"Unit 0375 Box 6645
+DPO AP 74311",fulfilled,False,"Unit 0375 Box 6645
+DPO AP 74311",ztef2ig476czoj3mzkyl,ijuarez@yahoo.com,9247:4a63:f325:1e5e:fcbb:ea08:304b:48ad,705.315.1466x180
+gltavp,v6mrj0ec1,13,False,fjfqyvsq,Her Majesty Trust,Discover,False,card,13,"2265 Chang Isle
+New Timothy, SC 18655",fulfilled,False,"Unit 0375 Box 6645
+DPO AP 74311",ztef2ig476czoj3mzkyl,ijuarez@yahoo.com,9247:4a63:f325:1e5e:fcbb:ea08:304b:48ad,705.315.1466x180
+7syvmx,v6mrj0ec1,14,False,7sb2vztr,Her Majesty Trust,Discover,False,card,14,"9390 Samantha Drive
+North Melanie, ND 85266",fulfilled,False,"Unit 0375 Box 6645
+DPO AP 74311",ztef2ig476czoj3mzkyl,ijuarez@yahoo.com,9247:4a63:f325:1e5e:fcbb:ea08:304b:48ad,705.315.1466x180
+yqgi4r,644b30jam,49,True,ec0xejv1,His Majesty Bank Corp.,Maestro,False,card,49,"272 Grant Rest
+Martinezland, IL 82134-6960",pending,False,"7444 Shelby Fords Apt. 290
+Rhondaland, AS 85277-9573",ntjnc4h0ldd2yia6m7u6,hughesjonathan@pena.org,5176:b1b5:d308:40b9:7c25:f5bf:4258:52d2,05514762453
+yqgi4r,rbkqo2mz8,49,False,uplzo1p7,Bulwark Trust Corp.,VISA 16 digit,False,card,49,"272 Grant Rest
+Martinezland, IL 82134-6960",pending,False,"7444 Shelby Fords Apt. 290
+Rhondaland, AS 85277-9573",ntjnc4h0ldd2yia6m7u6,hughesjonathan@pena.org,5176:b1b5:d308:40b9:7c25:f5bf:4258:52d2,05514762453
+kkj4g4,644b30jam,41,False,ggnme3au,His Majesty Bank Corp.,Maestro,False,card,41,"7444 Shelby Fords Apt. 290
+Rhondaland, AS 85277-9573",fulfilled,False,"7444 Shelby Fords Apt. 290
+Rhondaland, AS 85277-9573",ntjnc4h0ldd2yia6m7u6,hughesjonathan@pena.org,5176:b1b5:d308:40b9:7c25:f5bf:4258:52d2,05514762453
+kkj4g4,47ss4xvsx,41,True,3kwagzt0,Her Majesty Trust,Voyager,False,card,41,"7444 Shelby Fords Apt. 290
+Rhondaland, AS 85277-9573",fulfilled,False,"7444 Shelby Fords Apt. 290
+Rhondaland, AS 85277-9573",ntjnc4h0ldd2yia6m7u6,hughesjonathan@pena.org,5176:b1b5:d308:40b9:7c25:f5bf:4258:52d2,05514762453
+owcp3q,rbkqo2mz8,25,False,co2h5f40,Bulwark Trust Corp.,VISA 16 digit,False,card,25,"7444 Shelby Fords Apt. 290
+Rhondaland, AS 85277-9573",fulfilled,False,"7444 Shelby Fords Apt. 290
+Rhondaland, AS 85277-9573",ntjnc4h0ldd2yia6m7u6,hughesjonathan@pena.org,5176:b1b5:d308:40b9:7c25:f5bf:4258:52d2,05514762453
+7wo3i5,rbkqo2mz8,45,False,pne2a081,Bulwark Trust Corp.,VISA 16 digit,False,card,45,"7444 Shelby Fords Apt. 290
+Rhondaland, AS 85277-9573",failed,False,"7444 Shelby Fords Apt. 290
+Rhondaland, AS 85277-9573",ntjnc4h0ldd2yia6m7u6,hughesjonathan@pena.org,5176:b1b5:d308:40b9:7c25:f5bf:4258:52d2,05514762453
+ieo8qr,47ss4xvsx,25,True,tbc5gpg0,Her Majesty Trust,Voyager,False,card,25,"894 Jacob Vista Apt. 197
+Williamfort, GA 28640-1599",fulfilled,False,"7444 Shelby Fords Apt. 290
+Rhondaland, AS 85277-9573",ntjnc4h0ldd2yia6m7u6,hughesjonathan@pena.org,5176:b1b5:d308:40b9:7c25:f5bf:4258:52d2,05514762453
+czmdey,sdu0pppij,15,False,ird6quss,Citizens First Banks,Maestro,True,card,15,"412 Joshua Knoll Apt. 533
+Davidland, ME 61496",fulfilled,False,"412 Joshua Knoll Apt. 533
+Davidland, ME 61496",pabten624qp5gacfxnxh,anthony04@gmail.com,248.33.149.88,1-910-678-8300
+4v3wor,sdu0pppij,34,False,kr4piaj6,Citizens First Banks,Maestro,True,card,34,"412 Joshua Knoll Apt. 533
+Davidland, ME 61496",fulfilled,False,"412 Joshua Knoll Apt. 533
+Davidland, ME 61496",pabten624qp5gacfxnxh,anthony04@gmail.com,248.33.149.88,1-910-678-8300
+i1ews1,p6v42gsjt,22,False,ls23wjjk,Grand Credit Corporation,VISA 16 digit,False,card,22,"19170 Hansen Throughway
+Wilkersonville, PA 09423",fulfilled,False,"19170 Hansen Throughway
+Wilkersonville, PA 09423",o7xocau2odnpc1so7ued,mgould@yahoo.com,e85d:101b:e213:d8d0:8722:3fce:1e31:17f3,1-394-145-7899x0176
+2bwa43,p6v42gsjt,35,False,skhsy75r,Grand Credit Corporation,VISA 16 digit,False,card,35,"840 Carroll Fort Apt. 640
+Lake Stephanieland, TX 40398-4112",fulfilled,False,"19170 Hansen Throughway
+Wilkersonville, PA 09423",o7xocau2odnpc1so7ued,mgould@yahoo.com,e85d:101b:e213:d8d0:8722:3fce:1e31:17f3,1-394-145-7899x0176
+9wsbkr,p6v42gsjt,20,False,bph7txfx,Grand Credit Corporation,VISA 16 digit,False,card,20,"19170 Hansen Throughway
+Wilkersonville, PA 09423",fulfilled,False,"19170 Hansen Throughway
+Wilkersonville, PA 09423",o7xocau2odnpc1so7ued,mgould@yahoo.com,e85d:101b:e213:d8d0:8722:3fce:1e31:17f3,1-394-145-7899x0176
+umxpkn,x6zmw4nns,21,True,57digam0,Solace Banks,Diners Club / Carte Blanche,True,card,21,"19170 Hansen Throughway
+Wilkersonville, PA 09423",fulfilled,False,"19170 Hansen Throughway
+Wilkersonville, PA 09423",o7xocau2odnpc1so7ued,mgould@yahoo.com,e85d:101b:e213:d8d0:8722:3fce:1e31:17f3,1-394-145-7899x0176
+umxpkn,x6zmw4nns,21,False,vvo1vly6,Solace Banks,Diners Club / Carte Blanche,True,card,21,"19170 Hansen Throughway
+Wilkersonville, PA 09423",fulfilled,False,"19170 Hansen Throughway
+Wilkersonville, PA 09423",o7xocau2odnpc1so7ued,mgould@yahoo.com,e85d:101b:e213:d8d0:8722:3fce:1e31:17f3,1-394-145-7899x0176
+r55imo,74rqcnogo,41,False,4d21mp0y,Her Majesty Trust,Voyager,False,card,41,"8649 Mcgee Locks Apt. 114
+North Angelafort, IN 05272-4651",fulfilled,False,"8649 Mcgee Locks Apt. 114
+North Angelafort, IN 05272-4651",18cnggmlahgf7trpqsu8,bakersydney@gmail.com,246.139.218.89,002.940.3004x9094
+87w5rm,74rqcnogo,34,True,nwvqorle,Her Majesty Trust,Voyager,False,card,34,"3598 Douglas Street
+Port Alexandra, MA 84502-8273",fulfilled,False,"8649 Mcgee Locks Apt. 114
+North Angelafort, IN 05272-4651",18cnggmlahgf7trpqsu8,bakersydney@gmail.com,246.139.218.89,002.940.3004x9094
+87w5rm,74rqcnogo,34,True,06r7dg7q,Her Majesty Trust,Voyager,False,card,34,"3598 Douglas Street
+Port Alexandra, MA 84502-8273",fulfilled,False,"8649 Mcgee Locks Apt. 114
+North Angelafort, IN 05272-4651",18cnggmlahgf7trpqsu8,bakersydney@gmail.com,246.139.218.89,002.940.3004x9094
+87w5rm,74rqcnogo,34,False,x8085ani,Her Majesty Trust,Voyager,False,card,34,"3598 Douglas Street
+Port Alexandra, MA 84502-8273",fulfilled,False,"8649 Mcgee Locks Apt. 114
+North Angelafort, IN 05272-4651",18cnggmlahgf7trpqsu8,bakersydney@gmail.com,246.139.218.89,002.940.3004x9094
+knov7s,74rqcnogo,32,False,5i9fxj2h,Her Majesty Trust,Voyager,False,card,32,"8649 Mcgee Locks Apt. 114
+North Angelafort, IN 05272-4651",fulfilled,False,"8649 Mcgee Locks Apt. 114
+North Angelafort, IN 05272-4651",18cnggmlahgf7trpqsu8,bakersydney@gmail.com,246.139.218.89,002.940.3004x9094
+y439xr,2zc5i5g91,13,False,i7p3731v,Vertex Bancorp,VISA 16 digit,False,bitcoin,13,"06698 Nelson Fork Suite 415
+Jacquelinechester, DE 26287",fulfilled,False,"9923 Williams Ramp
+East Lauraburgh, GA 48874",y7b7eqwqn34mytvn1i5z,udavis@clark.com,146.191.70.148,(942)067-2430
+ikr37t,2zc5i5g91,10,False,xm6z2ku4,Vertex Bancorp,VISA 16 digit,False,bitcoin,10,"9923 Williams Ramp
+East Lauraburgh, GA 48874",fulfilled,False,"9923 Williams Ramp
+East Lauraburgh, GA 48874",y7b7eqwqn34mytvn1i5z,udavis@clark.com,146.191.70.148,(942)067-2430
+3629iw,2zc5i5g91,18,False,a1etssuy,Vertex Bancorp,VISA 16 digit,False,bitcoin,18,"9923 Williams Ramp
+East Lauraburgh, GA 48874",fulfilled,False,"9923 Williams Ramp
+East Lauraburgh, GA 48874",y7b7eqwqn34mytvn1i5z,udavis@clark.com,146.191.70.148,(942)067-2430
+ab2hxc,8mjcums28,46,False,ht0fcw33,Bastion Banks,American Express,True,apple pay,46,"6927 Nathan Mountains
+North April, PA 95355-9109",fulfilled,True,"6927 Nathan Mountains
+North April, PA 95355-9109",1asmfecu4hbv73a2r5jy,nancymayo@brown.com,79.112.154.104,830-346-6543x518
+ky361o,8mjcums28,50,False,5unj4ehj,Bastion Banks,American Express,True,apple pay,50,"6927 Nathan Mountains
+North April, PA 95355-9109",fulfilled,True,"6927 Nathan Mountains
+North April, PA 95355-9109",1asmfecu4hbv73a2r5jy,nancymayo@brown.com,79.112.154.104,830-346-6543x518
+92e8bp,8mjcums28,42,False,uhz22wkv,Bastion Banks,American Express,True,apple pay,42,"6927 Nathan Mountains
+North April, PA 95355-9109",failed,True,"6927 Nathan Mountains
+North April, PA 95355-9109",1asmfecu4hbv73a2r5jy,nancymayo@brown.com,79.112.154.104,830-346-6543x518
+92e8bp,oxpsbpotn,42,True,gkkxcjim,Citizens First Banks,Diners Club / Carte Blanche,False,apple pay,42,"6927 Nathan Mountains
+North April, PA 95355-9109",failed,True,"6927 Nathan Mountains
+North April, PA 95355-9109",1asmfecu4hbv73a2r5jy,nancymayo@brown.com,79.112.154.104,830-346-6543x518
+r8occu,oxpsbpotn,72,False,d6rooqlh,Citizens First Banks,Diners Club / Carte Blanche,False,apple pay,72,"6927 Nathan Mountains
+North April, PA 95355-9109",fulfilled,True,"6927 Nathan Mountains
+North April, PA 95355-9109",1asmfecu4hbv73a2r5jy,nancymayo@brown.com,79.112.154.104,830-346-6543x518
+fu7lla,oxpsbpotn,56,False,lg7lup4i,Citizens First Banks,Diners Club / Carte Blanche,False,apple pay,56,"6927 Nathan Mountains
+North April, PA 95355-9109",fulfilled,True,"6927 Nathan Mountains
+North April, PA 95355-9109",1asmfecu4hbv73a2r5jy,nancymayo@brown.com,79.112.154.104,830-346-6543x518
+c5b579,oxpsbpotn,30,False,4z7tp93o,Citizens First Banks,Diners Club / Carte Blanche,False,apple pay,30,"17620 Wells Prairie Suite 370
+North Brandon, GA 60136-0328",pending,True,"6927 Nathan Mountains
+North April, PA 95355-9109",1asmfecu4hbv73a2r5jy,nancymayo@brown.com,79.112.154.104,830-346-6543x518
+np906j,a8dggs0xt,40,False,hjsrew5l,Bulwark Trust Corp.,JCB 16 digit,False,card,40,"814 Wagner Union
+Ashleymouth, HI 35617",fulfilled,True,"814 Wagner Union
+Ashleymouth, HI 35617",2in0fh7lep289n8dcbdz,johnlowery@gmail.com,163.128.139.42,1-820-539-4726x993
+p1yimo,a8dggs0xt,34,False,e93zwysp,Bulwark Trust Corp.,JCB 16 digit,False,card,34,"814 Wagner Union
+Ashleymouth, HI 35617",fulfilled,True,"814 Wagner Union
+Ashleymouth, HI 35617",2in0fh7lep289n8dcbdz,johnlowery@gmail.com,163.128.139.42,1-820-539-4726x993
+03euof,v50sqfm8h,47,False,0w4ng8t4,Solace Banks,American Express,True,card,47,"49680 Brian Squares Apt. 122
+Port Walterburgh, MH 02766-0708",fulfilled,True,"49680 Brian Squares Apt. 122
+Port Walterburgh, MH 02766-0708",6py7ewqjkxjw8zjl9eri,warrenedward@arnold.com,45.203.99.249,201.737.5119x64000
+mfgt1j,v50sqfm8h,11,False,kaxr9ib2,Solace Banks,American Express,True,card,11,"04246 Martinez Mews
+Mirandafurt, RI 25874",fulfilled,True,"49680 Brian Squares Apt. 122
+Port Walterburgh, MH 02766-0708",6py7ewqjkxjw8zjl9eri,warrenedward@arnold.com,45.203.99.249,201.737.5119x64000
+e32v3f,3ahrb9ife,31,False,1od1zuej,Citizens First Banks,Voyager,False,card,31,"51899 Bryan Pine Apt. 256
+Willieville, OK 17656-9361",fulfilled,True,"49680 Brian Squares Apt. 122
+Port Walterburgh, MH 02766-0708",6py7ewqjkxjw8zjl9eri,warrenedward@arnold.com,45.203.99.249,201.737.5119x64000
+v3f3bo,bhta4vgb5,28,False,409r48ot,Fountain Financial Inc.,VISA 13 digit,False,apple pay,28,"49680 Brian Squares Apt. 122
+Port Walterburgh, MH 02766-0708",fulfilled,True,"49680 Brian Squares Apt. 122
+Port Walterburgh, MH 02766-0708",6py7ewqjkxjw8zjl9eri,warrenedward@arnold.com,45.203.99.249,201.737.5119x64000
+j5ssnn,895soyhh1,27,True,mco06mub,Vertex Bancorp,VISA 13 digit,False,apple pay,27,"150 Kenneth Bypass Apt. 791
+Kevinton, VT 92488",fulfilled,False,"150 Kenneth Bypass Apt. 791
+Kevinton, VT 92488",znuylfikiuid1orrwsvt,rbolton@hotmail.com,911e:44d8:824c:85a3:ba7a:6513:8d40:c4c3,04454448537
+j5ssnn,aiker5vh0,27,False,hojsrmq7,Her Majesty Trust,Voyager,False,card,27,"150 Kenneth Bypass Apt. 791
+Kevinton, VT 92488",fulfilled,False,"150 Kenneth Bypass Apt. 791
+Kevinton, VT 92488",znuylfikiuid1orrwsvt,rbolton@hotmail.com,911e:44d8:824c:85a3:ba7a:6513:8d40:c4c3,04454448537
+pgpgct,895soyhh1,19,False,lt32c5y7,Vertex Bancorp,VISA 13 digit,False,apple pay,19,"150 Kenneth Bypass Apt. 791
+Kevinton, VT 92488",fulfilled,False,"150 Kenneth Bypass Apt. 791
+Kevinton, VT 92488",znuylfikiuid1orrwsvt,rbolton@hotmail.com,911e:44d8:824c:85a3:ba7a:6513:8d40:c4c3,04454448537
+ywwu92,895soyhh1,17,False,izx7ae9w,Vertex Bancorp,VISA 13 digit,False,apple pay,17,"150 Kenneth Bypass Apt. 791
+Kevinton, VT 92488",fulfilled,False,"150 Kenneth Bypass Apt. 791
+Kevinton, VT 92488",znuylfikiuid1orrwsvt,rbolton@hotmail.com,911e:44d8:824c:85a3:ba7a:6513:8d40:c4c3,04454448537
+h7m36s,895soyhh1,27,True,nixfmk79,Vertex Bancorp,VISA 13 digit,False,apple pay,27,"150 Kenneth Bypass Apt. 791
+Kevinton, VT 92488",fulfilled,False,"150 Kenneth Bypass Apt. 791
+Kevinton, VT 92488",znuylfikiuid1orrwsvt,rbolton@hotmail.com,911e:44d8:824c:85a3:ba7a:6513:8d40:c4c3,04454448537
+dyyrat,2nfc926ij,46,False,ziw7e3wa,Rose Bancshares,Mastercard,False,card,46,"4913 Wright Ranch
+Roymouth, VI 48629",fulfilled,True,"4913 Wright Ranch
+Roymouth, VI 48629",1mt65bhu4bzyrmzeitz6,jonathan99@stafford.org,ecc1:e4b8:65e1:d1e:bf58:b09d:3c50:509,(986)656-8692x32356
+kwmuvx,2nfc926ij,46,False,d25j8j1o,Rose Bancshares,Mastercard,False,card,46,"4913 Wright Ranch
+Roymouth, VI 48629",pending,True,"4913 Wright Ranch
+Roymouth, VI 48629",1mt65bhu4bzyrmzeitz6,jonathan99@stafford.org,ecc1:e4b8:65e1:d1e:bf58:b09d:3c50:509,(986)656-8692x32356
+vliicw,pube8iuin,59,True,rids9xcr,Bulwark Trust Corp.,JCB 15 digit,False,card,59,"202 Glenn Spur
+West Alyssaview, GA 19716-9957",fulfilled,True,"96103 Riley Walks
+Michellefort, ID 98085-6066",yfpqgg5oxsn107veaala,lleonard@turner-fleming.com,97.111.97.42,1-414-937-7421x73705
+vliicw,pube8iuin,59,False,vfr9e4p1,Bulwark Trust Corp.,JCB 15 digit,False,card,59,"202 Glenn Spur
+West Alyssaview, GA 19716-9957",fulfilled,True,"96103 Riley Walks
+Michellefort, ID 98085-6066",yfpqgg5oxsn107veaala,lleonard@turner-fleming.com,97.111.97.42,1-414-937-7421x73705
+a6e85x,pube8iuin,71,False,7vettvqh,Bulwark Trust Corp.,JCB 15 digit,False,card,71,"96103 Riley Walks
+Michellefort, ID 98085-6066",fulfilled,True,"96103 Riley Walks
+Michellefort, ID 98085-6066",yfpqgg5oxsn107veaala,lleonard@turner-fleming.com,97.111.97.42,1-414-937-7421x73705
+s2yu52,pube8iuin,75,False,8zufs56k,Bulwark Trust Corp.,JCB 15 digit,False,card,75,"96103 Riley Walks
+Michellefort, ID 98085-6066",fulfilled,True,"96103 Riley Walks
+Michellefort, ID 98085-6066",yfpqgg5oxsn107veaala,lleonard@turner-fleming.com,97.111.97.42,1-414-937-7421x73705
+2dt9hc,pube8iuin,56,True,po2qgue2,Bulwark Trust Corp.,JCB 15 digit,False,card,56,"96103 Riley Walks
+Michellefort, ID 98085-6066",fulfilled,True,"96103 Riley Walks
+Michellefort, ID 98085-6066",yfpqgg5oxsn107veaala,lleonard@turner-fleming.com,97.111.97.42,1-414-937-7421x73705
+2dt9hc,pube8iuin,56,False,iavr78ml,Bulwark Trust Corp.,JCB 15 digit,False,card,56,"96103 Riley Walks
+Michellefort, ID 98085-6066",fulfilled,True,"96103 Riley Walks
+Michellefort, ID 98085-6066",yfpqgg5oxsn107veaala,lleonard@turner-fleming.com,97.111.97.42,1-414-937-7421x73705
+c8czvd,pube8iuin,48,False,02xzx7s8,Bulwark Trust Corp.,JCB 15 digit,False,card,48,"96103 Riley Walks
+Michellefort, ID 98085-6066",pending,True,"96103 Riley Walks
+Michellefort, ID 98085-6066",yfpqgg5oxsn107veaala,lleonard@turner-fleming.com,97.111.97.42,1-414-937-7421x73705
+aexkeb,pube8iuin,55,False,ubhcpkcn,Bulwark Trust Corp.,JCB 15 digit,False,card,55,"6721 Smith Road Apt. 172
+Lake Tanya, WI 12305",fulfilled,True,"96103 Riley Walks
+Michellefort, ID 98085-6066",yfpqgg5oxsn107veaala,lleonard@turner-fleming.com,97.111.97.42,1-414-937-7421x73705
+014gsw,pube8iuin,67,True,gidcndd6,Bulwark Trust Corp.,JCB 15 digit,False,card,67,"96103 Riley Walks
+Michellefort, ID 98085-6066",pending,True,"96103 Riley Walks
+Michellefort, ID 98085-6066",yfpqgg5oxsn107veaala,lleonard@turner-fleming.com,97.111.97.42,1-414-937-7421x73705
+014gsw,pube8iuin,67,False,0zv4q3v7,Bulwark Trust Corp.,JCB 15 digit,False,card,67,"96103 Riley Walks
+Michellefort, ID 98085-6066",pending,True,"96103 Riley Walks
+Michellefort, ID 98085-6066",yfpqgg5oxsn107veaala,lleonard@turner-fleming.com,97.111.97.42,1-414-937-7421x73705
+8lwtag,pube8iuin,40,False,bkink4ub,Bulwark Trust Corp.,JCB 15 digit,False,card,40,"96103 Riley Walks
+Michellefort, ID 98085-6066",failed,True,"96103 Riley Walks
+Michellefort, ID 98085-6066",yfpqgg5oxsn107veaala,lleonard@turner-fleming.com,97.111.97.42,1-414-937-7421x73705
+gdsjvg,twmq62jy6,70,False,3pymh6mw,Fountain Financial Inc.,JCB 16 digit,True,card,70,"881 Jessica Ford
+Ericksonhaven, FL 83492-3227",fulfilled,True,"881 Jessica Ford
+Ericksonhaven, FL 83492-3227",jvab5ehh3y5u4spybjm4,whitedavid@jones-lloyd.org,95.228.108.171,902.047.2861
+a8rmch,twmq62jy6,73,False,009jh4iq,Fountain Financial Inc.,JCB 16 digit,True,card,73,"881 Jessica Ford
+Ericksonhaven, FL 83492-3227",fulfilled,True,"881 Jessica Ford
+Ericksonhaven, FL 83492-3227",jvab5ehh3y5u4spybjm4,whitedavid@jones-lloyd.org,95.228.108.171,902.047.2861
+0ssrq7,twmq62jy6,45,False,i8ish28k,Fountain Financial Inc.,JCB 16 digit,True,card,45,"9593 Gomez Tunnel Suite 588
+Christianberg, WV 17842-4677",fulfilled,True,"881 Jessica Ford
+Ericksonhaven, FL 83492-3227",jvab5ehh3y5u4spybjm4,whitedavid@jones-lloyd.org,95.228.108.171,902.047.2861
+3oa84g,schhirx31,52,False,unkt953p,Solace Banks,JCB 16 digit,False,card,52,"881 Jessica Ford
+Ericksonhaven, FL 83492-3227",fulfilled,True,"881 Jessica Ford
+Ericksonhaven, FL 83492-3227",jvab5ehh3y5u4spybjm4,whitedavid@jones-lloyd.org,95.228.108.171,902.047.2861
+znuuw1,schhirx31,43,False,bjtbye6a,Solace Banks,JCB 16 digit,False,card,43,"881 Jessica Ford
+Ericksonhaven, FL 83492-3227",failed,True,"881 Jessica Ford
+Ericksonhaven, FL 83492-3227",jvab5ehh3y5u4spybjm4,whitedavid@jones-lloyd.org,95.228.108.171,902.047.2861
+zwxx7h,ktxquppwn,15,True,c15e6515,Her Majesty Trust,Voyager,False,card,15,"3195 Farmer Mills Apt. 946
+Brittanymouth, IA 14170",failed,False,"3195 Farmer Mills Apt. 946
+Brittanymouth, IA 14170",sjoj10iss04dq90i4w7x,tayloreric@gmail.com,3.75.86.140,1-160-137-7889x74832
+zwxx7h,ktxquppwn,15,False,58xj4057,Her Majesty Trust,Voyager,False,card,15,"3195 Farmer Mills Apt. 946
+Brittanymouth, IA 14170",failed,False,"3195 Farmer Mills Apt. 946
+Brittanymouth, IA 14170",sjoj10iss04dq90i4w7x,tayloreric@gmail.com,3.75.86.140,1-160-137-7889x74832
+oe5ua5,ktxquppwn,39,False,v2eetof8,Her Majesty Trust,Voyager,False,card,39,"3195 Farmer Mills Apt. 946
+Brittanymouth, IA 14170",fulfilled,False,"3195 Farmer Mills Apt. 946
+Brittanymouth, IA 14170",sjoj10iss04dq90i4w7x,tayloreric@gmail.com,3.75.86.140,1-160-137-7889x74832
+hnm11l,e02yhpn93,16,False,90fuwka6,Grand Credit Corporation,Discover,True,bitcoin,16,"3195 Farmer Mills Apt. 946
+Brittanymouth, IA 14170",fulfilled,False,"3195 Farmer Mills Apt. 946
+Brittanymouth, IA 14170",sjoj10iss04dq90i4w7x,tayloreric@gmail.com,3.75.86.140,1-160-137-7889x74832
+38153h,ust8991vz,40,False,8bksc5m8,Vertex Bancorp,Diners Club / Carte Blanche,True,card,40,"3271 Cynthia Groves
+Port Jeremyberg, CO 27305",fulfilled,True,"3271 Cynthia Groves
+Port Jeremyberg, CO 27305",obb41ux0zfa2td5ajo9s,shelby24@hotmail.com,45.203.99.249,(071)934-3315x27613
+ocwyyj,ust8991vz,33,False,vjunxb2y,Vertex Bancorp,Diners Club / Carte Blanche,True,card,33,"29331 Lowe Trace Apt. 964
+Rosalesview, MT 96654-1454",failed,True,"3271 Cynthia Groves
+Port Jeremyberg, CO 27305",obb41ux0zfa2td5ajo9s,shelby24@hotmail.com,45.203.99.249,(071)934-3315x27613
+ocwyyj,ws9sghi5j,33,True,uy4yp6pt,Bulwark Trust Corp.,Mastercard,False,card,33,"29331 Lowe Trace Apt. 964
+Rosalesview, MT 96654-1454",failed,True,"3271 Cynthia Groves
+Port Jeremyberg, CO 27305",obb41ux0zfa2td5ajo9s,shelby24@hotmail.com,45.203.99.249,(071)934-3315x27613
+zjigls,ust8991vz,36,False,z2u9dn7i,Vertex Bancorp,Diners Club / Carte Blanche,True,card,36,"3271 Cynthia Groves
+Port Jeremyberg, CO 27305",fulfilled,True,"3271 Cynthia Groves
+Port Jeremyberg, CO 27305",obb41ux0zfa2td5ajo9s,shelby24@hotmail.com,45.203.99.249,(071)934-3315x27613
+99fepx,ws9sghi5j,50,False,9s2ob8gu,Bulwark Trust Corp.,Mastercard,False,card,50,"3271 Cynthia Groves
+Port Jeremyberg, CO 27305",fulfilled,True,"3271 Cynthia Groves
+Port Jeremyberg, CO 27305",obb41ux0zfa2td5ajo9s,shelby24@hotmail.com,45.203.99.249,(071)934-3315x27613
+297izj,47p53nhjt,35,False,1fgz8zng,Grand Credit Corporation,VISA 16 digit,False,paypal,35,"7835 Jasmine Mission Suite 502
+Port Alejandra, WA 47942-2517",failed,False,"7835 Jasmine Mission Suite 502
+Port Alejandra, WA 47942-2517",z3vo5aropo8rd2lfqrnq,cindydelgado@gmail.com,86.201.239.98,523.689.5105x7670
+4ryti3,47p53nhjt,46,False,b13nyxts,Grand Credit Corporation,VISA 16 digit,False,paypal,46,"7835 Jasmine Mission Suite 502
+Port Alejandra, WA 47942-2517",fulfilled,False,"7835 Jasmine Mission Suite 502
+Port Alejandra, WA 47942-2517",z3vo5aropo8rd2lfqrnq,cindydelgado@gmail.com,86.201.239.98,523.689.5105x7670
+1nblrq,47p53nhjt,49,False,x73jfun1,Grand Credit Corporation,VISA 16 digit,False,paypal,49,"7835 Jasmine Mission Suite 502
+Port Alejandra, WA 47942-2517",fulfilled,False,"7835 Jasmine Mission Suite 502
+Port Alejandra, WA 47942-2517",z3vo5aropo8rd2lfqrnq,cindydelgado@gmail.com,86.201.239.98,523.689.5105x7670
+lgnbul,47p53nhjt,16,False,4o8fq6zf,Grand Credit Corporation,VISA 16 digit,False,paypal,16,"7835 Jasmine Mission Suite 502
+Port Alejandra, WA 47942-2517",fulfilled,False,"7835 Jasmine Mission Suite 502
+Port Alejandra, WA 47942-2517",z3vo5aropo8rd2lfqrnq,cindydelgado@gmail.com,86.201.239.98,523.689.5105x7670
+4x5z1z,te1pi876k,36,True,rsxqencf,Grand Credit Corporation,Voyager,False,card,36,"97017 Zoe Fields Suite 624
+East Marcusville, VI 71667-6156",fulfilled,True,"49680 Brian Squares Apt. 122
+Port Walterburgh, MH 02766-0708",yq8xiivmx4prlgx0gofo,brittanydean@hotmail.com,3517:8e52:885:8640:a59:f5fd:cb33:b06a,06238721842
+4x5z1z,te1pi876k,36,True,xqb78j8d,Grand Credit Corporation,Voyager,False,card,36,"97017 Zoe Fields Suite 624
+East Marcusville, VI 71667-6156",fulfilled,True,"49680 Brian Squares Apt. 122
+Port Walterburgh, MH 02766-0708",yq8xiivmx4prlgx0gofo,brittanydean@hotmail.com,3517:8e52:885:8640:a59:f5fd:cb33:b06a,06238721842
+4x5z1z,te1pi876k,36,False,mq9xpl0j,Grand Credit Corporation,Voyager,False,card,36,"97017 Zoe Fields Suite 624
+East Marcusville, VI 71667-6156",fulfilled,True,"49680 Brian Squares Apt. 122
+Port Walterburgh, MH 02766-0708",yq8xiivmx4prlgx0gofo,brittanydean@hotmail.com,3517:8e52:885:8640:a59:f5fd:cb33:b06a,06238721842
+cilumk,te1pi876k,15,False,tujxikee,Grand Credit Corporation,Voyager,False,card,15,"97017 Zoe Fields Suite 624
+East Marcusville, VI 71667-6156",fulfilled,True,"49680 Brian Squares Apt. 122
+Port Walterburgh, MH 02766-0708",yq8xiivmx4prlgx0gofo,brittanydean@hotmail.com,3517:8e52:885:8640:a59:f5fd:cb33:b06a,06238721842
+znrz7h,te1pi876k,43,False,08k9grki,Grand Credit Corporation,Voyager,False,card,43,"97017 Zoe Fields Suite 624
+East Marcusville, VI 71667-6156",fulfilled,True,"49680 Brian Squares Apt. 122
+Port Walterburgh, MH 02766-0708",yq8xiivmx4prlgx0gofo,brittanydean@hotmail.com,3517:8e52:885:8640:a59:f5fd:cb33:b06a,06238721842
+ysg7hn,te1pi876k,36,False,28ddf0q0,Grand Credit Corporation,Voyager,False,card,36,"97017 Zoe Fields Suite 624
+East Marcusville, VI 71667-6156",fulfilled,True,"49680 Brian Squares Apt. 122
+Port Walterburgh, MH 02766-0708",yq8xiivmx4prlgx0gofo,brittanydean@hotmail.com,3517:8e52:885:8640:a59:f5fd:cb33:b06a,06238721842
+z4z8pu,zsk2itfp9,11,False,evap24h5,Rose Bancshares,Maestro,False,card,11,"000 Harmon Passage Suite 981
+East Erika, HI 63934",fulfilled,False,"991 Melton Viaduct
+Wagnerville, NH 56051",mcfj07mm32tyodtfh7z2,watkinscaroline@lewis-haas.com,244.18.220.218,153-392-3908x8124
+kcyceh,zsk2itfp9,27,False,qv0juj5h,Rose Bancshares,Maestro,False,card,27,"991 Melton Viaduct
+Wagnerville, NH 56051",fulfilled,False,"991 Melton Viaduct
+Wagnerville, NH 56051",mcfj07mm32tyodtfh7z2,watkinscaroline@lewis-haas.com,244.18.220.218,153-392-3908x8124
+r7iurq,5n1znn6g7,31,True,3ukr2xo2,Rose Bancshares,JCB 15 digit,False,card,31,"95667 Alex Burg
+Greenton, NH 20710-0614",fulfilled,False,"95667 Alex Burg
+Greenton, NH 20710-0614",jx3d90d32iz1zlo5jntm,marissacollins@mckinney.com,a2df:1771:97bf:98cb:3a4c:c7ec:a113:b080,09686705337
+komvqe,5n1znn6g7,33,False,wkk02323,Rose Bancshares,JCB 15 digit,False,card,33,"95667 Alex Burg
+Greenton, NH 20710-0614",fulfilled,False,"95667 Alex Burg
+Greenton, NH 20710-0614",jx3d90d32iz1zlo5jntm,marissacollins@mckinney.com,a2df:1771:97bf:98cb:3a4c:c7ec:a113:b080,09686705337
+oe260k,5n1znn6g7,46,False,j8pqgvs2,Rose Bancshares,JCB 15 digit,False,card,46,"1762 Richardson Mews Apt. 594
+Garciaton, UT 12157-8935",fulfilled,False,"95667 Alex Burg
+Greenton, NH 20710-0614",jx3d90d32iz1zlo5jntm,marissacollins@mckinney.com,a2df:1771:97bf:98cb:3a4c:c7ec:a113:b080,09686705337
+vo6yxx,5n1znn6g7,12,True,ldrk3iu0,Rose Bancshares,JCB 15 digit,False,card,12,"3514 Larry Cliffs
+Lake Douglasland, MH 08125-7086",fulfilled,False,"95667 Alex Burg
+Greenton, NH 20710-0614",jx3d90d32iz1zlo5jntm,marissacollins@mckinney.com,a2df:1771:97bf:98cb:3a4c:c7ec:a113:b080,09686705337
+vo6yxx,5n1znn6g7,12,False,u8124k9p,Rose Bancshares,JCB 15 digit,False,card,12,"3514 Larry Cliffs
+Lake Douglasland, MH 08125-7086",fulfilled,False,"95667 Alex Burg
+Greenton, NH 20710-0614",jx3d90d32iz1zlo5jntm,marissacollins@mckinney.com,a2df:1771:97bf:98cb:3a4c:c7ec:a113:b080,09686705337
+f1ykft,5n1znn6g7,32,False,ggmerx76,Rose Bancshares,JCB 15 digit,False,card,32,"95667 Alex Burg
+Greenton, NH 20710-0614",fulfilled,False,"95667 Alex Burg
+Greenton, NH 20710-0614",jx3d90d32iz1zlo5jntm,marissacollins@mckinney.com,a2df:1771:97bf:98cb:3a4c:c7ec:a113:b080,09686705337
+nzxaq8,dmbt74m31,20,False,rkahezdu,Bastion Banks,Maestro,False,bitcoin,20,"10068 Adam Rapids Suite 792
+Rileyburgh, GA 11372",fulfilled,True,"10068 Adam Rapids Suite 792
+Rileyburgh, GA 11372",s93o0wj3eqd9whcy9ng3,craig83@rasmussen-alvarado.com,35.212.254.226,122-259-7479x336
+8yj5xm,2g0jtwk7z,21,True,crl6tv84,Bastion Banks,Diners Club / Carte Blanche,False,apple pay,21,"9411 Brittany Mount Suite 563
+Kevinfort, PW 49639-4327",fulfilled,True,"10068 Adam Rapids Suite 792
+Rileyburgh, GA 11372",s93o0wj3eqd9whcy9ng3,craig83@rasmussen-alvarado.com,35.212.254.226,122-259-7479x336
+tnx3nb,5dcw1pvfp,14,False,gaxk9rqy,Vertex Bancorp,VISA 16 digit,False,card,14,"911 Miller Summit Suite 426
+Port Ashley, IA 03124-9666",fulfilled,False,"911 Miller Summit Suite 426
+Port Ashley, IA 03124-9666",y2n05wrk1bg8w21bey0t,thernandez@johnson-quinn.com,1f62:a7f0:6db0:caee:9b6a:eafd:dfea:c50,(940)148-2704
+un1swp,5dcw1pvfp,22,False,m8r6hniu,Vertex Bancorp,VISA 16 digit,False,card,22,"911 Miller Summit Suite 426
+Port Ashley, IA 03124-9666",fulfilled,False,"911 Miller Summit Suite 426
+Port Ashley, IA 03124-9666",y2n05wrk1bg8w21bey0t,thernandez@johnson-quinn.com,1f62:a7f0:6db0:caee:9b6a:eafd:dfea:c50,(940)148-2704
+8hzrs6,k3j0csvbi,22,False,65kax9bv,Bastion Banks,JCB 16 digit,True,paypal,22,"94798 Reed Park Apt. 840
+Port Normanborough, ME 36946-3989",pending,False,"94798 Reed Park Apt. 840
+Port Normanborough, ME 36946-3989",dpgcbcifnntnq2ht4owp,emilyroberts@hotmail.com,87.18.25.113,479.228.3536
+lv7bgj,k3j0csvbi,14,False,jydc0igm,Bastion Banks,JCB 16 digit,True,paypal,14,"94798 Reed Park Apt. 840
+Port Normanborough, ME 36946-3989",fulfilled,False,"94798 Reed Park Apt. 840
+Port Normanborough, ME 36946-3989",dpgcbcifnntnq2ht4owp,emilyroberts@hotmail.com,87.18.25.113,479.228.3536
+5qsujo,syeg4jsea,36,False,a77klpib,Citizens First Banks,JCB 16 digit,False,card,36,"2535 Anthony Fork
+West Alexander, ID 09504-1790",fulfilled,True,"PSC 9111, Box 9839
+APO AA 57283-9646",b1tjk5s0j9ybj1qpt3ik,vmiller@hotmail.com,164.79.214.9,000-734-4774
+e079kp,syeg4jsea,60,False,ip5tk6rk,Citizens First Banks,JCB 16 digit,False,card,60,"67953 Christopher Mount
+Moodyland, NC 47395-8833",fulfilled,True,"PSC 9111, Box 9839
+APO AA 57283-9646",b1tjk5s0j9ybj1qpt3ik,vmiller@hotmail.com,164.79.214.9,000-734-4774
+e4zp2d,syeg4jsea,57,False,0kkdyxv9,Citizens First Banks,JCB 16 digit,False,card,57,"PSC 9111, Box 9839
+APO AA 57283-9646",fulfilled,True,"PSC 9111, Box 9839
+APO AA 57283-9646",b1tjk5s0j9ybj1qpt3ik,vmiller@hotmail.com,164.79.214.9,000-734-4774
+uwlkgq,syeg4jsea,59,True,mjnf4ynr,Citizens First Banks,JCB 16 digit,False,card,59,"225 Brown Harbor Suite 036
+Scottburgh, MT 20780-6268",fulfilled,True,"PSC 9111, Box 9839
+APO AA 57283-9646",b1tjk5s0j9ybj1qpt3ik,vmiller@hotmail.com,164.79.214.9,000-734-4774
+1r723d,syeg4jsea,64,True,chhgzokp,Citizens First Banks,JCB 16 digit,False,card,64,"529 Jacob Crest
+Scottton, NE 85064-4340",fulfilled,True,"PSC 9111, Box 9839
+APO AA 57283-9646",b1tjk5s0j9ybj1qpt3ik,vmiller@hotmail.com,164.79.214.9,000-734-4774
+1r723d,syeg4jsea,64,False,1hnqqte8,Citizens First Banks,JCB 16 digit,False,card,64,"529 Jacob Crest
+Scottton, NE 85064-4340",fulfilled,True,"PSC 9111, Box 9839
+APO AA 57283-9646",b1tjk5s0j9ybj1qpt3ik,vmiller@hotmail.com,164.79.214.9,000-734-4774
+kclajf,syeg4jsea,54,False,1fvxj1f7,Citizens First Banks,JCB 16 digit,False,card,54,"PSC 9111, Box 9839
+APO AA 57283-9646",fulfilled,True,"PSC 9111, Box 9839
+APO AA 57283-9646",b1tjk5s0j9ybj1qpt3ik,vmiller@hotmail.com,164.79.214.9,000-734-4774
+src36a,syeg4jsea,55,True,vmzjq1hz,Citizens First Banks,JCB 16 digit,False,card,55,"15195 Lucas Falls
+Sarahbury, VI 08589",fulfilled,True,"PSC 9111, Box 9839
+APO AA 57283-9646",b1tjk5s0j9ybj1qpt3ik,vmiller@hotmail.com,164.79.214.9,000-734-4774
+src36a,syeg4jsea,55,False,2pxfi412,Citizens First Banks,JCB 16 digit,False,card,55,"15195 Lucas Falls
+Sarahbury, VI 08589",fulfilled,True,"PSC 9111, Box 9839
+APO AA 57283-9646",b1tjk5s0j9ybj1qpt3ik,vmiller@hotmail.com,164.79.214.9,000-734-4774
+urki6d,syeg4jsea,47,False,tp8rcpaj,Citizens First Banks,JCB 16 digit,False,card,47,"90617 White Street Apt. 541
+Smithville, HI 91427",failed,True,"PSC 9111, Box 9839
+APO AA 57283-9646",b1tjk5s0j9ybj1qpt3ik,vmiller@hotmail.com,164.79.214.9,000-734-4774
+xmco0d,g7u0onbnv,74,False,37wzwli3,His Majesty Bank Corp.,JCB 15 digit,False,card,74,"29024 Christopher Vista Apt. 927
+Tracyland, MS 47831-2674",fulfilled,True,"5360 Adams Falls Suite 829
+Hensleymouth, WV 86746-6334",l6qv05oe0h0j78kx84ex,david45@gmail.com,9d8d:535b:36fc:8773:bec0:8fa5:3206:4cb5,(508)223-3834
+l35jjq,g7u0onbnv,57,True,1nm2xl3k,His Majesty Bank Corp.,JCB 15 digit,False,card,57,"33909 Christy Plains Suite 457
+Crystalmouth, MN 05117-2881",fulfilled,True,"5360 Adams Falls Suite 829
+Hensleymouth, WV 86746-6334",l6qv05oe0h0j78kx84ex,david45@gmail.com,9d8d:535b:36fc:8773:bec0:8fa5:3206:4cb5,(508)223-3834
+l35jjq,g7u0onbnv,57,True,rbjz1iom,His Majesty Bank Corp.,JCB 15 digit,False,card,57,"33909 Christy Plains Suite 457
+Crystalmouth, MN 05117-2881",fulfilled,True,"5360 Adams Falls Suite 829
+Hensleymouth, WV 86746-6334",l6qv05oe0h0j78kx84ex,david45@gmail.com,9d8d:535b:36fc:8773:bec0:8fa5:3206:4cb5,(508)223-3834
+l35jjq,60ktm2k9f,57,True,o09fmom1,Fountain Financial Inc.,JCB 16 digit,False,bitcoin,57,"33909 Christy Plains Suite 457
+Crystalmouth, MN 05117-2881",fulfilled,True,"5360 Adams Falls Suite 829
+Hensleymouth, WV 86746-6334",l6qv05oe0h0j78kx84ex,david45@gmail.com,9d8d:535b:36fc:8773:bec0:8fa5:3206:4cb5,(508)223-3834
+6kc5n5,u1ae0romw,57,False,t08f5g4x,His Majesty Bank Corp.,Discover,False,card,57,"5360 Adams Falls Suite 829
+Hensleymouth, WV 86746-6334",fulfilled,True,"5360 Adams Falls Suite 829
+Hensleymouth, WV 86746-6334",l6qv05oe0h0j78kx84ex,david45@gmail.com,9d8d:535b:36fc:8773:bec0:8fa5:3206:4cb5,(508)223-3834
+ujgjis,u1ae0romw,53,False,lva5by83,His Majesty Bank Corp.,Discover,False,card,53,"5360 Adams Falls Suite 829
+Hensleymouth, WV 86746-6334",fulfilled,True,"5360 Adams Falls Suite 829
+Hensleymouth, WV 86746-6334",l6qv05oe0h0j78kx84ex,david45@gmail.com,9d8d:535b:36fc:8773:bec0:8fa5:3206:4cb5,(508)223-3834
+owjv3s,u1ae0romw,36,False,88pxkgun,His Majesty Bank Corp.,Discover,False,card,36,"815 Gibson Well Suite 392
+Johnsonfurt, AL 88402",fulfilled,True,"5360 Adams Falls Suite 829
+Hensleymouth, WV 86746-6334",l6qv05oe0h0j78kx84ex,david45@gmail.com,9d8d:535b:36fc:8773:bec0:8fa5:3206:4cb5,(508)223-3834
+3hprb8,s5crwdixe,61,False,1jpyo91x,Her Majesty Trust,Voyager,False,apple pay,61,"981 Carroll Parks Apt. 704
+East Michaelshire, AZ 93416",fulfilled,True,"5360 Adams Falls Suite 829
+Hensleymouth, WV 86746-6334",l6qv05oe0h0j78kx84ex,david45@gmail.com,9d8d:535b:36fc:8773:bec0:8fa5:3206:4cb5,(508)223-3834
+745ioj,tulie7ios,67,False,w7v8dfj3,Bulwark Trust Corp.,Diners Club / Carte Blanche,False,card,67,"5360 Adams Falls Suite 829
+Hensleymouth, WV 86746-6334",fulfilled,True,"5360 Adams Falls Suite 829
+Hensleymouth, WV 86746-6334",l6qv05oe0h0j78kx84ex,david45@gmail.com,9d8d:535b:36fc:8773:bec0:8fa5:3206:4cb5,(508)223-3834
+fc3nvv,tulie7ios,47,False,55dcono8,Bulwark Trust Corp.,Diners Club / Carte Blanche,False,card,47,"469 Roger Manors Apt. 320
+East Jacobville, PA 78876-0523",fulfilled,True,"5360 Adams Falls Suite 829
+Hensleymouth, WV 86746-6334",l6qv05oe0h0j78kx84ex,david45@gmail.com,9d8d:535b:36fc:8773:bec0:8fa5:3206:4cb5,(508)223-3834
+ohf8go,ru53ucaj4,17,False,4r72r534,e,Diners Club / Carte Blanche,False,card,17,"USS Faulkner
+FPO AE 60416-0002",fulfilled,True,"6609 Hannah Road Suite 577
+Richardchester, AL 20921",gt7k74rsgtklj0zjx8gl,fdavis@wolfe-brown.com,69.138.168.116,143-448-8038x81186
+06hsk6,ru53ucaj4,25,False,0flz070f,e,Diners Club / Carte Blanche,False,card,25,"6609 Hannah Road Suite 577
+Richardchester, AL 20921",fulfilled,True,"6609 Hannah Road Suite 577
+Richardchester, AL 20921",gt7k74rsgtklj0zjx8gl,fdavis@wolfe-brown.com,69.138.168.116,143-448-8038x81186
+u4dydn,gims4zlcp,30,False,lbfnlnfe,Bulwark Trust Corp.,Voyager,False,card,30,"6609 Hannah Road Suite 577
+Richardchester, AL 20921",fulfilled,True,"6609 Hannah Road Suite 577
+Richardchester, AL 20921",gt7k74rsgtklj0zjx8gl,fdavis@wolfe-brown.com,69.138.168.116,143-448-8038x81186
+uz0oa1,qr7kuc1gm,41,False,fkoqiy81,Rose Bancshares,American Express,False,apple pay,41,"206 Olson Viaduct Apt. 982
+North Charleschester, CA 67567",fulfilled,False,"206 Olson Viaduct Apt. 982
+North Charleschester, CA 67567",3nl9r01aoqks8pn0m4hb,kathleenlee@yahoo.com,143.172.2.212,03898354581
+5vu69a,qr7kuc1gm,10,False,xszxv6w1,Rose Bancshares,American Express,False,apple pay,10,"206 Olson Viaduct Apt. 982
+North Charleschester, CA 67567",pending,False,"206 Olson Viaduct Apt. 982
+North Charleschester, CA 67567",3nl9r01aoqks8pn0m4hb,kathleenlee@yahoo.com,143.172.2.212,03898354581
+mpwhj2,qr7kuc1gm,38,False,9masuhff,Rose Bancshares,American Express,False,apple pay,38,"7193 James Circles
+Tranport, NM 21037",fulfilled,False,"206 Olson Viaduct Apt. 982
+North Charleschester, CA 67567",3nl9r01aoqks8pn0m4hb,kathleenlee@yahoo.com,143.172.2.212,03898354581
+mpwhj2,1uzbo147p,38,True,nl649qu5,Fountain Financial Inc.,Diners Club / Carte Blanche,False,card,38,"7193 James Circles
+Tranport, NM 21037",fulfilled,False,"206 Olson Viaduct Apt. 982
+North Charleschester, CA 67567",3nl9r01aoqks8pn0m4hb,kathleenlee@yahoo.com,143.172.2.212,03898354581
+qvbjir,qr7kuc1gm,32,True,ah0args9,Rose Bancshares,American Express,False,apple pay,32,"206 Olson Viaduct Apt. 982
+North Charleschester, CA 67567",fulfilled,False,"206 Olson Viaduct Apt. 982
+North Charleschester, CA 67567",3nl9r01aoqks8pn0m4hb,kathleenlee@yahoo.com,143.172.2.212,03898354581
+qvbjir,t9ilu4ywl,32,False,ezx663wg,Bulwark Trust Corp.,Diners Club / Carte Blanche,False,card,32,"206 Olson Viaduct Apt. 982
+North Charleschester, CA 67567",fulfilled,False,"206 Olson Viaduct Apt. 982
+North Charleschester, CA 67567",3nl9r01aoqks8pn0m4hb,kathleenlee@yahoo.com,143.172.2.212,03898354581
+d2szgv,i7h51ufsw,18,False,xduef3wa,Fountain Financial Inc.,VISA 16 digit,True,card,18,"90771 Daniel Field Apt. 429
+North Jamesland, IL 45690",fulfilled,False,"90771 Daniel Field Apt. 429
+North Jamesland, IL 45690",akahn9g6l5245a3zfby6,benjamin19@gmail.com,d7d:faf5:36a8:6b28:f7bc:b265:7611:ceda,145-419-0237x139
+xmaldl,i7h51ufsw,11,False,nm7oqe4d,Fountain Financial Inc.,VISA 16 digit,True,card,11,"90771 Daniel Field Apt. 429
+North Jamesland, IL 45690",fulfilled,False,"90771 Daniel Field Apt. 429
+North Jamesland, IL 45690",akahn9g6l5245a3zfby6,benjamin19@gmail.com,d7d:faf5:36a8:6b28:f7bc:b265:7611:ceda,145-419-0237x139
+xmaldl,3y1i3h6rv,11,True,g0v9a6i2,Her Majesty Trust,Discover,False,paypal,11,"90771 Daniel Field Apt. 429
+North Jamesland, IL 45690",fulfilled,False,"90771 Daniel Field Apt. 429
+North Jamesland, IL 45690",akahn9g6l5245a3zfby6,benjamin19@gmail.com,d7d:faf5:36a8:6b28:f7bc:b265:7611:ceda,145-419-0237x139
+ln8bdx,i7h51ufsw,47,False,kcdt39ks,Fountain Financial Inc.,VISA 16 digit,True,card,47,"90771 Daniel Field Apt. 429
+North Jamesland, IL 45690",fulfilled,False,"90771 Daniel Field Apt. 429
+North Jamesland, IL 45690",akahn9g6l5245a3zfby6,benjamin19@gmail.com,d7d:faf5:36a8:6b28:f7bc:b265:7611:ceda,145-419-0237x139
+m6zkwn,js2v4zlym,17,True,wkw8llhg,Bulwark Trust Corp.,American Express,False,card,17,"767 Tiffany Drive
+Mirandaview, OH 42972-3228",pending,True,"767 Tiffany Drive
+Mirandaview, OH 42972-3228",pycmjs4dqylc8rb0s9pt,mtrevino@gutierrez.net,6694:eef3:c2a3:9181:42a0:2df9:b2c1:2acd,390.417.8057
+51pdq1,w8f4lcsen,72,True,a0krnphc,Rose Bancshares,VISA 13 digit,True,card,72,"6774 Brian Cove
+New Rebekahshire, MT 42516",fulfilled,True,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",ui77ukzr5lnqpajdk03u,tmcpherson@wright.com,296d:59fe:a919:21ac:16dd:96f5:10b3:4f83,1-804-264-1481x08539
+51pdq1,w8f4lcsen,72,True,8ko07llh,Rose Bancshares,VISA 13 digit,True,card,72,"6774 Brian Cove
+New Rebekahshire, MT 42516",fulfilled,True,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",ui77ukzr5lnqpajdk03u,tmcpherson@wright.com,296d:59fe:a919:21ac:16dd:96f5:10b3:4f83,1-804-264-1481x08539
+bve6ws,w8f4lcsen,60,True,x84iyy6o,Rose Bancshares,VISA 13 digit,True,card,60,"400 Lynn Vista
+Bakerburgh, GA 04714-6151",fulfilled,True,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",ui77ukzr5lnqpajdk03u,tmcpherson@wright.com,296d:59fe:a919:21ac:16dd:96f5:10b3:4f83,1-804-264-1481x08539
+bve6ws,w8f4lcsen,60,False,jwdcjcvh,Rose Bancshares,VISA 13 digit,True,card,60,"400 Lynn Vista
+Bakerburgh, GA 04714-6151",fulfilled,True,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",ui77ukzr5lnqpajdk03u,tmcpherson@wright.com,296d:59fe:a919:21ac:16dd:96f5:10b3:4f83,1-804-264-1481x08539
+6sv4im,w8f4lcsen,42,False,rilyerv3,Rose Bancshares,VISA 13 digit,True,card,42,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",fulfilled,True,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",ui77ukzr5lnqpajdk03u,tmcpherson@wright.com,296d:59fe:a919:21ac:16dd:96f5:10b3:4f83,1-804-264-1481x08539
+loejqo,w8f4lcsen,33,False,nob1c9da,Rose Bancshares,VISA 13 digit,True,card,33,"5917 Barry Mall Apt. 592
+Dickersonborough, VT 20372",pending,True,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",ui77ukzr5lnqpajdk03u,tmcpherson@wright.com,296d:59fe:a919:21ac:16dd:96f5:10b3:4f83,1-804-264-1481x08539
+qrkjwn,w8f4lcsen,33,True,p9l1ry2z,Rose Bancshares,VISA 13 digit,True,card,33,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",fulfilled,True,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",ui77ukzr5lnqpajdk03u,tmcpherson@wright.com,296d:59fe:a919:21ac:16dd:96f5:10b3:4f83,1-804-264-1481x08539
+qrkjwn,w8f4lcsen,33,False,6h400s45,Rose Bancshares,VISA 13 digit,True,card,33,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",fulfilled,True,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",ui77ukzr5lnqpajdk03u,tmcpherson@wright.com,296d:59fe:a919:21ac:16dd:96f5:10b3:4f83,1-804-264-1481x08539
+bvbmdr,w8f4lcsen,35,False,37xngvsx,Rose Bancshares,VISA 13 digit,True,card,35,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",fulfilled,True,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",ui77ukzr5lnqpajdk03u,tmcpherson@wright.com,296d:59fe:a919:21ac:16dd:96f5:10b3:4f83,1-804-264-1481x08539
+etpzqt,w8f4lcsen,40,True,ho3ia5k6,Rose Bancshares,VISA 13 digit,True,card,40,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",fulfilled,True,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",ui77ukzr5lnqpajdk03u,tmcpherson@wright.com,296d:59fe:a919:21ac:16dd:96f5:10b3:4f83,1-804-264-1481x08539
+etpzqt,w8f4lcsen,40,True,cthnkebs,Rose Bancshares,VISA 13 digit,True,card,40,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",fulfilled,True,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",ui77ukzr5lnqpajdk03u,tmcpherson@wright.com,296d:59fe:a919:21ac:16dd:96f5:10b3:4f83,1-804-264-1481x08539
+etpzqt,w8f4lcsen,40,False,4yoepvao,Rose Bancshares,VISA 13 digit,True,card,40,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",fulfilled,True,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",ui77ukzr5lnqpajdk03u,tmcpherson@wright.com,296d:59fe:a919:21ac:16dd:96f5:10b3:4f83,1-804-264-1481x08539
+p3i7n9,w8f4lcsen,36,False,7l217x0d,Rose Bancshares,VISA 13 digit,True,card,36,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",fulfilled,True,"7956 Alex Avenue Apt. 593
+Port Michael, OK 41350",ui77ukzr5lnqpajdk03u,tmcpherson@wright.com,296d:59fe:a919:21ac:16dd:96f5:10b3:4f83,1-804-264-1481x08539
+lqc3os,n8g5z0l5a,66,True,z7wlutjb,Fountain Financial Inc.,JCB 16 digit,False,card,66,"65309 Evans Village Suite 325
+Lake Victoriafort, MO 48375-9683",fulfilled,True,"3074 Caroline Oval
+Lake Maryburgh, MA 15880",fmm4yabu9llergl9qbl9,wdelacruz@yahoo.com,cd18:5626:a1c4:7e99:addf:368e:c98:e772,155.688.4242x443
+q60uc8,n8g5z0l5a,46,False,7prmsn0c,Fountain Financial Inc.,JCB 16 digit,False,card,46,"090 Cunningham Ports
+Hallhaven, VI 34605-5359",failed,True,"3074 Caroline Oval
+Lake Maryburgh, MA 15880",fmm4yabu9llergl9qbl9,wdelacruz@yahoo.com,cd18:5626:a1c4:7e99:addf:368e:c98:e772,155.688.4242x443
+fsnt56,n8g5z0l5a,47,False,y57y5psb,Fountain Financial Inc.,JCB 16 digit,False,card,47,"3074 Caroline Oval
+Lake Maryburgh, MA 15880",failed,True,"3074 Caroline Oval
+Lake Maryburgh, MA 15880",fmm4yabu9llergl9qbl9,wdelacruz@yahoo.com,cd18:5626:a1c4:7e99:addf:368e:c98:e772,155.688.4242x443
+j6lfpo,n8g5z0l5a,72,False,m4c0aa62,Fountain Financial Inc.,JCB 16 digit,False,card,72,"3074 Caroline Oval
+Lake Maryburgh, MA 15880",fulfilled,True,"3074 Caroline Oval
+Lake Maryburgh, MA 15880",fmm4yabu9llergl9qbl9,wdelacruz@yahoo.com,cd18:5626:a1c4:7e99:addf:368e:c98:e772,155.688.4242x443
+8p5okv,tmx17utwv,17,False,57bf8t4x,c,VISA 16 digit,False,card,17,"8554 John Forge Apt. 284
+Port Kimberlyburgh, NM 29954-7053",fulfilled,True,"8554 John Forge Apt. 284
+Port Kimberlyburgh, NM 29954-7053",dhe9trcjv1fyr2vr18q2,brooksdustin@knight.info,172.69.105.137,345.319.0722x7868
+cdt22w,vnrb9adla,46,False,syutt7yx,Grand Credit Corporation,Voyager,False,card,46,"5154 Fernandez Points Apt. 712
+Mcguirehaven, MN 91595",fulfilled,False,"5154 Fernandez Points Apt. 712
+Mcguirehaven, MN 91595",nsbh7z6p9hw17qq4mhhh,ybrown@gmail.com,101.94.37.245,+32(2)6119524982
+w936ae,4wf6hh0n2,42,False,zzg2ywpl,Bulwark Trust Corp.,VISA 16 digit,False,card,42,"5154 Fernandez Points Apt. 712
+Mcguirehaven, MN 91595",fulfilled,False,"5154 Fernandez Points Apt. 712
+Mcguirehaven, MN 91595",nsbh7z6p9hw17qq4mhhh,ybrown@gmail.com,101.94.37.245,+32(2)6119524982
+xsg232,os6ezvnwg,36,False,0mnx24qs,Grand Credit Corporation,JCB 16 digit,False,card,36,"5154 Fernandez Points Apt. 712
+Mcguirehaven, MN 91595",failed,False,"5154 Fernandez Points Apt. 712
+Mcguirehaven, MN 91595",nsbh7z6p9hw17qq4mhhh,ybrown@gmail.com,101.94.37.245,+32(2)6119524982
+1x9wie,os6ezvnwg,10,True,2obfozx3,Grand Credit Corporation,JCB 16 digit,False,card,10,"5154 Fernandez Points Apt. 712
+Mcguirehaven, MN 91595",fulfilled,False,"5154 Fernandez Points Apt. 712
+Mcguirehaven, MN 91595",nsbh7z6p9hw17qq4mhhh,ybrown@gmail.com,101.94.37.245,+32(2)6119524982
+1x9wie,os6ezvnwg,10,False,jauf6x87,Grand Credit Corporation,JCB 16 digit,False,card,10,"5154 Fernandez Points Apt. 712
+Mcguirehaven, MN 91595",fulfilled,False,"5154 Fernandez Points Apt. 712
+Mcguirehaven, MN 91595",nsbh7z6p9hw17qq4mhhh,ybrown@gmail.com,101.94.37.245,+32(2)6119524982
+b1t6wl,gw4lq4cuy,30,False,7pupat69,Citizens First Banks,VISA 13 digit,False,card,30,"3120 Horne Vista
+Port Emmaview, LA 25479",fulfilled,False,"3120 Horne Vista
+Port Emmaview, LA 25479",dcxumu40bfvtofs61r9c,vreyes@cruz.info,4169:eb39:d5db:e1ab:b739:6e98:70:4f39,029-308-3389
+qy4n1h,6rli0g8of,42,False,fkjd0vf6,Her Majesty Trust,VISA 13 digit,False,card,42,"8795 Mary Motorway
+Judithfurt, VT 29567",fulfilled,False,"Unit 6251 Box 1562
+DPO AP 54457-8709",26buke7oqcdrk1x78588,nicolekelly@hotmail.com,242.102.134.32,02296551953
+2r16j4,duk5e3nae,21,False,xggmoajo,Rose Bancshares,JCB 16 digit,False,card,21,"8663 Kaitlyn Key
+Brittanyview, CT 46389",fulfilled,False,"8663 Kaitlyn Key
+Brittanyview, CT 46389",ck37pcnsqa9po9g1euae,barronelizabeth@singh.org,130.55.185.234,867.528.2694x83638
+fs5qr2,duk5e3nae,16,False,54mziv51,Rose Bancshares,JCB 16 digit,False,card,16,"8663 Kaitlyn Key
+Brittanyview, CT 46389",fulfilled,False,"8663 Kaitlyn Key
+Brittanyview, CT 46389",ck37pcnsqa9po9g1euae,barronelizabeth@singh.org,130.55.185.234,867.528.2694x83638
+zrklm8,duk5e3nae,22,False,l022kzwv,Rose Bancshares,JCB 16 digit,False,card,22,"8663 Kaitlyn Key
+Brittanyview, CT 46389",fulfilled,False,"8663 Kaitlyn Key
+Brittanyview, CT 46389",ck37pcnsqa9po9g1euae,barronelizabeth@singh.org,130.55.185.234,867.528.2694x83638
+zrklm8,iq66wkmk1,22,True,14s99io7,Grand Credit Corporation,Voyager,False,paypal,22,"8663 Kaitlyn Key
+Brittanyview, CT 46389",fulfilled,False,"8663 Kaitlyn Key
+Brittanyview, CT 46389",ck37pcnsqa9po9g1euae,barronelizabeth@singh.org,130.55.185.234,867.528.2694x83638
+7p1kg7,iq66wkmk1,39,False,v2io6j5q,Grand Credit Corporation,Voyager,False,paypal,39,"09079 Bond Land Apt. 431
+Dominguezville, DE 27285-7158",fulfilled,False,"8663 Kaitlyn Key
+Brittanyview, CT 46389",ck37pcnsqa9po9g1euae,barronelizabeth@singh.org,130.55.185.234,867.528.2694x83638
+m1ivme,0hxz5kbtr,16,False,hpcl1rqn,Fountain Financial Inc.,JCB 15 digit,False,card,16,"2672 Jeffrey Cove
+Michaelport, ND 40991-4174",pending,False,"2672 Jeffrey Cove
+Michaelport, ND 40991-4174",jyk9fawabmu0yi4ee69q,phillip89@gmail.com,2.47.31.110,649-150-0665
+lbg7xt,0hxz5kbtr,45,False,i5cw09zr,Fountain Financial Inc.,JCB 15 digit,False,card,45,"2672 Jeffrey Cove
+Michaelport, ND 40991-4174",fulfilled,False,"2672 Jeffrey Cove
+Michaelport, ND 40991-4174",jyk9fawabmu0yi4ee69q,phillip89@gmail.com,2.47.31.110,649-150-0665
+6fzokb,0hxz5kbtr,13,False,5gbtznk4,Fountain Financial Inc.,JCB 15 digit,False,card,13,"2672 Jeffrey Cove
+Michaelport, ND 40991-4174",fulfilled,False,"2672 Jeffrey Cove
+Michaelport, ND 40991-4174",jyk9fawabmu0yi4ee69q,phillip89@gmail.com,2.47.31.110,649-150-0665
+eqaoio,3zzg1etrq,74,False,gpeuthlg,His Majesty Bank Corp.,VISA 13 digit,False,card,74,"88979 Jennifer Field Suite 069
+Robertchester, CT 26498-8802",fulfilled,True,"88979 Jennifer Field Suite 069
+Robertchester, CT 26498-8802",qdrwvtooysq6q0i0asm7,ugood@mosley.info,7847:656d:453b:4e2d:8493:82f8:cff:502e,869-856-7969
+ye3d01,jcbfj9zj6,67,False,6qeucn7v,Bulwark Trust Corp.,Diners Club / Carte Blanche,False,card,67,"43050 Arnold Springs Suite 126
+North Douglas, SC 45870-2888",fulfilled,True,"88979 Jennifer Field Suite 069
+Robertchester, CT 26498-8802",qdrwvtooysq6q0i0asm7,ugood@mosley.info,7847:656d:453b:4e2d:8493:82f8:cff:502e,869-856-7969
+4pg8fk,l4w49qskr,42,False,tyhoucmk,Vertex Bancorp,Voyager,False,apple pay,42,"4608 Travis Spring
+Sarahtown, KS 65613",fulfilled,False,"4608 Travis Spring
+Sarahtown, KS 65613",t2ztblzdu5hhzuo5fl6g,zgraham@yahoo.com,114.134.196.43,1-469-696-6266
+0linjx,4lbflweug,43,True,82m0gkqr,Grand Credit Corporation,Discover,False,card,43,"4608 Travis Spring
+Sarahtown, KS 65613",fulfilled,False,"4608 Travis Spring
+Sarahtown, KS 65613",t2ztblzdu5hhzuo5fl6g,zgraham@yahoo.com,114.134.196.43,1-469-696-6266
+3g1bbj,4lbflweug,11,False,trxn5ehm,Grand Credit Corporation,Discover,False,card,11,"4608 Travis Spring
+Sarahtown, KS 65613",fulfilled,False,"4608 Travis Spring
+Sarahtown, KS 65613",t2ztblzdu5hhzuo5fl6g,zgraham@yahoo.com,114.134.196.43,1-469-696-6266
+3g1bbj,ougmgyvof,11,True,93wgj32w,His Majesty Bank Corp.,Maestro,False,card,11,"4608 Travis Spring
+Sarahtown, KS 65613",fulfilled,False,"4608 Travis Spring
+Sarahtown, KS 65613",t2ztblzdu5hhzuo5fl6g,zgraham@yahoo.com,114.134.196.43,1-469-696-6266
+9khtcz,ougmgyvof,12,False,cosa5rtj,His Majesty Bank Corp.,Maestro,False,card,12,"4608 Travis Spring
+Sarahtown, KS 65613",fulfilled,False,"4608 Travis Spring
+Sarahtown, KS 65613",t2ztblzdu5hhzuo5fl6g,zgraham@yahoo.com,114.134.196.43,1-469-696-6266
+iwzplu,3fsaflfv5,39,False,idhsbo74,Fountain Financial Inc.,Maestro,False,paypal,39,"3604 Lyons Prairie
+Allenbury, WI 26089-9330",fulfilled,False,"3604 Lyons Prairie
+Allenbury, WI 26089-9330",ol87wpzs0jpsw13jlyko,pchavez@randolph.com,acba:ba43:ae87:641c:3009:8355:c6ff:15b9,(569)110-7736
+9wfg0y,dakq3e620,14,True,9fxpqd1e,r,JCB 16 digit,False,card,14,"708 Hernandez Ports
+Wilsonside, AZ 10494-5552",fulfilled,True,"4025 Rivera Mill
+West Justin, UT 11158",kah1gtidszvnkih1lvtd,marywalker@gmail.com,11.165.157.167,828-124-3490
+9wfg0y,6p0e0gdmy,14,False,59di64ja,n,VISA 16 digit,False,card,14,"708 Hernandez Ports
+Wilsonside, AZ 10494-5552",fulfilled,True,"4025 Rivera Mill
+West Justin, UT 11158",kah1gtidszvnkih1lvtd,marywalker@gmail.com,11.165.157.167,828-124-3490
+f2u6qh,dakq3e620,35,False,mpqpuama,r,JCB 16 digit,False,card,35,"84862 Houston Ridge
+Donnaview, MI 44879-5690",failed,True,"4025 Rivera Mill
+West Justin, UT 11158",kah1gtidszvnkih1lvtd,marywalker@gmail.com,11.165.157.167,828-124-3490
+hw28hx,dakq3e620,19,False,v19i5ylc,r,JCB 16 digit,False,card,19,"6026 Donald Mission Apt. 379
+Mejiaville, MA 13711",fulfilled,True,"4025 Rivera Mill
+West Justin, UT 11158",kah1gtidszvnkih1lvtd,marywalker@gmail.com,11.165.157.167,828-124-3490
+52gvak,1vwiez8vl,32,False,mmxvwcnc,Grand Credit Corporation,JCB 16 digit,False,card,32,"401 Linda Circles Apt. 670
+Raymondton, OH 67056-3087",fulfilled,False,"401 Linda Circles Apt. 670
+Raymondton, OH 67056-3087",fd5khwqxgptuyvtl59mp,smithtonya@huffman.org,7243:82ce:52ca:f27b:f116:30c0:f704:59f3,1-753-714-9977x4456
+e7i8oe,1vwiez8vl,35,False,wmqq0rhj,Grand Credit Corporation,JCB 16 digit,False,card,35,"401 Linda Circles Apt. 670
+Raymondton, OH 67056-3087",fulfilled,False,"401 Linda Circles Apt. 670
+Raymondton, OH 67056-3087",fd5khwqxgptuyvtl59mp,smithtonya@huffman.org,7243:82ce:52ca:f27b:f116:30c0:f704:59f3,1-753-714-9977x4456
+dcu7qm,1vwiez8vl,14,False,qmywqxmq,Grand Credit Corporation,JCB 16 digit,False,card,14,"401 Linda Circles Apt. 670
+Raymondton, OH 67056-3087",fulfilled,False,"401 Linda Circles Apt. 670
+Raymondton, OH 67056-3087",fd5khwqxgptuyvtl59mp,smithtonya@huffman.org,7243:82ce:52ca:f27b:f116:30c0:f704:59f3,1-753-714-9977x4456
+xbxaz7,vwvzodhr2,39,True,gnhirhoy,His Majesty Bank Corp.,JCB 15 digit,False,card,39,"08338 Sandoval Locks Apt. 225
+New Valerie, MS 80161-3440",fulfilled,False,"32609 Mark Vista Apt. 688
+Huynhstad, MN 06562",c9qyfs1gmssc5ia83wi0,hamiltonchristopher@yahoo.com,117.6.168.209,(600)151-8836x7328
+xbxaz7,2syymyhn2,39,False,s4fv6dqi,Solace Banks,VISA 16 digit,False,card,39,"08338 Sandoval Locks Apt. 225
+New Valerie, MS 80161-3440",fulfilled,False,"32609 Mark Vista Apt. 688
+Huynhstad, MN 06562",c9qyfs1gmssc5ia83wi0,hamiltonchristopher@yahoo.com,117.6.168.209,(600)151-8836x7328
+a98xev,88huac0bv,74,False,sbuj220x,Fountain Financial Inc.,VISA 16 digit,True,bitcoin,74,"403 Anna Center Apt. 947
+Meganhaven, GA 46627",failed,True,"403 Anna Center Apt. 947
+Meganhaven, GA 46627",n29he2b6a841zcbiw2i9,amywright@wallace-johnson.com,254.155.117.48,629.489.3980
+skhh6n,88huac0bv,46,False,lwfud9ou,Fountain Financial Inc.,VISA 16 digit,True,bitcoin,46,"2174 Williams Plain Apt. 896
+Allenfort, TX 46578",failed,True,"403 Anna Center Apt. 947
+Meganhaven, GA 46627",n29he2b6a841zcbiw2i9,amywright@wallace-johnson.com,254.155.117.48,629.489.3980
+6hb7do,88huac0bv,71,True,ewy4l0pq,Fountain Financial Inc.,VISA 16 digit,True,bitcoin,71,"403 Anna Center Apt. 947
+Meganhaven, GA 46627",fulfilled,True,"403 Anna Center Apt. 947
+Meganhaven, GA 46627",n29he2b6a841zcbiw2i9,amywright@wallace-johnson.com,254.155.117.48,629.489.3980
+hd6eyt,88huac0bv,45,False,bukm9xs4,Fountain Financial Inc.,VISA 16 digit,True,bitcoin,45,"6685 Allison Green Apt. 338
+Port Kerri, PA 38837",failed,True,"403 Anna Center Apt. 947
+Meganhaven, GA 46627",n29he2b6a841zcbiw2i9,amywright@wallace-johnson.com,254.155.117.48,629.489.3980
+y942bm,88huac0bv,32,False,aus7niea,Fountain Financial Inc.,VISA 16 digit,True,bitcoin,32,"403 Anna Center Apt. 947
+Meganhaven, GA 46627",fulfilled,True,"403 Anna Center Apt. 947
+Meganhaven, GA 46627",n29he2b6a841zcbiw2i9,amywright@wallace-johnson.com,254.155.117.48,629.489.3980
+t8lnr5,88huac0bv,44,False,1vw81h7t,Fountain Financial Inc.,VISA 16 digit,True,bitcoin,44,"Unit 3671 Box 6985
+DPO AE 67892",fulfilled,True,"403 Anna Center Apt. 947
+Meganhaven, GA 46627",n29he2b6a841zcbiw2i9,amywright@wallace-johnson.com,254.155.117.48,629.489.3980
+1pxm7n,jwnmuewma,61,False,amyaqwxv,His Majesty Bank Corp.,VISA 16 digit,False,card,61,"Unit 4843 Box 7401
+DPO AP 92304-9120",fulfilled,True,"Unit 4843 Box 7401
+DPO AP 92304-9120",qkkvc35qa3mx8g1t1jr2,iray@rogers.com,4338:887b:3e9b:f16d:7257:2a21:6559:e9a4,738-700-9649x102
+hyopfu,jwnmuewma,49,False,76kkztvq,His Majesty Bank Corp.,VISA 16 digit,False,card,49,"227 Christopher Station
+Garretttown, ME 97325",fulfilled,True,"Unit 4843 Box 7401
+DPO AP 92304-9120",qkkvc35qa3mx8g1t1jr2,iray@rogers.com,4338:887b:3e9b:f16d:7257:2a21:6559:e9a4,738-700-9649x102
+fdv49s,736fivko4,40,False,6wmrhsvw,Solace Banks,Voyager,False,card,40,"Unit 4843 Box 7401
+DPO AP 92304-9120",fulfilled,True,"Unit 4843 Box 7401
+DPO AP 92304-9120",qkkvc35qa3mx8g1t1jr2,iray@rogers.com,4338:887b:3e9b:f16d:7257:2a21:6559:e9a4,738-700-9649x102
+g9g7pj,j0eyk4wni,46,False,me89f00o,Solace Banks,Diners Club / Carte Blanche,False,card,46,"84301 Jennifer Place
+Terranceside, AL 98149-0458",failed,True,"Unit 4843 Box 7401
+DPO AP 92304-9120",qkkvc35qa3mx8g1t1jr2,iray@rogers.com,4338:887b:3e9b:f16d:7257:2a21:6559:e9a4,738-700-9649x102
+r0ufv3,j0eyk4wni,31,False,tzys1r4y,Solace Banks,Diners Club / Carte Blanche,False,card,31,"Unit 4843 Box 7401
+DPO AP 92304-9120",fulfilled,True,"Unit 4843 Box 7401
+DPO AP 92304-9120",qkkvc35qa3mx8g1t1jr2,iray@rogers.com,4338:887b:3e9b:f16d:7257:2a21:6559:e9a4,738-700-9649x102
+i1lv0z,cf3mkd213,66,False,us3sl1w5,Her Majesty Trust,JCB 16 digit,False,card,66,"87096 Warren Turnpike
+Howellview, WA 74727-2420",fulfilled,True,"87096 Warren Turnpike
+Howellview, WA 74727-2420",uu141ykhyig0cj3s98jr,ctaylor@yahoo.com,dda2:66e0:4279:3c1b:ac29:4cbb:5ea3:c26b,1-020-923-6697x8718
+94aoa8,jjfiirq8l,70,False,fmt8i50f,Fountain Financial Inc.,JCB 16 digit,False,card,70,"87096 Warren Turnpike
+Howellview, WA 74727-2420",fulfilled,True,"87096 Warren Turnpike
+Howellview, WA 74727-2420",uu141ykhyig0cj3s98jr,ctaylor@yahoo.com,dda2:66e0:4279:3c1b:ac29:4cbb:5ea3:c26b,1-020-923-6697x8718
+e0amku,jjfiirq8l,50,False,tnzw0wf9,Fountain Financial Inc.,JCB 16 digit,False,card,50,"87096 Warren Turnpike
+Howellview, WA 74727-2420",fulfilled,True,"87096 Warren Turnpike
+Howellview, WA 74727-2420",uu141ykhyig0cj3s98jr,ctaylor@yahoo.com,dda2:66e0:4279:3c1b:ac29:4cbb:5ea3:c26b,1-020-923-6697x8718
+z3tdfo,jjfiirq8l,38,True,464cuad3,Fountain Financial Inc.,JCB 16 digit,False,card,38,"87096 Warren Turnpike
+Howellview, WA 74727-2420",fulfilled,True,"87096 Warren Turnpike
+Howellview, WA 74727-2420",uu141ykhyig0cj3s98jr,ctaylor@yahoo.com,dda2:66e0:4279:3c1b:ac29:4cbb:5ea3:c26b,1-020-923-6697x8718
+z3tdfo,rqtzq4iov,38,False,22wpoikc,Citizens First Banks,VISA 16 digit,False,card,38,"87096 Warren Turnpike
+Howellview, WA 74727-2420",fulfilled,True,"87096 Warren Turnpike
+Howellview, WA 74727-2420",uu141ykhyig0cj3s98jr,ctaylor@yahoo.com,dda2:66e0:4279:3c1b:ac29:4cbb:5ea3:c26b,1-020-923-6697x8718
+lrdgn8,xp5bh6v2n,32,True,sw8vizzn,Citizens First Banks,Maestro,False,card,32,"87096 Warren Turnpike
+Howellview, WA 74727-2420",fulfilled,True,"87096 Warren Turnpike
+Howellview, WA 74727-2420",uu141ykhyig0cj3s98jr,ctaylor@yahoo.com,dda2:66e0:4279:3c1b:ac29:4cbb:5ea3:c26b,1-020-923-6697x8718
+lrdgn8,rqtzq4iov,32,False,3asqnj9h,Citizens First Banks,VISA 16 digit,False,card,32,"87096 Warren Turnpike
+Howellview, WA 74727-2420",fulfilled,True,"87096 Warren Turnpike
+Howellview, WA 74727-2420",uu141ykhyig0cj3s98jr,ctaylor@yahoo.com,dda2:66e0:4279:3c1b:ac29:4cbb:5ea3:c26b,1-020-923-6697x8718
+qyqvn4,q96qd8pcw,72,False,iwr5gm7i,Bastion Banks,American Express,False,card,72,"87096 Warren Turnpike
+Howellview, WA 74727-2420",fulfilled,True,"87096 Warren Turnpike
+Howellview, WA 74727-2420",uu141ykhyig0cj3s98jr,ctaylor@yahoo.com,dda2:66e0:4279:3c1b:ac29:4cbb:5ea3:c26b,1-020-923-6697x8718
+lwn8yr,n1ehjoa66,43,False,7w0n4z25,Rose Bancshares,JCB 15 digit,False,card,43,"31997 Brooks Dam Apt. 491
+Jensenfort, RI 68413",pending,False,"PSC 1043, Box 1089
+APO AA 29395-9131",21rpvi89b6uon3c3x8gc,gomezjohn@yahoo.com,a8da:1d73:a062:6289:e6a6:7bcc:51b2:6dcb,1-333-131-2746x6449
+q9mxer,n1ehjoa66,16,False,0h8u9mpm,Rose Bancshares,JCB 15 digit,False,card,16,"PSC 1043, Box 1089
+APO AA 29395-9131",failed,False,"PSC 1043, Box 1089
+APO AA 29395-9131",21rpvi89b6uon3c3x8gc,gomezjohn@yahoo.com,a8da:1d73:a062:6289:e6a6:7bcc:51b2:6dcb,1-333-131-2746x6449
+480xpp,rz8r1tr8s,12,False,lxpd7329,Solace Banks,Mastercard,False,paypal,12,"5650 Thomas Tunnel
+Anthonyberg, KY 17169-8020",fulfilled,False,"3483 Frank Estate Apt. 466
+Thomasburgh, MP 54561-8178",056bfyj4m7svmdeex8z1,mullenstephanie@yahoo.com,50.190.231.22,(616)674-0266x776
+w6jjuq,8ohzdp1ql,28,False,1zhxo5b4,Her Majesty Trust,Diners Club / Carte Blanche,False,bitcoin,28,"3483 Frank Estate Apt. 466
+Thomasburgh, MP 54561-8178",fulfilled,False,"3483 Frank Estate Apt. 466
+Thomasburgh, MP 54561-8178",056bfyj4m7svmdeex8z1,mullenstephanie@yahoo.com,50.190.231.22,(616)674-0266x776
+5mwl8n,8ohzdp1ql,17,False,6wvb00ik,Her Majesty Trust,Diners Club / Carte Blanche,False,bitcoin,17,"3483 Frank Estate Apt. 466
+Thomasburgh, MP 54561-8178",fulfilled,False,"3483 Frank Estate Apt. 466
+Thomasburgh, MP 54561-8178",056bfyj4m7svmdeex8z1,mullenstephanie@yahoo.com,50.190.231.22,(616)674-0266x776
+p6xjf3,h6cv0t3ga,23,False,s7kvbnb1,B,VISA 16 digit,False,bitcoin,23,"056 Megan Trail Suite 355
+West Zachary, GU 51278-2318",fulfilled,True,"056 Megan Trail Suite 355
+West Zachary, GU 51278-2318",gcfo5uheb9mugbstbjez,koneal@henderson.biz,85.188.105.126,059.431.5467x7848
+20hwn4,h6cv0t3ga,11,False,htkv5ymx,B,VISA 16 digit,False,bitcoin,11,"056 Megan Trail Suite 355
+West Zachary, GU 51278-2318",fulfilled,True,"056 Megan Trail Suite 355
+West Zachary, GU 51278-2318",gcfo5uheb9mugbstbjez,koneal@henderson.biz,85.188.105.126,059.431.5467x7848
+v8qxee,h6cv0t3ga,38,False,7qdnutij,B,VISA 16 digit,False,bitcoin,38,"056 Megan Trail Suite 355
+West Zachary, GU 51278-2318",fulfilled,True,"056 Megan Trail Suite 355
+West Zachary, GU 51278-2318",gcfo5uheb9mugbstbjez,koneal@henderson.biz,85.188.105.126,059.431.5467x7848
+ygu87g,h6cv0t3ga,26,False,u2eijqhe,B,VISA 16 digit,False,bitcoin,26,"056 Megan Trail Suite 355
+West Zachary, GU 51278-2318",fulfilled,True,"056 Megan Trail Suite 355
+West Zachary, GU 51278-2318",gcfo5uheb9mugbstbjez,koneal@henderson.biz,85.188.105.126,059.431.5467x7848
+81wxhb,9i0e5d5ex,46,False,srhoioko,Bulwark Trust Corp.,JCB 16 digit,False,card,46,"2151 Gabriella Hills
+South Brianafurt, LA 44893",fulfilled,False,"9205 Jeremiah Field Suite 815
+East Christopher, IA 93399",1djsf7mffce2xhvsf139,brianthomas@yahoo.com,219.222.4.152,04061905118
+3e8psz,9i0e5d5ex,24,False,sdx47g08,Bulwark Trust Corp.,JCB 16 digit,False,card,24,"152 David Viaduct Suite 697
+New Henrymouth, KS 79046",fulfilled,False,"9205 Jeremiah Field Suite 815
+East Christopher, IA 93399",1djsf7mffce2xhvsf139,brianthomas@yahoo.com,219.222.4.152,04061905118
+3vp1ao,9i0e5d5ex,39,True,7d74oyac,Bulwark Trust Corp.,JCB 16 digit,False,card,39,"66698 Hayes Mission
+East Amymouth, PA 32821-7102",pending,False,"9205 Jeremiah Field Suite 815
+East Christopher, IA 93399",1djsf7mffce2xhvsf139,brianthomas@yahoo.com,219.222.4.152,04061905118
+3vp1ao,9i0e5d5ex,39,True,7kx1329q,Bulwark Trust Corp.,JCB 16 digit,False,card,39,"66698 Hayes Mission
+East Amymouth, PA 32821-7102",pending,False,"9205 Jeremiah Field Suite 815
+East Christopher, IA 93399",1djsf7mffce2xhvsf139,brianthomas@yahoo.com,219.222.4.152,04061905118
+3vp1ao,9i0e5d5ex,39,False,we3p9buz,Bulwark Trust Corp.,JCB 16 digit,False,card,39,"66698 Hayes Mission
+East Amymouth, PA 32821-7102",pending,False,"9205 Jeremiah Field Suite 815
+East Christopher, IA 93399",1djsf7mffce2xhvsf139,brianthomas@yahoo.com,219.222.4.152,04061905118
+wyeexx,9i0e5d5ex,49,False,k8k2d6kb,Bulwark Trust Corp.,JCB 16 digit,False,card,49,"9205 Jeremiah Field Suite 815
+East Christopher, IA 93399",fulfilled,False,"9205 Jeremiah Field Suite 815
+East Christopher, IA 93399",1djsf7mffce2xhvsf139,brianthomas@yahoo.com,219.222.4.152,04061905118
+9lj87e,0d9jd80l2,47,False,5s2j37z0,Fountain Financial Inc.,Voyager,False,apple pay,47,"719 Jeremy Flat Apt. 914
+Alexanderport, IA 97423-7424",fulfilled,True,"719 Jeremy Flat Apt. 914
+Alexanderport, IA 97423-7424",cvtpgtclxkvcwvr16cyd,oaguirre@hotmail.com,ae37:8e14:bfc1:43c4:7dde:7b9e:ca7f:4721,1-856-006-5150
+yimubh,29bqx7jkh,11,False,7dmekh44,Her Majesty Trust,JCB 16 digit,False,paypal,11,"44361 Amy Curve
+South Erictown, MN 32004",fulfilled,False,"44361 Amy Curve
+South Erictown, MN 32004",y04p9bz3r8dmmcpqxgzm,joshua00@hotmail.com,a06a:af58:8d50:fe02:b3b5:a1d2:9251:9dec,+96(0)1872091077
+jjuevb,29bqx7jkh,47,True,ys8gd1yz,Her Majesty Trust,JCB 16 digit,False,paypal,47,"44361 Amy Curve
+South Erictown, MN 32004",failed,False,"44361 Amy Curve
+South Erictown, MN 32004",y04p9bz3r8dmmcpqxgzm,joshua00@hotmail.com,a06a:af58:8d50:fe02:b3b5:a1d2:9251:9dec,+96(0)1872091077
+jjuevb,29bqx7jkh,47,False,rh1bddbi,Her Majesty Trust,JCB 16 digit,False,paypal,47,"44361 Amy Curve
+South Erictown, MN 32004",failed,False,"44361 Amy Curve
+South Erictown, MN 32004",y04p9bz3r8dmmcpqxgzm,joshua00@hotmail.com,a06a:af58:8d50:fe02:b3b5:a1d2:9251:9dec,+96(0)1872091077
+moxei5,29bqx7jkh,24,False,6x8h7znc,Her Majesty Trust,JCB 16 digit,False,paypal,24,"44361 Amy Curve
+South Erictown, MN 32004",fulfilled,False,"44361 Amy Curve
+South Erictown, MN 32004",y04p9bz3r8dmmcpqxgzm,joshua00@hotmail.com,a06a:af58:8d50:fe02:b3b5:a1d2:9251:9dec,+96(0)1872091077
+pupkd9,29bqx7jkh,48,False,miiyptdl,Her Majesty Trust,JCB 16 digit,False,paypal,48,"44361 Amy Curve
+South Erictown, MN 32004",fulfilled,False,"44361 Amy Curve
+South Erictown, MN 32004",y04p9bz3r8dmmcpqxgzm,joshua00@hotmail.com,a06a:af58:8d50:fe02:b3b5:a1d2:9251:9dec,+96(0)1872091077
+5m0otl,bdsvwrzwf,33,False,6dwhx2bc,Solace Banks,Mastercard,False,card,33,"51448 Robert Flat Suite 980
+Williamsmouth, FL 67487-5651",fulfilled,False,"51448 Robert Flat Suite 980
+Williamsmouth, FL 67487-5651",s9jcp2b4ojffrdp99g95,veronica42@stokes.com,f6b0:e228:1624:ac40:2b2e:e2d2:ff04:90ac,111.180.1112x63480
+fng05a,i06wwil9n,14,True,exdzrfbl,Citizens First Banks,Diners Club / Carte Blanche,False,card,14,"7193 Smith Run
+West Linda, DE 73274-8775",fulfilled,False,"USNS Ramos
+FPO AE 16248",jy8lgca2hto8r58zw5oo,cindydeleon@yahoo.com,2ebe:381c:151a:9df5:65f5:808f:103d:d128,01524024300
+fng05a,vaf2bri7z,14,True,n78bpcgi,Bulwark Trust Corp.,JCB 15 digit,False,card,14,"7193 Smith Run
+West Linda, DE 73274-8775",fulfilled,False,"USNS Ramos
+FPO AE 16248",jy8lgca2hto8r58zw5oo,cindydeleon@yahoo.com,2ebe:381c:151a:9df5:65f5:808f:103d:d128,01524024300
+fng05a,vaf2bri7z,14,True,5ndeff4q,Bulwark Trust Corp.,JCB 15 digit,False,card,14,"7193 Smith Run
+West Linda, DE 73274-8775",fulfilled,False,"USNS Ramos
+FPO AE 16248",jy8lgca2hto8r58zw5oo,cindydeleon@yahoo.com,2ebe:381c:151a:9df5:65f5:808f:103d:d128,01524024300
+fng05a,vaf2bri7z,14,False,efvuhjx7,Bulwark Trust Corp.,JCB 15 digit,False,card,14,"7193 Smith Run
+West Linda, DE 73274-8775",fulfilled,False,"USNS Ramos
+FPO AE 16248",jy8lgca2hto8r58zw5oo,cindydeleon@yahoo.com,2ebe:381c:151a:9df5:65f5:808f:103d:d128,01524024300
+r8icbb,kus94zksp,50,False,bb7h3ho1,Fountain Financial Inc.,JCB 16 digit,True,card,50,"42423 Marco Summit
+New Mark, FM 17715",fulfilled,False,"42423 Marco Summit
+New Mark, FM 17715",tvq298xvzj7zla68uz5h,kyle64@stephens-ortiz.com,196.30.166.8,587.550.8830x64152
+u0pjxd,kus94zksp,22,True,jv2aw7ft,Fountain Financial Inc.,JCB 16 digit,True,card,22,"42423 Marco Summit
+New Mark, FM 17715",fulfilled,False,"42423 Marco Summit
+New Mark, FM 17715",tvq298xvzj7zla68uz5h,kyle64@stephens-ortiz.com,196.30.166.8,587.550.8830x64152
+u0pjxd,kus94zksp,22,False,atmrshug,Fountain Financial Inc.,JCB 16 digit,True,card,22,"42423 Marco Summit
+New Mark, FM 17715",fulfilled,False,"42423 Marco Summit
+New Mark, FM 17715",tvq298xvzj7zla68uz5h,kyle64@stephens-ortiz.com,196.30.166.8,587.550.8830x64152
+7vjixz,kus94zksp,22,False,2ymlir6k,Fountain Financial Inc.,JCB 16 digit,True,card,22,"42423 Marco Summit
+New Mark, FM 17715",fulfilled,False,"42423 Marco Summit
+New Mark, FM 17715",tvq298xvzj7zla68uz5h,kyle64@stephens-ortiz.com,196.30.166.8,587.550.8830x64152
+670ajr,kus94zksp,13,False,vn7ys0h2,Fountain Financial Inc.,JCB 16 digit,True,card,13,"42423 Marco Summit
+New Mark, FM 17715",fulfilled,False,"42423 Marco Summit
+New Mark, FM 17715",tvq298xvzj7zla68uz5h,kyle64@stephens-ortiz.com,196.30.166.8,587.550.8830x64152
+rsdztj,fgfa24tpk,48,False,ut8a5hyw,Bulwark Trust Corp.,Mastercard,False,card,48,"42637 Casey Locks Suite 123
+North Molly, WA 77652-8252",fulfilled,False,"818 Andre Ferry
+South Christopher, MA 53275",sfx5nec64m3aczye0lb4,jordanthomas@hayes-wilson.biz,227.48.202.65,+36(0)4967812825
+mk3o8e,fgfa24tpk,30,False,t4zal6wo,Bulwark Trust Corp.,Mastercard,False,card,30,"818 Andre Ferry
+South Christopher, MA 53275",failed,False,"818 Andre Ferry
+South Christopher, MA 53275",sfx5nec64m3aczye0lb4,jordanthomas@hayes-wilson.biz,227.48.202.65,+36(0)4967812825
+anb5hm,fgfa24tpk,26,False,vn79akmv,Bulwark Trust Corp.,Mastercard,False,card,26,"66411 Katie Canyon
+Port Kaitlin, CO 58600",fulfilled,False,"818 Andre Ferry
+South Christopher, MA 53275",sfx5nec64m3aczye0lb4,jordanthomas@hayes-wilson.biz,227.48.202.65,+36(0)4967812825
+ebz04t,pf64zbjh1,47,False,4ibeew3x,Bulwark Trust Corp.,VISA 13 digit,False,card,47,"818 Andre Ferry
+South Christopher, MA 53275",fulfilled,False,"818 Andre Ferry
+South Christopher, MA 53275",sfx5nec64m3aczye0lb4,jordanthomas@hayes-wilson.biz,227.48.202.65,+36(0)4967812825
+dzj9zm,5tyvyueom,45,False,d27dmlyt,e,Maestro,False,card,45,"606 Estes Cove
+North Danielmouth, GU 20958",fulfilled,True,"265 Marisa Keys
+Lynchmouth, WV 63252-7526",9iac2it77dm615ucymx3,aliciaanthony@martin.com,110.221.131.62,+77(2)4526373005
+od1sqr,5tyvyueom,39,False,m5ojvu3i,e,Maestro,False,card,39,"265 Marisa Keys
+Lynchmouth, WV 63252-7526",fulfilled,True,"265 Marisa Keys
+Lynchmouth, WV 63252-7526",9iac2it77dm615ucymx3,aliciaanthony@martin.com,110.221.131.62,+77(2)4526373005
+ijyrzl,5tyvyueom,11,False,jxosraoj,e,Maestro,False,card,11,"265 Marisa Keys
+Lynchmouth, WV 63252-7526",fulfilled,True,"265 Marisa Keys
+Lynchmouth, WV 63252-7526",9iac2it77dm615ucymx3,aliciaanthony@martin.com,110.221.131.62,+77(2)4526373005
+ljcxnj,islfepdzb,22,False,090ujaux,Bastion Banks,Voyager,False,card,22,"16855 Lopez Tunnel
+Port Stephanieville, PW 58997-9470",fulfilled,False,"16855 Lopez Tunnel
+Port Stephanieville, PW 58997-9470",u4gxqno1iwgs4cn6502c,jenniferperry@hotmail.com,202.230.239.182,+27(2)4721167637
+wpgaj2,islfepdzb,19,False,4ozk9f09,Bastion Banks,Voyager,False,card,19,"16855 Lopez Tunnel
+Port Stephanieville, PW 58997-9470",failed,False,"16855 Lopez Tunnel
+Port Stephanieville, PW 58997-9470",u4gxqno1iwgs4cn6502c,jenniferperry@hotmail.com,202.230.239.182,+27(2)4721167637
+cktnv9,45ddgqcnf,15,False,yypw7n1d,Fountain Financial Inc.,Diners Club / Carte Blanche,False,card,15,"16855 Lopez Tunnel
+Port Stephanieville, PW 58997-9470",fulfilled,False,"16855 Lopez Tunnel
+Port Stephanieville, PW 58997-9470",u4gxqno1iwgs4cn6502c,jenniferperry@hotmail.com,202.230.239.182,+27(2)4721167637
+d67lcv,45ddgqcnf,30,False,s0yyt7of,Fountain Financial Inc.,Diners Club / Carte Blanche,False,card,30,"16855 Lopez Tunnel
+Port Stephanieville, PW 58997-9470",failed,False,"16855 Lopez Tunnel
+Port Stephanieville, PW 58997-9470",u4gxqno1iwgs4cn6502c,jenniferperry@hotmail.com,202.230.239.182,+27(2)4721167637
+cyrly6,8iizua67d,40,False,ogpqwzrl,Her Majesty Trust,Maestro,False,card,40,"044 Ronnie Run
+South Dawn, CA 49202-3034",fulfilled,False,"044 Ronnie Run
+South Dawn, CA 49202-3034",o9cdi8b4zhrzzvp0hl2f,lsanchez@hotmail.com,49.219.239.140,00256720158
+u5yw78,8iizua67d,12,False,r8ka9avu,Her Majesty Trust,Maestro,False,card,12,"419 Gonzalez Row
+East Jonathan, MO 06563-0994",fulfilled,False,"044 Ronnie Run
+South Dawn, CA 49202-3034",o9cdi8b4zhrzzvp0hl2f,lsanchez@hotmail.com,49.219.239.140,00256720158
+44e4nh,8iizua67d,35,False,q5ua8ylu,Her Majesty Trust,Maestro,False,card,35,"044 Ronnie Run
+South Dawn, CA 49202-3034",fulfilled,False,"044 Ronnie Run
+South Dawn, CA 49202-3034",o9cdi8b4zhrzzvp0hl2f,lsanchez@hotmail.com,49.219.239.140,00256720158
+v91d47,8iizua67d,23,True,nm9dlvgw,Her Majesty Trust,Maestro,False,card,23,"044 Ronnie Run
+South Dawn, CA 49202-3034",fulfilled,False,"044 Ronnie Run
+South Dawn, CA 49202-3034",o9cdi8b4zhrzzvp0hl2f,lsanchez@hotmail.com,49.219.239.140,00256720158
+v91d47,8iizua67d,23,False,3q7pfnul,Her Majesty Trust,Maestro,False,card,23,"044 Ronnie Run
+South Dawn, CA 49202-3034",fulfilled,False,"044 Ronnie Run
+South Dawn, CA 49202-3034",o9cdi8b4zhrzzvp0hl2f,lsanchez@hotmail.com,49.219.239.140,00256720158
+320w72,1dcru1vlg,35,False,xo0ezry0,Solace Banks,Voyager,False,card,35,"5156 Greene Park Apt. 748
+New Sandra, CA 14802-7364",fulfilled,True,"5156 Greene Park Apt. 748
+New Sandra, CA 14802-7364",zbn9it3s7yl69bjtrnqf,christinemills@mcgee.com,45.203.99.249,(651)355-4709
+rih88w,1dcru1vlg,15,False,0ag8hv7x,Solace Banks,Voyager,False,card,15,"5156 Greene Park Apt. 748
+New Sandra, CA 14802-7364",fulfilled,True,"5156 Greene Park Apt. 748
+New Sandra, CA 14802-7364",zbn9it3s7yl69bjtrnqf,christinemills@mcgee.com,45.203.99.249,(651)355-4709
+e5iy2q,1dcru1vlg,45,False,f0iufxzu,Solace Banks,Voyager,False,card,45,"5156 Greene Park Apt. 748
+New Sandra, CA 14802-7364",fulfilled,True,"5156 Greene Park Apt. 748
+New Sandra, CA 14802-7364",zbn9it3s7yl69bjtrnqf,christinemills@mcgee.com,45.203.99.249,(651)355-4709
+npcwlm,xrqpqnjba,13,False,0tnloyfm,Fountain Financial Inc.,Voyager,False,paypal,13,"431 Gregory Roads Apt. 838
+East Kathytown, MD 91330-3737",fulfilled,True,"5156 Greene Park Apt. 748
+New Sandra, CA 14802-7364",zbn9it3s7yl69bjtrnqf,christinemills@mcgee.com,45.203.99.249,(651)355-4709
+hnt2yf,xrqpqnjba,17,False,d4oenk4o,Fountain Financial Inc.,Voyager,False,paypal,17,"5156 Greene Park Apt. 748
+New Sandra, CA 14802-7364",failed,True,"5156 Greene Park Apt. 748
+New Sandra, CA 14802-7364",zbn9it3s7yl69bjtrnqf,christinemills@mcgee.com,45.203.99.249,(651)355-4709
+xtzm8c,eyvv5ubc3,33,True,i8w9h2cd,Vertex Bancorp,Maestro,False,card,33,"69632 Baker Prairie Suite 013
+Gonzalezhaven, UT 17435",fulfilled,False,"69632 Baker Prairie Suite 013
+Gonzalezhaven, UT 17435",gjieqcwj7nq91qkgdqb1,cuevasvicki@gmail.com,89f4:de6f:d732:11dd:c56:c6e1:ce7a:d888,347-432-4171
+xtzm8c,h5wy1uso1,33,False,sjy0l8ad,Solace Banks,JCB 16 digit,False,card,33,"69632 Baker Prairie Suite 013
+Gonzalezhaven, UT 17435",fulfilled,False,"69632 Baker Prairie Suite 013
+Gonzalezhaven, UT 17435",gjieqcwj7nq91qkgdqb1,cuevasvicki@gmail.com,89f4:de6f:d732:11dd:c56:c6e1:ce7a:d888,347-432-4171
+imah49,eyvv5ubc3,49,False,qblmwgfm,Vertex Bancorp,Maestro,False,card,49,"07784 Schroeder Rue Suite 000
+Jonesview, TX 75036-6921",fulfilled,False,"69632 Baker Prairie Suite 013
+Gonzalezhaven, UT 17435",gjieqcwj7nq91qkgdqb1,cuevasvicki@gmail.com,89f4:de6f:d732:11dd:c56:c6e1:ce7a:d888,347-432-4171
+ol00gi,h5wy1uso1,37,False,5pau86iw,Solace Banks,JCB 16 digit,False,card,37,"69632 Baker Prairie Suite 013
+Gonzalezhaven, UT 17435",fulfilled,False,"69632 Baker Prairie Suite 013
+Gonzalezhaven, UT 17435",gjieqcwj7nq91qkgdqb1,cuevasvicki@gmail.com,89f4:de6f:d732:11dd:c56:c6e1:ce7a:d888,347-432-4171
+syx6hl,h5wy1uso1,26,False,pihkylay,Solace Banks,JCB 16 digit,False,card,26,"69632 Baker Prairie Suite 013
+Gonzalezhaven, UT 17435",fulfilled,False,"69632 Baker Prairie Suite 013
+Gonzalezhaven, UT 17435",gjieqcwj7nq91qkgdqb1,cuevasvicki@gmail.com,89f4:de6f:d732:11dd:c56:c6e1:ce7a:d888,347-432-4171
+vbcgbn,ssnalg5vb,14,False,7dm6i2pb,Bulwark Trust Corp.,Maestro,False,paypal,14,"69632 Baker Prairie Suite 013
+Gonzalezhaven, UT 17435",fulfilled,False,"69632 Baker Prairie Suite 013
+Gonzalezhaven, UT 17435",gjieqcwj7nq91qkgdqb1,cuevasvicki@gmail.com,89f4:de6f:d732:11dd:c56:c6e1:ce7a:d888,347-432-4171
+bunmsb,4nf29mjz1,36,True,qybsml7x,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,36,"Unit 6719 Box 6044
+DPO AE 33534",fulfilled,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+bunmsb,4nf29mjz1,36,True,d4f44rhh,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,36,"Unit 6719 Box 6044
+DPO AE 33534",fulfilled,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+bunmsb,4nf29mjz1,36,True,zjplyhca,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,36,"Unit 6719 Box 6044
+DPO AE 33534",fulfilled,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+bunmsb,4nf29mjz1,36,True,aegdz9wr,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,36,"Unit 6719 Box 6044
+DPO AE 33534",fulfilled,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+bunmsb,4nf29mjz1,36,True,p4bjmsol,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,36,"Unit 6719 Box 6044
+DPO AE 33534",fulfilled,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+bunmsb,4nf29mjz1,36,False,2t7q4sjh,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,36,"Unit 6719 Box 6044
+DPO AE 33534",fulfilled,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+1luqt9,4nf29mjz1,40,True,m8zl1qvt,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,40,"0695 Brown Loaf Apt. 186
+Gonzalezmouth, AK 04001",fulfilled,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+1luqt9,4nf29mjz1,40,False,nb7tswnn,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,40,"0695 Brown Loaf Apt. 186
+Gonzalezmouth, AK 04001",fulfilled,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+93lzyc,4nf29mjz1,20,True,mv2yyjg1,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,20,"548 Melendez Field Suite 037
+Lisabury, SD 14157-9468",pending,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+93lzyc,4nf29mjz1,20,True,91xu5lzd,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,20,"548 Melendez Field Suite 037
+Lisabury, SD 14157-9468",pending,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+93lzyc,4nf29mjz1,20,True,sffxzqww,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,20,"548 Melendez Field Suite 037
+Lisabury, SD 14157-9468",pending,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+93lzyc,4nf29mjz1,20,True,e6kpuach,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,20,"548 Melendez Field Suite 037
+Lisabury, SD 14157-9468",pending,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+93lzyc,4nf29mjz1,20,True,ykdbfnin,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,20,"548 Melendez Field Suite 037
+Lisabury, SD 14157-9468",pending,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+93lzyc,4nf29mjz1,20,True,0yqd9taf,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,20,"548 Melendez Field Suite 037
+Lisabury, SD 14157-9468",pending,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+93lzyc,4nf29mjz1,20,False,naq0x1ex,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card,20,"548 Melendez Field Suite 037
+Lisabury, SD 14157-9468",pending,False,"Unit 6719 Box 6044
+DPO AE 33534",72stamnugxuz9ls1xx98,mitchellgriffith@yahoo.com,158.185.147.61,1-321-386-6855x0101
+3h6s5x,ymqtqgnsg,49,False,nzot2cqt,Fountain Financial Inc.,JCB 16 digit,False,card,49,"77436 Denise Key Suite 828
+Mayschester, AR 65254-4549",fulfilled,True,"77436 Denise Key Suite 828
+Mayschester, AR 65254-4549",3pfhcvbn8itarkhxl087,gwilcox@hotmail.com,168.56.122.190,1-114-728-2835x715
+k147nh,bddoq1fwc,63,False,fn9a0hml,Vertex Bancorp,Diners Club / Carte Blanche,False,card,63,"77436 Denise Key Suite 828
+Mayschester, AR 65254-4549",fulfilled,True,"77436 Denise Key Suite 828
+Mayschester, AR 65254-4549",3pfhcvbn8itarkhxl087,gwilcox@hotmail.com,168.56.122.190,1-114-728-2835x715
+tv616g,p4of42zn1,55,True,p22jityx,Grand Credit Corporation,Diners Club / Carte Blanche,False,card,55,"8844 Gonzalez Passage Suite 939
+Craigtown, DE 98285",pending,True,"77436 Denise Key Suite 828
+Mayschester, AR 65254-4549",3pfhcvbn8itarkhxl087,gwilcox@hotmail.com,168.56.122.190,1-114-728-2835x715
+3d0ip4,xlsn61ipv,62,True,rs1oex3s,His Majesty Bank Corp.,VISA 13 digit,True,card,62,"77436 Denise Key Suite 828
+Mayschester, AR 65254-4549",fulfilled,True,"77436 Denise Key Suite 828
+Mayschester, AR 65254-4549",3pfhcvbn8itarkhxl087,gwilcox@hotmail.com,168.56.122.190,1-114-728-2835x715
+3d0ip4,xlsn61ipv,62,False,6fm14ue0,His Majesty Bank Corp.,VISA 13 digit,True,card,62,"77436 Denise Key Suite 828
+Mayschester, AR 65254-4549",fulfilled,True,"77436 Denise Key Suite 828
+Mayschester, AR 65254-4549",3pfhcvbn8itarkhxl087,gwilcox@hotmail.com,168.56.122.190,1-114-728-2835x715
+x9b0us,xlsn61ipv,73,False,ywydanw2,His Majesty Bank Corp.,VISA 13 digit,True,card,73,"05200 Smith Club
+North Bethland, NE 90921-8292",fulfilled,True,"77436 Denise Key Suite 828
+Mayschester, AR 65254-4549",3pfhcvbn8itarkhxl087,gwilcox@hotmail.com,168.56.122.190,1-114-728-2835x715
+wa8h1e,xlsn61ipv,68,False,dsjvchs7,His Majesty Bank Corp.,VISA 13 digit,True,card,68,"77436 Denise Key Suite 828
+Mayschester, AR 65254-4549",pending,True,"77436 Denise Key Suite 828
+Mayschester, AR 65254-4549",3pfhcvbn8itarkhxl087,gwilcox@hotmail.com,168.56.122.190,1-114-728-2835x715
+gniwi1,4y1kp0vsv,34,False,kzb8h607,Grand Credit Corporation,Maestro,False,card,34,"PSC 9769, Box 5820
+APO AP 17294",fulfilled,False,"PSC 9769, Box 5820
+APO AP 17294",1597k0yfivb94139vcj0,victorgarcia@gmail.com,184.74.109.237,937-523-6702x7281
+8s2s9r,lp97onnto,47,False,r53rt9lh,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,bitcoin,47,"603 Sophia Flat Suite 158
+South Wandaland, PR 07273-7503",fulfilled,False,"603 Sophia Flat Suite 158
+South Wandaland, PR 07273-7503",55uutypnlt0dve5gnzpx,brittany60@yahoo.com,174.86.116.243,(172)959-5151
+wbvdcq,qp0jwedbw,34,False,dl1cdscx,Rose Bancshares,VISA 13 digit,False,card,34,"603 Sophia Flat Suite 158
+South Wandaland, PR 07273-7503",failed,False,"603 Sophia Flat Suite 158
+South Wandaland, PR 07273-7503",55uutypnlt0dve5gnzpx,brittany60@yahoo.com,174.86.116.243,(172)959-5151
+cvzcou,qp0jwedbw,43,True,pi3n5nzn,Rose Bancshares,VISA 13 digit,False,card,43,"603 Sophia Flat Suite 158
+South Wandaland, PR 07273-7503",fulfilled,False,"603 Sophia Flat Suite 158
+South Wandaland, PR 07273-7503",55uutypnlt0dve5gnzpx,brittany60@yahoo.com,174.86.116.243,(172)959-5151
+cvzcou,qp0jwedbw,43,False,ahtln53x,Rose Bancshares,VISA 13 digit,False,card,43,"603 Sophia Flat Suite 158
+South Wandaland, PR 07273-7503",fulfilled,False,"603 Sophia Flat Suite 158
+South Wandaland, PR 07273-7503",55uutypnlt0dve5gnzpx,brittany60@yahoo.com,174.86.116.243,(172)959-5151
+w10bby,qp0jwedbw,50,False,7zpfyxyn,Rose Bancshares,VISA 13 digit,False,card,50,"Unit 0093 Box 8299
+DPO AP 65118-9531",fulfilled,False,"603 Sophia Flat Suite 158
+South Wandaland, PR 07273-7503",55uutypnlt0dve5gnzpx,brittany60@yahoo.com,174.86.116.243,(172)959-5151
+8sj7mh,orf4mjxo2,48,True,cr54660y,Her Majesty Trust,VISA 16 digit,False,card,48,"5434 Olivia Junctions Suite 109
+Crosbymouth, KY 63938",failed,False,"5434 Olivia Junctions Suite 109
+Crosbymouth, KY 63938",vq9wb7q19vwuirk37dcn,fharris@hotmail.com,1a1c:b6f1:5c57:e9b8:28c0:edc0:9935:e55a,828.921.8126
+8sj7mh,orf4mjxo2,48,True,t9235lna,Her Majesty Trust,VISA 16 digit,False,card,48,"5434 Olivia Junctions Suite 109
+Crosbymouth, KY 63938",failed,False,"5434 Olivia Junctions Suite 109
+Crosbymouth, KY 63938",vq9wb7q19vwuirk37dcn,fharris@hotmail.com,1a1c:b6f1:5c57:e9b8:28c0:edc0:9935:e55a,828.921.8126
+8sj7mh,orf4mjxo2,48,False,ikfxbvy8,Her Majesty Trust,VISA 16 digit,False,card,48,"5434 Olivia Junctions Suite 109
+Crosbymouth, KY 63938",failed,False,"5434 Olivia Junctions Suite 109
+Crosbymouth, KY 63938",vq9wb7q19vwuirk37dcn,fharris@hotmail.com,1a1c:b6f1:5c57:e9b8:28c0:edc0:9935:e55a,828.921.8126
+mchypz,orf4mjxo2,29,False,0eptxbrk,Her Majesty Trust,VISA 16 digit,False,card,29,"PSC 4569, Box 8881
+APO AP 07558-7291",fulfilled,False,"5434 Olivia Junctions Suite 109
+Crosbymouth, KY 63938",vq9wb7q19vwuirk37dcn,fharris@hotmail.com,1a1c:b6f1:5c57:e9b8:28c0:edc0:9935:e55a,828.921.8126
+lt844q,yq0785i1q,27,False,s7r7mdlh,Citizens First Banks,American Express,False,card,27,"50180 Marsh Glen Suite 662
+Anthonyville, PA 44693",fulfilled,False,"03028 Brown Spring Suite 348
+Elliottchester, WY 10834",qh7i8ad23hd5vosiuj5j,mercedesfinley@roman.org,f15:32d4:97fb:c211:3d4e:a471:af9c:6c34,569-710-0646x4095
+50o0jf,yq0785i1q,19,False,xraiaun9,Citizens First Banks,American Express,False,card,19,"03028 Brown Spring Suite 348
+Elliottchester, WY 10834",fulfilled,False,"03028 Brown Spring Suite 348
+Elliottchester, WY 10834",qh7i8ad23hd5vosiuj5j,mercedesfinley@roman.org,f15:32d4:97fb:c211:3d4e:a471:af9c:6c34,569-710-0646x4095
+kxbs9c,zim2ivw3x,37,False,r3ornrhq,Bastion Banks,Diners Club / Carte Blanche,False,card,37,"03028 Brown Spring Suite 348
+Elliottchester, WY 10834",fulfilled,False,"03028 Brown Spring Suite 348
+Elliottchester, WY 10834",qh7i8ad23hd5vosiuj5j,mercedesfinley@roman.org,f15:32d4:97fb:c211:3d4e:a471:af9c:6c34,569-710-0646x4095
+ew151g,zim2ivw3x,25,False,spnrmftf,Bastion Banks,Diners Club / Carte Blanche,False,card,25,"529 Phelps Unions
+Lake Michaelberg, CO 45893-2594",fulfilled,False,"03028 Brown Spring Suite 348
+Elliottchester, WY 10834",qh7i8ad23hd5vosiuj5j,mercedesfinley@roman.org,f15:32d4:97fb:c211:3d4e:a471:af9c:6c34,569-710-0646x4095
+d993dt,muqv21w62,22,False,kzj11whl,His Majesty Bank Corp.,VISA 13 digit,False,apple pay,22,"03028 Brown Spring Suite 348
+Elliottchester, WY 10834",fulfilled,False,"03028 Brown Spring Suite 348
+Elliottchester, WY 10834",qh7i8ad23hd5vosiuj5j,mercedesfinley@roman.org,f15:32d4:97fb:c211:3d4e:a471:af9c:6c34,569-710-0646x4095
+gcop7b,igpmsjd73,38,False,foo56851,Bastion Banks,Mastercard,False,paypal,38,"434 Joanne Shores
+West Melissa, UT 85798-1374",fulfilled,True,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",j3a0155srqw0yeqvbgps,1yf0@jedyz63t,1fe2:1fa3:2a6f:845d:1037:2dac:2831:9d50,463-609-3475
+is64fx,igpmsjd73,18,False,84xwwv0d,Bastion Banks,Mastercard,False,paypal,18,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",fulfilled,True,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",j3a0155srqw0yeqvbgps,1yf0@jedyz63t,1fe2:1fa3:2a6f:845d:1037:2dac:2831:9d50,463-609-3475
+st9dv0,igpmsjd73,12,True,67o717jo,Bastion Banks,Mastercard,False,paypal,12,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",fulfilled,True,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",j3a0155srqw0yeqvbgps,1yf0@jedyz63t,1fe2:1fa3:2a6f:845d:1037:2dac:2831:9d50,463-609-3475
+st9dv0,0l7kszls7,12,True,i4edjdey,Bastion Banks,VISA 13 digit,False,card,12,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",fulfilled,True,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",j3a0155srqw0yeqvbgps,1yf0@jedyz63t,1fe2:1fa3:2a6f:845d:1037:2dac:2831:9d50,463-609-3475
+st9dv0,0l7kszls7,12,True,pkc9dfn2,Bastion Banks,VISA 13 digit,False,card,12,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",fulfilled,True,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",j3a0155srqw0yeqvbgps,1yf0@jedyz63t,1fe2:1fa3:2a6f:845d:1037:2dac:2831:9d50,463-609-3475
+st9dv0,0l7kszls7,12,True,cnion0pc,Bastion Banks,VISA 13 digit,False,card,12,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",fulfilled,True,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",j3a0155srqw0yeqvbgps,1yf0@jedyz63t,1fe2:1fa3:2a6f:845d:1037:2dac:2831:9d50,463-609-3475
+st9dv0,0l7kszls7,12,False,7nib2tyk,Bastion Banks,VISA 13 digit,False,card,12,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",fulfilled,True,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",j3a0155srqw0yeqvbgps,1yf0@jedyz63t,1fe2:1fa3:2a6f:845d:1037:2dac:2831:9d50,463-609-3475
+eftfwy,0l7kszls7,11,False,drngwa51,Bastion Banks,VISA 13 digit,False,card,11,"PSC 7355, Box 0895
+APO AE 05437",fulfilled,True,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",j3a0155srqw0yeqvbgps,1yf0@jedyz63t,1fe2:1fa3:2a6f:845d:1037:2dac:2831:9d50,463-609-3475
+1ca3sy,0l7kszls7,45,False,xyavqxjg,Bastion Banks,VISA 13 digit,False,card,45,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",fulfilled,True,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",j3a0155srqw0yeqvbgps,1yf0@jedyz63t,1fe2:1fa3:2a6f:845d:1037:2dac:2831:9d50,463-609-3475
+1ca3sy,vej6hz0vq,45,True,5010w1m2,Rose Bancshares,Maestro,False,card,45,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",fulfilled,True,"12350 Nicholas Greens
+Lawsonborough, NC 70237-3962",j3a0155srqw0yeqvbgps,1yf0@jedyz63t,1fe2:1fa3:2a6f:845d:1037:2dac:2831:9d50,463-609-3475
+wdeprg,zn4e11ck7,49,False,6bvyi75n,Citizens First Banks,Diners Club / Carte Blanche,False,paypal,49,"00373 Hicks Keys Suite 407
+Millerside, HI 98544-8185",fulfilled,False,"00373 Hicks Keys Suite 407
+Millerside, HI 98544-8185",spoo36hycxgbo0y2tap7,thomasryan@conrad.net,3.225.227.70,1-192-434-2783
+jtoc3i,zn4e11ck7,12,False,a2iekqhg,Citizens First Banks,Diners Club / Carte Blanche,False,paypal,12,"00373 Hicks Keys Suite 407
+Millerside, HI 98544-8185",fulfilled,False,"00373 Hicks Keys Suite 407
+Millerside, HI 98544-8185",spoo36hycxgbo0y2tap7,thomasryan@conrad.net,3.225.227.70,1-192-434-2783
+jtoc3i,n5z9rxst8,12,True,mijozk3a,Citizens First Banks,American Express,False,apple pay,12,"00373 Hicks Keys Suite 407
+Millerside, HI 98544-8185",fulfilled,False,"00373 Hicks Keys Suite 407
+Millerside, HI 98544-8185",spoo36hycxgbo0y2tap7,thomasryan@conrad.net,3.225.227.70,1-192-434-2783
+szs0n9,zn4e11ck7,22,True,bgc001g0,Citizens First Banks,Diners Club / Carte Blanche,False,paypal,22,"00373 Hicks Keys Suite 407
+Millerside, HI 98544-8185",pending,False,"00373 Hicks Keys Suite 407
+Millerside, HI 98544-8185",spoo36hycxgbo0y2tap7,thomasryan@conrad.net,3.225.227.70,1-192-434-2783
+szs0n9,n5z9rxst8,22,False,oys0c9e5,Citizens First Banks,American Express,False,apple pay,22,"00373 Hicks Keys Suite 407
+Millerside, HI 98544-8185",pending,False,"00373 Hicks Keys Suite 407
+Millerside, HI 98544-8185",spoo36hycxgbo0y2tap7,thomasryan@conrad.net,3.225.227.70,1-192-434-2783
+hoxg2j,kjt28bu2n,31,False,o39lupeq,e,Maestro,True,card,31,"0008 Jessica Stream
+Mcbridetown, MH 04017",fulfilled,True,"0008 Jessica Stream
+Mcbridetown, MH 04017",mdoe6wib243y09uaj95z,kwalsh@lopez-gomez.biz,3162:1f06:9114:56d1:f5e8:bf3a:6ad0:b6f2,04103378280
+j7u286,kjt28bu2n,35,False,x37r5o4e,e,Maestro,True,card,35,"0008 Jessica Stream
+Mcbridetown, MH 04017",fulfilled,True,"0008 Jessica Stream
+Mcbridetown, MH 04017",mdoe6wib243y09uaj95z,kwalsh@lopez-gomez.biz,3162:1f06:9114:56d1:f5e8:bf3a:6ad0:b6f2,04103378280
+sc5ooc,2d00yljsp,34,False,hhg5fwwa,B,VISA 13 digit,False,paypal,34,"0008 Jessica Stream
+Mcbridetown, MH 04017",fulfilled,True,"0008 Jessica Stream
+Mcbridetown, MH 04017",mdoe6wib243y09uaj95z,kwalsh@lopez-gomez.biz,3162:1f06:9114:56d1:f5e8:bf3a:6ad0:b6f2,04103378280
+k0vrw5,866s0p6rq,10,False,w3lp3m3e,Solace Banks,VISA 13 digit,True,card,10,"83519 Lauren Highway
+Melissafurt, VI 09622",fulfilled,False,"PSC 1505, Box 0924
+APO AP 49055",9ycz6r0ulpqtc04qxfke,martinezlori@gmail.com,d04c:1016:1b00:8a18:d9fc:5455:cae3:b97a,353.413.2223x82475
+saobql,866s0p6rq,35,True,med79zy3,Solace Banks,VISA 13 digit,True,card,35,"Unit 0506 Box 9852
+DPO AE 91209",fulfilled,False,"PSC 1505, Box 0924
+APO AP 49055",9ycz6r0ulpqtc04qxfke,martinezlori@gmail.com,d04c:1016:1b00:8a18:d9fc:5455:cae3:b97a,353.413.2223x82475
+saobql,866s0p6rq,35,False,4ccan7ny,Solace Banks,VISA 13 digit,True,card,35,"Unit 0506 Box 9852
+DPO AE 91209",fulfilled,False,"PSC 1505, Box 0924
+APO AP 49055",9ycz6r0ulpqtc04qxfke,martinezlori@gmail.com,d04c:1016:1b00:8a18:d9fc:5455:cae3:b97a,353.413.2223x82475
+aaptkq,866s0p6rq,44,True,q0cxhnip,Solace Banks,VISA 13 digit,True,card,44,"PSC 1505, Box 0924
+APO AP 49055",fulfilled,False,"PSC 1505, Box 0924
+APO AP 49055",9ycz6r0ulpqtc04qxfke,martinezlori@gmail.com,d04c:1016:1b00:8a18:d9fc:5455:cae3:b97a,353.413.2223x82475
+aaptkq,866s0p6rq,44,False,fv5z6bnc,Solace Banks,VISA 13 digit,True,card,44,"PSC 1505, Box 0924
+APO AP 49055",fulfilled,False,"PSC 1505, Box 0924
+APO AP 49055",9ycz6r0ulpqtc04qxfke,martinezlori@gmail.com,d04c:1016:1b00:8a18:d9fc:5455:cae3:b97a,353.413.2223x82475
+1c0bds,hs3hemcz6,47,False,t2tr0zve,Vertex Bancorp,Maestro,False,card,47,"687 Rogers Bridge Suite 780
+Valdezburgh, IN 23532",fulfilled,True,"687 Rogers Bridge Suite 780
+Valdezburgh, IN 23532",6qy6oa3nqutsyyxzc54c,johnlowery@gmail.com,f259:657f:f329:2fca:c06c:8b57:d6ac:2380,076-099-0630x72770
+b8mpa4,hs3hemcz6,22,True,gzs6it77,Vertex Bancorp,Maestro,False,card,22,"687 Rogers Bridge Suite 780
+Valdezburgh, IN 23532",fulfilled,True,"687 Rogers Bridge Suite 780
+Valdezburgh, IN 23532",6qy6oa3nqutsyyxzc54c,johnlowery@gmail.com,f259:657f:f329:2fca:c06c:8b57:d6ac:2380,076-099-0630x72770
+b8mpa4,hs3hemcz6,22,False,ckvws967,Vertex Bancorp,Maestro,False,card,22,"687 Rogers Bridge Suite 780
+Valdezburgh, IN 23532",fulfilled,True,"687 Rogers Bridge Suite 780
+Valdezburgh, IN 23532",6qy6oa3nqutsyyxzc54c,johnlowery@gmail.com,f259:657f:f329:2fca:c06c:8b57:d6ac:2380,076-099-0630x72770
+zxyice,hs3hemcz6,46,False,7df4i4c9,Vertex Bancorp,Maestro,False,card,46,"0989 Larsen Garden Apt. 889
+Ryanmouth, DE 72841-9654",fulfilled,True,"687 Rogers Bridge Suite 780
+Valdezburgh, IN 23532",6qy6oa3nqutsyyxzc54c,johnlowery@gmail.com,f259:657f:f329:2fca:c06c:8b57:d6ac:2380,076-099-0630x72770
+oo68hd,hs3hemcz6,34,False,c5usmga3,Vertex Bancorp,Maestro,False,card,34,"64361 Joseph River Suite 034
+East Deborahtown, VI 94168",fulfilled,True,"687 Rogers Bridge Suite 780
+Valdezburgh, IN 23532",6qy6oa3nqutsyyxzc54c,johnlowery@gmail.com,f259:657f:f329:2fca:c06c:8b57:d6ac:2380,076-099-0630x72770
+pc6hb6,8wpdnmsut,46,False,soaefwfo,Vertex Bancorp,JCB 16 digit,False,paypal,46,"687 Rogers Bridge Suite 780
+Valdezburgh, IN 23532",fulfilled,True,"687 Rogers Bridge Suite 780
+Valdezburgh, IN 23532",6qy6oa3nqutsyyxzc54c,johnlowery@gmail.com,f259:657f:f329:2fca:c06c:8b57:d6ac:2380,076-099-0630x72770
+3zk1ts,8ty2ztfnr,28,True,7kxhp29x,Grand Credit Corporation,Maestro,False,apple pay,28,"904 James Route Suite 595
+Lake Ruth, CO 66976",failed,False,"904 James Route Suite 595
+Lake Ruth, CO 66976",felexq5xniffmhhlqdqm,stevehernandez@gmail.com,601d:b1f3:1a48:e0ef:1452:906f:21dc:b526,716-379-6345
+3zk1ts,8ty2ztfnr,28,False,ziocjvea,Grand Credit Corporation,Maestro,False,apple pay,28,"904 James Route Suite 595
+Lake Ruth, CO 66976",failed,False,"904 James Route Suite 595
+Lake Ruth, CO 66976",felexq5xniffmhhlqdqm,stevehernandez@gmail.com,601d:b1f3:1a48:e0ef:1452:906f:21dc:b526,716-379-6345
+die097,8ty2ztfnr,44,False,8c5f90a5,Grand Credit Corporation,Maestro,False,apple pay,44,"904 James Route Suite 595
+Lake Ruth, CO 66976",fulfilled,False,"904 James Route Suite 595
+Lake Ruth, CO 66976",felexq5xniffmhhlqdqm,stevehernandez@gmail.com,601d:b1f3:1a48:e0ef:1452:906f:21dc:b526,716-379-6345
+voljhb,8ty2ztfnr,21,False,ds1cg5jj,Grand Credit Corporation,Maestro,False,apple pay,21,"904 James Route Suite 595
+Lake Ruth, CO 66976",pending,False,"904 James Route Suite 595
+Lake Ruth, CO 66976",felexq5xniffmhhlqdqm,stevehernandez@gmail.com,601d:b1f3:1a48:e0ef:1452:906f:21dc:b526,716-379-6345
+gqm9fm,8ty2ztfnr,20,False,rayscslh,Grand Credit Corporation,Maestro,False,apple pay,20,"904 James Route Suite 595
+Lake Ruth, CO 66976",fulfilled,False,"904 James Route Suite 595
+Lake Ruth, CO 66976",felexq5xniffmhhlqdqm,stevehernandez@gmail.com,601d:b1f3:1a48:e0ef:1452:906f:21dc:b526,716-379-6345
+frghsc,8ty2ztfnr,39,False,m1w4y3sd,Grand Credit Corporation,Maestro,False,apple pay,39,"904 James Route Suite 595
+Lake Ruth, CO 66976",fulfilled,False,"904 James Route Suite 595
+Lake Ruth, CO 66976",felexq5xniffmhhlqdqm,stevehernandez@gmail.com,601d:b1f3:1a48:e0ef:1452:906f:21dc:b526,716-379-6345
+h1poms,oqkj50e71,16,False,lx8113ey,Grand Credit Corporation,Discover,False,card,16,"6698 David Squares Apt. 540
+Westburgh, MA 77937",fulfilled,False,"6698 David Squares Apt. 540
+Westburgh, MA 77937",lu49z4dhold8niozpl4w,daniel98@lamb.com,d6d4:7645:ca31:dba3:42b0:c89a:d065:d67d,758.182.1357x89421
+xn5707,dby03chrc,15,False,apeqsf6w,Rose Bancshares,Mastercard,False,card,15,"93986 Billy Mission Apt. 556
+Barkerborough, OR 94824",failed,False,"664 Maurice Row Suite 634
+New Jodi, OR 56525",2k850f1rbwvju71sbhqp,ujackson@harris.com,99.149.12.193,852-231-3642x738
+iewgho,dby03chrc,12,False,kwkd076c,Rose Bancshares,Mastercard,False,card,12,"664 Maurice Row Suite 634
+New Jodi, OR 56525",fulfilled,False,"664 Maurice Row Suite 634
+New Jodi, OR 56525",2k850f1rbwvju71sbhqp,ujackson@harris.com,99.149.12.193,852-231-3642x738
+shluih,dby03chrc,21,False,ln2yqoc0,Rose Bancshares,Mastercard,False,card,21,"62659 Jonathon Prairie
+Port Daniel, OR 82463-7543",fulfilled,False,"664 Maurice Row Suite 634
+New Jodi, OR 56525",2k850f1rbwvju71sbhqp,ujackson@harris.com,99.149.12.193,852-231-3642x738
+shluih,1phhc3468,21,True,o0acxutg,Bulwark Trust Corp.,VISA 13 digit,False,card,21,"62659 Jonathon Prairie
+Port Daniel, OR 82463-7543",fulfilled,False,"664 Maurice Row Suite 634
+New Jodi, OR 56525",2k850f1rbwvju71sbhqp,ujackson@harris.com,99.149.12.193,852-231-3642x738
+spmink,1phhc3468,14,True,9a7cmr1e,Bulwark Trust Corp.,VISA 13 digit,False,card,14,"269 Morse Unions
+Lauraberg, PW 72001-5352",fulfilled,False,"664 Maurice Row Suite 634
+New Jodi, OR 56525",2k850f1rbwvju71sbhqp,ujackson@harris.com,99.149.12.193,852-231-3642x738
+gbnio0,ti77llxpi,33,True,sw740j0n,Bulwark Trust Corp.,Diners Club / Carte Blanche,True,card,33,"702 Mueller Trail Suite 858
+Port Danieltown, AK 29083",fulfilled,False,"233 Jessica Lights
+Port Sonya, SC 47511",b054slok65d4k1t01u4a,brittanyhicks@jones.com,89.73.189.96,579-193-1785x676
+gbnio0,ti77llxpi,33,False,bi4lb6bp,Bulwark Trust Corp.,Diners Club / Carte Blanche,True,card,33,"702 Mueller Trail Suite 858
+Port Danieltown, AK 29083",fulfilled,False,"233 Jessica Lights
+Port Sonya, SC 47511",b054slok65d4k1t01u4a,brittanyhicks@jones.com,89.73.189.96,579-193-1785x676
+sb4gud,kzpdmdk05,30,False,muzrxahs,o,VISA 16 digit,False,card,30,"62730 Lisa Fields Suite 857
+Nicholasburgh, ND 20013",fulfilled,True,"391 Rogers Flats Apt. 287
+North Rickchester, FM 35587",vc71dbmrdaz78jgi7nhl,deborah38@yahoo.com,8f3c:9e11:63b4:73bb:20d1:86c7:ab70:2e04,06498402936
+99hv2e,z4jrvn93k,44,False,kdc3wdhj,Bastion Banks,JCB 16 digit,False,card,44,"25834 Bruce Mill Suite 697
+Stoneberg, MI 63595-1710",fulfilled,True,"55197 Jeffrey Burgs Suite 700
+Gardnerport, VA 04866-4230",4gfo1e3xeirjanhwko92,andre74@patrick-decker.com,d89c:db0:5ff9:a150:9e6c:482d:c900:fb33,150-073-8610
+nfryte,z4jrvn93k,46,False,09hmwr4s,Bastion Banks,JCB 16 digit,False,card,46,"04913 Fowler Haven Suite 451
+New Joseph, OK 96214-6615",fulfilled,True,"55197 Jeffrey Burgs Suite 700
+Gardnerport, VA 04866-4230",4gfo1e3xeirjanhwko92,andre74@patrick-decker.com,d89c:db0:5ff9:a150:9e6c:482d:c900:fb33,150-073-8610
+nfryte,6umtakhhu,46,True,sdvzm88k,Her Majesty Trust,VISA 16 digit,False,apple pay,46,"04913 Fowler Haven Suite 451
+New Joseph, OK 96214-6615",fulfilled,True,"55197 Jeffrey Burgs Suite 700
+Gardnerport, VA 04866-4230",4gfo1e3xeirjanhwko92,andre74@patrick-decker.com,d89c:db0:5ff9:a150:9e6c:482d:c900:fb33,150-073-8610
+yjyogo,ru0jjkjlt,26,False,8f8tkglk,Grand Credit Corporation,JCB 16 digit,False,card,26,"55197 Jeffrey Burgs Suite 700
+Gardnerport, VA 04866-4230",fulfilled,True,"55197 Jeffrey Burgs Suite 700
+Gardnerport, VA 04866-4230",4gfo1e3xeirjanhwko92,andre74@patrick-decker.com,d89c:db0:5ff9:a150:9e6c:482d:c900:fb33,150-073-8610
+aj4xtw,ru0jjkjlt,36,False,0rtt6tgw,Grand Credit Corporation,JCB 16 digit,False,card,36,"43835 Smith Shoals
+Matthewbury, DE 34994-6747",fulfilled,True,"55197 Jeffrey Burgs Suite 700
+Gardnerport, VA 04866-4230",4gfo1e3xeirjanhwko92,andre74@patrick-decker.com,d89c:db0:5ff9:a150:9e6c:482d:c900:fb33,150-073-8610
+kbhr9h,sptgc1wgt,16,False,vo7nj6b8,Her Majesty Trust,American Express,False,apple pay,16,"6223 Cheyenne Villages Suite 751
+Coryborough, ID 21264-7220",fulfilled,False,"6223 Cheyenne Villages Suite 751
+Coryborough, ID 21264-7220",84z3gd4fiabz488ybv9p,patrickcalderon@russo.net,2be:a4d5:eb39:fa22:2650:83d5:917f:5f23,444-358-6570x947
+0nzjdh,sptgc1wgt,47,True,s3t5yx6o,Her Majesty Trust,American Express,False,apple pay,47,"6223 Cheyenne Villages Suite 751
+Coryborough, ID 21264-7220",fulfilled,False,"6223 Cheyenne Villages Suite 751
+Coryborough, ID 21264-7220",84z3gd4fiabz488ybv9p,patrickcalderon@russo.net,2be:a4d5:eb39:fa22:2650:83d5:917f:5f23,444-358-6570x947
+0nzjdh,sptgc1wgt,47,False,jyjpu7xe,Her Majesty Trust,American Express,False,apple pay,47,"6223 Cheyenne Villages Suite 751
+Coryborough, ID 21264-7220",fulfilled,False,"6223 Cheyenne Villages Suite 751
+Coryborough, ID 21264-7220",84z3gd4fiabz488ybv9p,patrickcalderon@russo.net,2be:a4d5:eb39:fa22:2650:83d5:917f:5f23,444-358-6570x947
+6086rd,x644o186l,31,False,ryxa1mzn,His Majesty Bank Corp.,JCB 16 digit,False,card,31,"829 Ramirez Dam Suite 648
+Gatesview, OR 55669-8691",failed,True,"829 Ramirez Dam Suite 648
+Gatesview, OR 55669-8691",ecu7ezz0ue67v3fce1o3,mitchellvickie@brewer-jones.com,181.90.104.120,313-124-3836x3528
+tq151t,x644o186l,61,False,waeqt53t,His Majesty Bank Corp.,JCB 16 digit,False,card,61,"000 Edward Crescent
+Arnoldtown, MD 24766",fulfilled,True,"829 Ramirez Dam Suite 648
+Gatesview, OR 55669-8691",ecu7ezz0ue67v3fce1o3,mitchellvickie@brewer-jones.com,181.90.104.120,313-124-3836x3528
+ns8z3e,x644o186l,34,False,chd6ii6v,His Majesty Bank Corp.,JCB 16 digit,False,card,34,"829 Ramirez Dam Suite 648
+Gatesview, OR 55669-8691",fulfilled,True,"829 Ramirez Dam Suite 648
+Gatesview, OR 55669-8691",ecu7ezz0ue67v3fce1o3,mitchellvickie@brewer-jones.com,181.90.104.120,313-124-3836x3528
+57yhdo,wsy5c41nf,30,False,293g6767,B,Voyager,False,card,30,"06568 Perez Extension Suite 527
+Cliffordside, MA 09159-6359",fulfilled,True,"9472 Pacheco Islands Suite 940
+Drewburgh, AZ 04238",xgv918sclaz40qlp2fee,sbrown@hughes.biz,16.166.2.0,(250)632-6631x02499
+8lfy8d,wsy5c41nf,14,True,o9wqic08,B,Voyager,False,card,14,"9472 Pacheco Islands Suite 940
+Drewburgh, AZ 04238",fulfilled,True,"9472 Pacheco Islands Suite 940
+Drewburgh, AZ 04238",xgv918sclaz40qlp2fee,sbrown@hughes.biz,16.166.2.0,(250)632-6631x02499
+8lfy8d,usu93euvb,14,False,vksokuxy,x,Voyager,False,card,14,"9472 Pacheco Islands Suite 940
+Drewburgh, AZ 04238",fulfilled,True,"9472 Pacheco Islands Suite 940
+Drewburgh, AZ 04238",xgv918sclaz40qlp2fee,sbrown@hughes.biz,16.166.2.0,(250)632-6631x02499
+gv51sp,wsy5c41nf,21,False,get2kwes,B,Voyager,False,card,21,"9472 Pacheco Islands Suite 940
+Drewburgh, AZ 04238",fulfilled,True,"9472 Pacheco Islands Suite 940
+Drewburgh, AZ 04238",xgv918sclaz40qlp2fee,sbrown@hughes.biz,16.166.2.0,(250)632-6631x02499
+zmwtn6,usu93euvb,43,False,8hqq8gnj,x,Voyager,False,card,43,"9472 Pacheco Islands Suite 940
+Drewburgh, AZ 04238",fulfilled,True,"9472 Pacheco Islands Suite 940
+Drewburgh, AZ 04238",xgv918sclaz40qlp2fee,sbrown@hughes.biz,16.166.2.0,(250)632-6631x02499
+heeu8i,vmktpy2mv,27,False,iwe4sw3m,o,Discover,False,card,27,"9472 Pacheco Islands Suite 940
+Drewburgh, AZ 04238",fulfilled,True,"9472 Pacheco Islands Suite 940
+Drewburgh, AZ 04238",xgv918sclaz40qlp2fee,sbrown@hughes.biz,16.166.2.0,(250)632-6631x02499
+vcyuse,j3foo2l16,35,False,qio8vvq7,Vertex Bancorp,JCB 16 digit,False,card,35,"548 Bryant Inlet
+Veronicaside, OK 00522",fulfilled,True,"548 Bryant Inlet
+Veronicaside, OK 00522",969zz9zdj8z4gns4sx5p,johnlowery@gmail.com,f82c:811f:8a02:e2d6:79b:fcaa:42de:570b,635.676.0955x524
+tc712d,j3foo2l16,27,False,g3bqf8xd,Vertex Bancorp,JCB 16 digit,False,card,27,"60072 Stokes Walk Suite 799
+Ashleyfort, RI 90265",fulfilled,True,"548 Bryant Inlet
+Veronicaside, OK 00522",969zz9zdj8z4gns4sx5p,johnlowery@gmail.com,f82c:811f:8a02:e2d6:79b:fcaa:42de:570b,635.676.0955x524
+jhaub8,xpd7j7c5g,13,False,xi23rned,Fountain Financial Inc.,JCB 16 digit,False,card,13,"81025 Erin Grove
+South Julieville, DC 96006",fulfilled,True,"548 Bryant Inlet
+Veronicaside, OK 00522",969zz9zdj8z4gns4sx5p,johnlowery@gmail.com,f82c:811f:8a02:e2d6:79b:fcaa:42de:570b,635.676.0955x524
+7h0dat,xpd7j7c5g,46,False,my4g00b1,Fountain Financial Inc.,JCB 16 digit,False,card,46,"548 Bryant Inlet
+Veronicaside, OK 00522",fulfilled,True,"548 Bryant Inlet
+Veronicaside, OK 00522",969zz9zdj8z4gns4sx5p,johnlowery@gmail.com,f82c:811f:8a02:e2d6:79b:fcaa:42de:570b,635.676.0955x524
+9s9ne9,kcg6rzgch,49,False,1uusmhj9,Citizens First Banks,Maestro,False,card,49,"16953 Jennifer Springs
+Kathybury, IL 02095-3215",failed,True,"16953 Jennifer Springs
+Kathybury, IL 02095-3215",navessqcnmc9csfjn5cj,ethompson@jackson-sanders.com,203.246.172.244,962.300.2250
+t76ess,1tmkeoxbm,54,True,aph71b7b,Bulwark Trust Corp.,American Express,False,card,54,"935 Michelle Square
+Lake Emilyville, AZ 70872",fulfilled,True,"16953 Jennifer Springs
+Kathybury, IL 02095-3215",navessqcnmc9csfjn5cj,ethompson@jackson-sanders.com,203.246.172.244,962.300.2250
+t76ess,oycs53i0s,54,False,1exu7d21,Citizens First Banks,Voyager,False,card,54,"935 Michelle Square
+Lake Emilyville, AZ 70872",fulfilled,True,"16953 Jennifer Springs
+Kathybury, IL 02095-3215",navessqcnmc9csfjn5cj,ethompson@jackson-sanders.com,203.246.172.244,962.300.2250
+cbxamb,1tmkeoxbm,37,False,piabwn96,Bulwark Trust Corp.,American Express,False,card,37,"2798 Berger Fords Apt. 853
+Kochton, MT 00589",fulfilled,True,"16953 Jennifer Springs
+Kathybury, IL 02095-3215",navessqcnmc9csfjn5cj,ethompson@jackson-sanders.com,203.246.172.244,962.300.2250
+cbxamb,pj3k9zcc7,37,True,yneqvvwj,Solace Banks,JCB 16 digit,False,bitcoin,37,"2798 Berger Fords Apt. 853
+Kochton, MT 00589",fulfilled,True,"16953 Jennifer Springs
+Kathybury, IL 02095-3215",navessqcnmc9csfjn5cj,ethompson@jackson-sanders.com,203.246.172.244,962.300.2250
+zynstd,oycs53i0s,64,False,yb9ejssg,Citizens First Banks,Voyager,False,card,64,"46911 Blankenship Lakes
+Hernandezside, IN 46923-6076",fulfilled,True,"16953 Jennifer Springs
+Kathybury, IL 02095-3215",navessqcnmc9csfjn5cj,ethompson@jackson-sanders.com,203.246.172.244,962.300.2250
+diw3zx,oycs53i0s,40,False,j3xzwavj,Citizens First Banks,Voyager,False,card,40,"16953 Jennifer Springs
+Kathybury, IL 02095-3215",fulfilled,True,"16953 Jennifer Springs
+Kathybury, IL 02095-3215",navessqcnmc9csfjn5cj,ethompson@jackson-sanders.com,203.246.172.244,962.300.2250
+wjq6ep,pj3k9zcc7,43,False,l2t3xn9z,Solace Banks,JCB 16 digit,False,bitcoin,43,"16953 Jennifer Springs
+Kathybury, IL 02095-3215",fulfilled,True,"16953 Jennifer Springs
+Kathybury, IL 02095-3215",navessqcnmc9csfjn5cj,ethompson@jackson-sanders.com,203.246.172.244,962.300.2250
+ow1cih,3zmkegkb8,23,False,6incxb5x,Bastion Banks,JCB 15 digit,False,paypal,23,"130 Kimberly Junctions
+Ericmouth, KS 59756-2919",fulfilled,False,"130 Kimberly Junctions
+Ericmouth, KS 59756-2919",lu4fgcug8dr0dwbcuui1,dawn05@tucker-brown.com,132.132.95.33,(089)703-7360x8848
+1bubxa,3zmkegkb8,25,True,wmh52bns,Bastion Banks,JCB 15 digit,False,paypal,25,"130 Kimberly Junctions
+Ericmouth, KS 59756-2919",fulfilled,False,"130 Kimberly Junctions
+Ericmouth, KS 59756-2919",lu4fgcug8dr0dwbcuui1,dawn05@tucker-brown.com,132.132.95.33,(089)703-7360x8848
+1bubxa,7yen1m1q8,25,True,7yilsi1o,Vertex Bancorp,VISA 13 digit,False,card,25,"130 Kimberly Junctions
+Ericmouth, KS 59756-2919",fulfilled,False,"130 Kimberly Junctions
+Ericmouth, KS 59756-2919",lu4fgcug8dr0dwbcuui1,dawn05@tucker-brown.com,132.132.95.33,(089)703-7360x8848
+1bubxa,7yen1m1q8,25,False,c82k5bcv,Vertex Bancorp,VISA 13 digit,False,card,25,"130 Kimberly Junctions
+Ericmouth, KS 59756-2919",fulfilled,False,"130 Kimberly Junctions
+Ericmouth, KS 59756-2919",lu4fgcug8dr0dwbcuui1,dawn05@tucker-brown.com,132.132.95.33,(089)703-7360x8848
+p0gdbf,3zmkegkb8,19,False,xdw33hfp,Bastion Banks,JCB 15 digit,False,paypal,19,"130 Kimberly Junctions
+Ericmouth, KS 59756-2919",fulfilled,False,"130 Kimberly Junctions
+Ericmouth, KS 59756-2919",lu4fgcug8dr0dwbcuui1,dawn05@tucker-brown.com,132.132.95.33,(089)703-7360x8848
+ak5a9n,7yen1m1q8,32,False,wpd29k0c,Vertex Bancorp,VISA 13 digit,False,card,32,"750 Sarah Stream
+Andersonfurt, WI 68970",fulfilled,False,"130 Kimberly Junctions
+Ericmouth, KS 59756-2919",lu4fgcug8dr0dwbcuui1,dawn05@tucker-brown.com,132.132.95.33,(089)703-7360x8848
+5lmvrj,f0xnu5om9,27,False,wgmajf82,His Majesty Bank Corp.,JCB 16 digit,False,card,27,"539 Branch Shore
+Lake Roy, IA 11884",fulfilled,False,"130 Kimberly Junctions
+Ericmouth, KS 59756-2919",lu4fgcug8dr0dwbcuui1,dawn05@tucker-brown.com,132.132.95.33,(089)703-7360x8848
